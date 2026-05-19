@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD30860014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভেদরগঞ্জ",
+      "en": "Bhedarganj",
+      "slug": "bhedarganj-bd30860014"
+    },
+    "code": {
+      "id": "BD30860014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3086",
+      "level": 2,
+      "name": {
+        "local": "শরিয়তপুর",
+        "en": "Shariatpur",
+        "slug": "shariatpur-bd3086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3086",
+        "level": 2,
+        "name": {
+          "local": "শরিয়তপুর",
+          "en": "Shariatpur",
+          "slug": "shariatpur-bd3086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5721"
+    ],
+    "geo": {
+      "lat": "23.248",
+      "lon": "90.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30860025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ডামুড্যা",
+      "en": "Damudya",
+      "slug": "damudya-bd30860025"
+    },
+    "code": {
+      "id": "BD30860025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3086",
+      "level": 2,
+      "name": {
+        "local": "শরিয়তপুর",
+        "en": "Shariatpur",
+        "slug": "shariatpur-bd3086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3086",
+        "level": 2,
+        "name": {
+          "local": "শরিয়তপুর",
+          "en": "Shariatpur",
+          "slug": "shariatpur-bd3086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8040"
+    ],
+    "geo": {
+      "lat": "23.14",
+      "lon": "90.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30860036",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোসাইরহাট",
+      "en": "Gosairhat",
+      "slug": "gosairhat-bd30860036"
+    },
+    "code": {
+      "id": "BD30860036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3086",
+      "level": 2,
+      "name": {
+        "local": "শরিয়তপুর",
+        "en": "Shariatpur",
+        "slug": "shariatpur-bd3086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3086",
+        "level": 2,
+        "name": {
+          "local": "শরিয়তপুর",
+          "en": "Shariatpur",
+          "slug": "shariatpur-bd3086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8050"
+    ],
+    "geo": {
+      "lat": "23.082",
+      "lon": "90.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30860065",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নড়িয়া",
+      "en": "Naria",
+      "slug": "naria-bd30860065"
+    },
+    "code": {
+      "id": "BD30860065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3086",
+      "level": 2,
+      "name": {
+        "local": "শরিয়তপুর",
+        "en": "Shariatpur",
+        "slug": "shariatpur-bd3086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3086",
+        "level": 2,
+        "name": {
+          "local": "শরিয়তপুর",
+          "en": "Shariatpur",
+          "slug": "shariatpur-bd3086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8021"
+    ],
+    "geo": {
+      "lat": "23.306",
+      "lon": "90.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30860069",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শরিয়তপুর সদর",
+      "en": "Shariatpur Sadar",
+      "slug": "shariatpur-sadar-bd30860069"
+    },
+    "code": {
+      "id": "BD30860069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3086",
+      "level": 2,
+      "name": {
+        "local": "শরিয়তপুর",
+        "en": "Shariatpur",
+        "slug": "shariatpur-bd3086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3086",
+        "level": 2,
+        "name": {
+          "local": "শরিয়তপুর",
+          "en": "Shariatpur",
+          "slug": "shariatpur-bd3086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8001"
+    ],
+    "geo": {
+      "lat": "23.219",
+      "lon": "90.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30860094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জাজিরা",
+      "en": "Zajira",
+      "slug": "zajira-bd30860094"
+    },
+    "code": {
+      "id": "BD30860094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3086",
+      "level": 2,
+      "name": {
+        "local": "শরিয়তপুর",
+        "en": "Shariatpur",
+        "slug": "shariatpur-bd3086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3086",
+        "level": 2,
+        "name": {
+          "local": "শরিয়তপুর",
+          "en": "Shariatpur",
+          "slug": "shariatpur-bd3086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8010"
+    ],
+    "geo": {
+      "lat": "23.366",
+      "lon": "90.324"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

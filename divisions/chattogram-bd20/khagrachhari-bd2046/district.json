@@ -1,0 +1,49 @@
+{
+  "id": "BD2046",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "খাগড়াছড়ি",
+    "en": "Khagrachhari",
+    "slug": "khagrachhari-bd2046"
+  },
+  "code": {
+    "id": "BD2046",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "4420"
+  ],
+  "geo": {
+    "lat": "23.172",
+    "lon": "91.956"
+  },
+  "metadata": {},
+  "source": {}
+}

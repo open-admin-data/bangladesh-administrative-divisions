@@ -1,0 +1,674 @@
+[
+  {
+    "id": "BD50100006",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আদমদিঘি",
+      "en": "Adamdighi",
+      "slug": "adamdighi-bd50100006"
+    },
+    "code": {
+      "id": "BD50100006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5890"
+    ],
+    "geo": {
+      "lat": "24.8",
+      "lon": "89.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100020",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মাগুরা সদর",
+      "en": "Bogura Sadar",
+      "slug": "bogura-sadar-bd50100020"
+    },
+    "code": {
+      "id": "BD50100020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7600"
+    ],
+    "geo": {
+      "lat": "24.895",
+      "lon": "89.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100027",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ধুনট",
+      "en": "Dhunat",
+      "slug": "dhunat-bd50100027"
+    },
+    "code": {
+      "id": "BD50100027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5850"
+    ],
+    "geo": {
+      "lat": "24.683",
+      "lon": "89.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দুপচাঁচিয়া",
+      "en": "Dupchachia",
+      "slug": "dupchachia-bd50100033"
+    },
+    "code": {
+      "id": "BD50100033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5880"
+    ],
+    "geo": {
+      "lat": "24.882",
+      "lon": "89.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100040",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গাবতলী",
+      "en": "Gabtali",
+      "slug": "gabtali-bd50100040"
+    },
+    "code": {
+      "id": "BD50100040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5820"
+    ],
+    "geo": {
+      "lat": "24.887",
+      "lon": "89.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100054",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাহালু",
+      "en": "Kahaloo",
+      "slug": "kahaloo-bd50100054"
+    },
+    "code": {
+      "id": "BD50100054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5870"
+    ],
+    "geo": {
+      "lat": "24.833",
+      "lon": "89.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100067",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নন্দিগ্রাম",
+      "en": "Nandigram",
+      "slug": "nandigram-bd50100067"
+    },
+    "code": {
+      "id": "BD50100067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5860"
+    ],
+    "geo": {
+      "lat": "24.681",
+      "lon": "89.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100081",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সারিয়াকান্দি",
+      "en": "Sariakandi",
+      "slug": "sariakandi-bd50100081"
+    },
+    "code": {
+      "id": "BD50100081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5831"
+    ],
+    "geo": {
+      "lat": "24.879",
+      "lon": "89.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শাজাহানপুর",
+      "en": "Shajahanpur",
+      "slug": "shajahanpur-bd50100085"
+    },
+    "code": {
+      "id": "BD50100085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5801"
+    ],
+    "geo": {
+      "lat": "24.76",
+      "lon": "89.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100088",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শেরপুর",
+      "en": "Sherpur",
+      "slug": "sherpur-bd50100088"
+    },
+    "code": {
+      "id": "BD50100088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5841"
+    ],
+    "geo": {
+      "lat": "24.629",
+      "lon": "89.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শিবগঞ্জ",
+      "en": "Shibganj",
+      "slug": "shibganj-bd50100094"
+    },
+    "code": {
+      "id": "BD50100094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5810"
+    ],
+    "geo": {
+      "lat": "25.017",
+      "lon": "89.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50100095",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সোনাতলা",
+      "en": "Sonatala",
+      "slug": "sonatala-bd50100095"
+    },
+    "code": {
+      "id": "BD50100095",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5010",
+      "level": 2,
+      "name": {
+        "local": "বগুড়া",
+        "en": "Bogura",
+        "slug": "bogura-bd5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5010",
+        "level": 2,
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5826"
+    ],
+    "geo": {
+      "lat": "24.997",
+      "lon": "89.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

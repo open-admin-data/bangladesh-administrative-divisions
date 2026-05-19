@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD40470012",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বটিয়াঘাটা",
+      "en": "Batiaghata",
+      "slug": "batiaghata-bd40470012"
+    },
+    "code": {
+      "id": "BD40470012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9260"
+    ],
+    "geo": {
+      "lat": "22.713",
+      "lon": "89.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470017",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দাকোপ",
+      "en": "Dacope",
+      "slug": "dacope-bd40470017"
+    },
+    "code": {
+      "id": "BD40470017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9350"
+    ],
+    "geo": {
+      "lat": "22.242",
+      "lon": "89.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470040",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাঠালিয়া",
+      "en": "Dighalia",
+      "slug": "dighalia-bd40470040"
+    },
+    "code": {
+      "id": "BD40470040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9220"
+    ],
+    "geo": {
+      "lat": "22.922",
+      "lon": "89.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470030",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ডুমুরিয়া",
+      "en": "Dumuria",
+      "slug": "dumuria-bd40470030"
+    },
+    "code": {
+      "id": "BD40470030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9250"
+    ],
+    "geo": {
+      "lat": "22.806",
+      "lon": "89.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470053",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কয়রা",
+      "en": "Koyra",
+      "slug": "koyra-bd40470053"
+    },
+    "code": {
+      "id": "BD40470053",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9291"
+    ],
+    "geo": {
+      "lat": "22.078",
+      "lon": "89.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470064",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চৌগাছা",
+      "en": "Paikgachha",
+      "slug": "paikgachha-bd40470064"
+    },
+    "code": {
+      "id": "BD40470064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9284"
+    ],
+    "geo": {
+      "lat": "22.59",
+      "lon": "89.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470069",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফুলতলা",
+      "en": "Phultala",
+      "slug": "phultala-bd40470069"
+    },
+    "code": {
+      "id": "BD40470069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9210"
+    ],
+    "geo": {
+      "lat": "22.948",
+      "lon": "89.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470075",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রূপসা",
+      "en": "Rupsa",
+      "slug": "rupsa-bd40470075"
+    },
+    "code": {
+      "id": "BD40470075",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9100"
+    ],
+    "geo": {
+      "lat": "22.819",
+      "lon": "89.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40470094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তেরখাদা",
+      "en": "Terokhada",
+      "slug": "terokhada-bd40470094"
+    },
+    "code": {
+      "id": "BD40470094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4047",
+      "level": 2,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd4047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4047",
+        "level": 2,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9230"
+    ],
+    "geo": {
+      "lat": "22.914",
+      "lon": "89.655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

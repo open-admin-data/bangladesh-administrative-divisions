@@ -1,0 +1,49 @@
+{
+  "id": "BD5070",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "চাঁপাইনবাবগঞ্জ",
+    "en": "Chapainababganj",
+    "slug": "chapainababganj-bd5070"
+  },
+  "code": {
+    "id": "BD5070",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "6300"
+  ],
+  "geo": {
+    "lat": "24.716",
+    "lon": "88.264"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "BD4001",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "বাগেরহাট",
+    "en": "Bagerhat",
+    "slug": "bagerhat-bd4001"
+  },
+  "code": {
+    "id": "BD4001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD40",
+    "level": 1,
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "9300"
+  ],
+  "geo": {
+    "lat": "22.329",
+    "lon": "89.744"
+  },
+  "metadata": {},
+  "source": {}
+}

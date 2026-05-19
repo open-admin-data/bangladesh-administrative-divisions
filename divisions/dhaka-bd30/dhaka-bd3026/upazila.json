@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD30260014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ধামরাই",
+      "en": "Dhamrai",
+      "slug": "dhamrai-bd30260014"
+    },
+    "code": {
+      "id": "BD30260014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3026",
+      "level": 2,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd3026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3026",
+        "level": 2,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd3026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1350"
+    ],
+    "geo": {
+      "lat": "23.939",
+      "lon": "90.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30260018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দোহার",
+      "en": "Dohar",
+      "slug": "dohar-bd30260018"
+    },
+    "code": {
+      "id": "BD30260018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3026",
+      "level": 2,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd3026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3026",
+        "level": 2,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd3026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1330"
+    ],
+    "geo": {
+      "lat": "23.602",
+      "lon": "90.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30260038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কেরাণীগঞ্জ",
+      "en": "Keraniganj",
+      "slug": "keraniganj-bd30260038"
+    },
+    "code": {
+      "id": "BD30260038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3026",
+      "level": 2,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd3026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3026",
+        "level": 2,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd3026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1312"
+    ],
+    "geo": {
+      "lat": "23.694",
+      "lon": "90.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30260062",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নবাবগঞ্জ",
+      "en": "Nawabganj",
+      "slug": "nawabganj-bd30260062"
+    },
+    "code": {
+      "id": "BD30260062",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3026",
+      "level": 2,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd3026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3026",
+        "level": 2,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd3026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1323"
+    ],
+    "geo": {
+      "lat": "23.672",
+      "lon": "90.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30260072",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাভার",
+      "en": "Savar",
+      "slug": "savar-bd30260072"
+    },
+    "code": {
+      "id": "BD30260072",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3026",
+      "level": 2,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd3026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3026",
+        "level": 2,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd3026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1348"
+    ],
+    "geo": {
+      "lat": "23.88",
+      "lon": "90.281"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

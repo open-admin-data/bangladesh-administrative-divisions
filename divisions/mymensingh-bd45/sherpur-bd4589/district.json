@@ -1,0 +1,49 @@
+{
+  "id": "BD4589",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "শেরপুর",
+    "en": "Sherpur",
+    "slug": "sherpur-bd4589"
+  },
+  "code": {
+    "id": "BD4589",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD45",
+    "level": 1,
+    "name": {
+      "local": "ময়মনসিংহ",
+      "en": "Mymensingh",
+      "slug": "mymensingh-bd45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "2140"
+  ],
+  "geo": {
+    "lat": "25.083",
+    "lon": "90.075"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "BD1006",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "বরিশাল",
+    "en": "Barishal",
+    "slug": "barishal-bd1006"
+  },
+  "code": {
+    "id": "BD1006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD10",
+    "level": 1,
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 10
+  },
+  "zip_codes": [
+    "8240"
+  ],
+  "geo": {
+    "lat": "22.819",
+    "lon": "90.369"
+  },
+  "metadata": {},
+  "source": {}
+}

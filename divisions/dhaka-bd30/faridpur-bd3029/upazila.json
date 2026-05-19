@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD30290003",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আলফাডাঙ্গা",
+      "en": "Alfadanga",
+      "slug": "alfadanga-bd30290003"
+    },
+    "code": {
+      "id": "BD30290003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7870"
+    ],
+    "geo": {
+      "lat": "23.295",
+      "lon": "89.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290010",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভাঙ্গা",
+      "en": "Bhanga",
+      "slug": "bhanga-bd30290010"
+    },
+    "code": {
+      "id": "BD30290010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7830"
+    ],
+    "geo": {
+      "lat": "23.389",
+      "lon": "90.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বোয়ালমারী",
+      "en": "Boalmari",
+      "slug": "boalmari-bd30290018"
+    },
+    "code": {
+      "id": "BD30290018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7860"
+    ],
+    "geo": {
+      "lat": "23.399",
+      "lon": "89.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290021",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চরভদ্রাসন",
+      "en": "Char Bhadrasan",
+      "slug": "char-bhadrasan-bd30290021"
+    },
+    "code": {
+      "id": "BD30290021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7800"
+    ],
+    "geo": {
+      "lat": "23.59",
+      "lon": "89.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফরিদপুর সদর",
+      "en": "Faridpur Sadar",
+      "slug": "faridpur-sadar-bd30290047"
+    },
+    "code": {
+      "id": "BD30290047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7802"
+    ],
+    "geo": {
+      "lat": "23.597",
+      "lon": "89.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মধুখালী",
+      "en": "Madhukhali",
+      "slug": "madhukhali-bd30290056"
+    },
+    "code": {
+      "id": "BD30290056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7850"
+    ],
+    "geo": {
+      "lat": "23.541",
+      "lon": "89.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290062",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নগরকান্দা",
+      "en": "Nagarkanda",
+      "slug": "nagarkanda-bd30290062"
+    },
+    "code": {
+      "id": "BD30290062",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7840"
+    ],
+    "geo": {
+      "lat": "23.434",
+      "lon": "89.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290084",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সদরপুর",
+      "en": "Sadarpur",
+      "slug": "sadarpur-bd30290084"
+    },
+    "code": {
+      "id": "BD30290084",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7822"
+    ],
+    "geo": {
+      "lat": "23.498",
+      "lon": "90.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30290090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সালথা",
+      "en": "Saltha",
+      "slug": "saltha-bd30290090"
+    },
+    "code": {
+      "id": "BD30290090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3029",
+      "level": 2,
+      "name": {
+        "local": "ফরিদপুর",
+        "en": "Faridpur",
+        "slug": "faridpur-bd3029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3029",
+        "level": 2,
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7801"
+    ],
+    "geo": {
+      "lat": "23.418",
+      "lon": "89.801"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

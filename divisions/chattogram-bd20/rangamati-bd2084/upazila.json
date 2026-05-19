@@ -1,0 +1,562 @@
+[
+  {
+    "id": "BD20840007",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাঘাইছড়ি",
+      "en": "Baghaichhari",
+      "slug": "baghaichhari-bd20840007"
+    },
+    "code": {
+      "id": "BD20840007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4550"
+    ],
+    "geo": {
+      "lat": "23.383",
+      "lon": "92.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840021",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বরকল",
+      "en": "Barkal",
+      "slug": "barkal-bd20840021"
+    },
+    "code": {
+      "id": "BD20840021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4570"
+    ],
+    "geo": {
+      "lat": "22.831",
+      "lon": "92.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840029",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বিলাইছড়ি",
+      "en": "Belaichhari",
+      "slug": "belaichhari-bd20840029"
+    },
+    "code": {
+      "id": "BD20840029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4550"
+    ],
+    "geo": {
+      "lat": "22.257",
+      "lon": "92.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জুরাছড়ি",
+      "en": "Jurachhari",
+      "slug": "jurachhari-bd20840047"
+    },
+    "code": {
+      "id": "BD20840047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4560"
+    ],
+    "geo": {
+      "lat": "22.559",
+      "lon": "92.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840036",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাপ্তাই",
+      "en": "Kaptai",
+      "slug": "kaptai-bd20840036"
+    },
+    "code": {
+      "id": "BD20840036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4531"
+    ],
+    "geo": {
+      "lat": "22.462",
+      "lon": "92.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাউখালী",
+      "en": "Kawkhali",
+      "slug": "kawkhali-bd20840025"
+    },
+    "code": {
+      "id": "BD20840025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4510"
+    ],
+    "geo": {
+      "lat": "22.623",
+      "lon": "92.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লংগদু",
+      "en": "Langadu",
+      "slug": "langadu-bd20840058"
+    },
+    "code": {
+      "id": "BD20840058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4580"
+    ],
+    "geo": {
+      "lat": "22.97",
+      "lon": "92.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840075",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নানিয়ারচর",
+      "en": "Naniarchar",
+      "slug": "naniarchar-bd20840075"
+    },
+    "code": {
+      "id": "BD20840075",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2341"
+    ],
+    "geo": {
+      "lat": "22.834",
+      "lon": "92.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840078",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাজস্থলী",
+      "en": "Rajasthali",
+      "slug": "rajasthali-bd20840078"
+    },
+    "code": {
+      "id": "BD20840078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4540"
+    ],
+    "geo": {
+      "lat": "22.372",
+      "lon": "92.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20840087",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাঙ্গামাটি সদর",
+      "en": "Rangamati Sadar",
+      "slug": "rangamati-sadar-bd20840087"
+    },
+    "code": {
+      "id": "BD20840087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2084",
+      "level": 2,
+      "name": {
+        "local": "রাঙ্গামাটি",
+        "en": "Rangamati",
+        "slug": "rangamati-bd2084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2084",
+        "level": 2,
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4500"
+    ],
+    "geo": {
+      "lat": "22.645",
+      "lon": "92.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD30540018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ডাসার",
+      "en": "Dasar",
+      "slug": "dasar-bd30540018"
+    },
+    "code": {
+      "id": "BD30540018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3054",
+      "level": 2,
+      "name": {
+        "local": "মাদারীপুর",
+        "en": "Madaripur",
+        "slug": "madaripur-bd3054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3054",
+        "level": 2,
+        "name": {
+          "local": "মাদারীপুর",
+          "en": "Madaripur",
+          "slug": "madaripur-bd3054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7900"
+    ],
+    "geo": {
+      "lat": "23.092",
+      "lon": "90.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30540040",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালকিনি",
+      "en": "Kalkini",
+      "slug": "kalkini-bd30540040"
+    },
+    "code": {
+      "id": "BD30540040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3054",
+      "level": 2,
+      "name": {
+        "local": "মাদারীপুর",
+        "en": "Madaripur",
+        "slug": "madaripur-bd3054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3054",
+        "level": 2,
+        "name": {
+          "local": "মাদারীপুর",
+          "en": "Madaripur",
+          "slug": "madaripur-bd3054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7920"
+    ],
+    "geo": {
+      "lat": "23.067",
+      "lon": "90.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30540054",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মাদারীপুর সদর",
+      "en": "Madaripur Sadar",
+      "slug": "madaripur-sadar-bd30540054"
+    },
+    "code": {
+      "id": "BD30540054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3054",
+      "level": 2,
+      "name": {
+        "local": "মাদারীপুর",
+        "en": "Madaripur",
+        "slug": "madaripur-bd3054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3054",
+        "level": 2,
+        "name": {
+          "local": "মাদারীপুর",
+          "en": "Madaripur",
+          "slug": "madaripur-bd3054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7901"
+    ],
+    "geo": {
+      "lat": "23.191",
+      "lon": "90.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30540080",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাজৈর",
+      "en": "Rajoir",
+      "slug": "rajoir-bd30540080"
+    },
+    "code": {
+      "id": "BD30540080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3054",
+      "level": 2,
+      "name": {
+        "local": "মাদারীপুর",
+        "en": "Madaripur",
+        "slug": "madaripur-bd3054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3054",
+        "level": 2,
+        "name": {
+          "local": "মাদারীপুর",
+          "en": "Madaripur",
+          "slug": "madaripur-bd3054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7911"
+    ],
+    "geo": {
+      "lat": "23.202",
+      "lon": "90.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30540087",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শিবচর",
+      "en": "Shibchar",
+      "slug": "shibchar-bd30540087"
+    },
+    "code": {
+      "id": "BD30540087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3054",
+      "level": 2,
+      "name": {
+        "local": "মাদারীপুর",
+        "en": "Madaripur",
+        "slug": "madaripur-bd3054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3054",
+        "level": 2,
+        "name": {
+          "local": "মাদারীপুর",
+          "en": "Madaripur",
+          "slug": "madaripur-bd3054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7930"
+    ],
+    "geo": {
+      "lat": "23.373",
+      "lon": "90.176"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

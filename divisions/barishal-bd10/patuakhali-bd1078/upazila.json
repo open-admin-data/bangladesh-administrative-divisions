@@ -1,0 +1,450 @@
+[
+  {
+    "id": "BD10780038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাউফল",
+      "en": "Bauphal",
+      "slug": "bauphal-bd10780038"
+    },
+    "code": {
+      "id": "BD10780038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8621"
+    ],
+    "geo": {
+      "lat": "22.437",
+      "lon": "90.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10780052",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দশমিনা",
+      "en": "Dashmina",
+      "slug": "dashmina-bd10780052"
+    },
+    "code": {
+      "id": "BD10780052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8630"
+    ],
+    "geo": {
+      "lat": "22.251",
+      "lon": "90.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10780055",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দুমকি",
+      "en": "Dumki",
+      "slug": "dumki-bd10780055"
+    },
+    "code": {
+      "id": "BD10780055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8602"
+    ],
+    "geo": {
+      "lat": "22.448",
+      "lon": "90.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10780057",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গলাচিপা",
+      "en": "Galachipa",
+      "slug": "galachipa-bd10780057"
+    },
+    "code": {
+      "id": "BD10780057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8640"
+    ],
+    "geo": {
+      "lat": "22.148",
+      "lon": "90.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10780066",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কলাপাড়া",
+      "en": "Kalapara",
+      "slug": "kalapara-bd10780066"
+    },
+    "code": {
+      "id": "BD10780066",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6762"
+    ],
+    "geo": {
+      "lat": "21.934",
+      "lon": "90.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10780076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মির্জাগঞ্জ",
+      "en": "Mirzaganj",
+      "slug": "mirzaganj-bd10780076"
+    },
+    "code": {
+      "id": "BD10780076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8610"
+    ],
+    "geo": {
+      "lat": "22.356",
+      "lon": "90.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10780095",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পটুয়াখালী সদর",
+      "en": "Patuakhali Sadar",
+      "slug": "patuakhali-sadar-bd10780095"
+    },
+    "code": {
+      "id": "BD10780095",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8602"
+    ],
+    "geo": {
+      "lat": "22.335",
+      "lon": "90.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10780097",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাঙ্গাবালী",
+      "en": "Rangabali",
+      "slug": "rangabali-bd10780097"
+    },
+    "code": {
+      "id": "BD10780097",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1078",
+      "level": 2,
+      "name": {
+        "local": "পটুয়াখালী",
+        "en": "Patuakhali",
+        "slug": "patuakhali-bd1078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1078",
+        "level": 2,
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8640"
+    ],
+    "geo": {
+      "lat": "21.932",
+      "lon": "90.43"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

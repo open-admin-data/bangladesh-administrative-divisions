@@ -1,0 +1,562 @@
+[
+  {
+    "id": "BD45720004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আটপাড়া",
+      "en": "Atpara",
+      "slug": "atpara-bd45720004"
+    },
+    "code": {
+      "id": "BD45720004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2470"
+    ],
+    "geo": {
+      "lat": "24.794",
+      "lon": "90.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720009",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বারহাট্টা",
+      "en": "Barhatta",
+      "slug": "barhatta-bd45720009"
+    },
+    "code": {
+      "id": "BD45720009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2440"
+    ],
+    "geo": {
+      "lat": "24.922",
+      "lon": "90.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দুর্গাপুর",
+      "en": "Durgapur",
+      "slug": "durgapur-bd45720018"
+    },
+    "code": {
+      "id": "BD45720018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6240"
+    ],
+    "geo": {
+      "lat": "25.089",
+      "lon": "90.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720040",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কলমাকান্দা",
+      "en": "Kalmakanda",
+      "slug": "kalmakanda-bd45720040"
+    },
+    "code": {
+      "id": "BD45720040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2430"
+    ],
+    "geo": {
+      "lat": "25.078",
+      "lon": "90.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কেন্দুয়া",
+      "en": "Kendua",
+      "slug": "kendua-bd45720047"
+    },
+    "code": {
+      "id": "BD45720047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2480"
+    ],
+    "geo": {
+      "lat": "24.678",
+      "lon": "90.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "খালিয়াজুরী",
+      "en": "Khaliajuri",
+      "slug": "khaliajuri-bd45720038"
+    },
+    "code": {
+      "id": "BD45720038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2460"
+    ],
+    "geo": {
+      "lat": "24.705",
+      "lon": "91.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মদন",
+      "en": "Madan",
+      "slug": "madan-bd45720056"
+    },
+    "code": {
+      "id": "BD45720056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2490"
+    ],
+    "geo": {
+      "lat": "24.678",
+      "lon": "90.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720063",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মোহনগঞ্জ",
+      "en": "Mohanganj",
+      "slug": "mohanganj-bd45720063"
+    },
+    "code": {
+      "id": "BD45720063",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2446"
+    ],
+    "geo": {
+      "lat": "24.828",
+      "lon": "91.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720074",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নেত্রকোণা সদর",
+      "en": "Netrakona Sadar",
+      "slug": "netrakona-sadar-bd45720074"
+    },
+    "code": {
+      "id": "BD45720074",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2401"
+    ],
+    "geo": {
+      "lat": "24.887",
+      "lon": "90.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45720083",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পূর্বধলা",
+      "en": "Purbadhala",
+      "slug": "purbadhala-bd45720083"
+    },
+    "code": {
+      "id": "BD45720083",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4572",
+      "level": 2,
+      "name": {
+        "local": "নেত্রকোনা",
+        "en": "Netrakona",
+        "slug": "netrakona-bd4572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4572",
+        "level": 2,
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2412"
+    ],
+    "geo": {
+      "lat": "24.934",
+      "lon": "90.603"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "BD6058",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "মৌলভীবাজার",
+    "en": "Moulvibazar",
+    "slug": "moulvibazar-bd6058"
+  },
+  "code": {
+    "id": "BD6058",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD60",
+    "level": 1,
+    "name": {
+      "local": "সিলেট",
+      "en": "Sylhet",
+      "slug": "sylhet-bd60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD60",
+      "level": 1,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd60"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 7
+  },
+  "zip_codes": [
+    "3250"
+  ],
+  "geo": {
+    "lat": "24.481",
+    "lon": "91.916"
+  },
+  "metadata": {},
+  "source": {}
+}

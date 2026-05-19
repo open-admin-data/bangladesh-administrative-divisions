@@ -1,0 +1,49 @@
+{
+  "id": "BD3035",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "গোপালগঞ্জ",
+    "en": "Gopalganj",
+    "slug": "gopalganj-bd3035"
+  },
+  "code": {
+    "id": "BD3035",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD30",
+    "level": 1,
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "8102"
+  ],
+  "geo": {
+    "lat": "23.105",
+    "lon": "89.899"
+  },
+  "metadata": {},
+  "source": {}
+}

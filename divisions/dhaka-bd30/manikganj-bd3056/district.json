@@ -1,0 +1,49 @@
+{
+  "id": "BD3056",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "মানিকগঞ্জ",
+    "en": "Manikganj",
+    "slug": "manikganj-bd3056"
+  },
+  "code": {
+    "id": "BD3056",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD30",
+    "level": 1,
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 7
+  },
+  "zip_codes": [
+    "1860"
+  ],
+  "geo": {
+    "lat": "23.841",
+    "lon": "89.951"
+  },
+  "metadata": {},
+  "source": {}
+}

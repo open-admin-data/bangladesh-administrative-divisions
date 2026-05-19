@@ -1,0 +1,954 @@
+[
+  {
+    "id": "BD20190067",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আদর্শ সদর",
+      "en": "Adarsha Sadar",
+      "slug": "adarsha-sadar-bd20190067"
+    },
+    "code": {
+      "id": "BD20190067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3501"
+    ],
+    "geo": {
+      "lat": "23.48",
+      "lon": "91.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190009",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বরুড়া",
+      "en": "Barura",
+      "slug": "barura-bd20190009"
+    },
+    "code": {
+      "id": "BD20190009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3560"
+    ],
+    "geo": {
+      "lat": "23.357",
+      "lon": "91.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190015",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ব্রাহ্মণপাড়া",
+      "en": "Brahmanpara",
+      "slug": "brahmanpara-bd20190015"
+    },
+    "code": {
+      "id": "BD20190015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3526"
+    ],
+    "geo": {
+      "lat": "23.647",
+      "lon": "91.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বুড়িচং",
+      "en": "Burichang",
+      "slug": "burichang-bd20190018"
+    },
+    "code": {
+      "id": "BD20190018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3520"
+    ],
+    "geo": {
+      "lat": "23.535",
+      "lon": "91.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190027",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চান্দিনা",
+      "en": "Chandina",
+      "slug": "chandina-bd20190027"
+    },
+    "code": {
+      "id": "BD20190027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3510"
+    ],
+    "geo": {
+      "lat": "23.446",
+      "lon": "90.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190031",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চৌদ্দগ্রাম",
+      "en": "Chauddagram",
+      "slug": "chauddagram-bd20190031"
+    },
+    "code": {
+      "id": "BD20190031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3551"
+    ],
+    "geo": {
+      "lat": "23.222",
+      "lon": "91.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190036",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দাউদকান্দি",
+      "en": "Daudkandi",
+      "slug": "daudkandi-bd20190036"
+    },
+    "code": {
+      "id": "BD20190036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3518"
+    ],
+    "geo": {
+      "lat": "23.503",
+      "lon": "90.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190040",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দেবিদ্বার",
+      "en": "Debidwar",
+      "slug": "debidwar-bd20190040"
+    },
+    "code": {
+      "id": "BD20190040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3531"
+    ],
+    "geo": {
+      "lat": "23.58",
+      "lon": "90.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190054",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হোমনা",
+      "en": "Homna",
+      "slug": "homna-bd20190054"
+    },
+    "code": {
+      "id": "BD20190054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3546"
+    ],
+    "geo": {
+      "lat": "23.68",
+      "lon": "90.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190072",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লাকসাম",
+      "en": "Laksam",
+      "slug": "laksam-bd20190072"
+    },
+    "code": {
+      "id": "BD20190072",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3572"
+    ],
+    "geo": {
+      "lat": "23.231",
+      "lon": "91.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190073",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লালমাই",
+      "en": "Lalmai",
+      "slug": "lalmai-bd20190073"
+    },
+    "code": {
+      "id": "BD20190073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3573"
+    ],
+    "geo": {
+      "lat": "23.298",
+      "lon": "91.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190074",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মনোহরগঞ্জ",
+      "en": "Manoharganj",
+      "slug": "manoharganj-bd20190074"
+    },
+    "code": {
+      "id": "BD20190074",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3562"
+    ],
+    "geo": {
+      "lat": "23.138",
+      "lon": "91.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190075",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মেঘনা",
+      "en": "Meghna",
+      "slug": "meghna-bd20190075"
+    },
+    "code": {
+      "id": "BD20190075",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3515"
+    ],
+    "geo": {
+      "lat": "23.626",
+      "lon": "90.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190081",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মুরাদনগর",
+      "en": "Muradnagar",
+      "slug": "muradnagar-bd20190081"
+    },
+    "code": {
+      "id": "BD20190081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3543"
+    ],
+    "geo": {
+      "lat": "23.678",
+      "lon": "90.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190087",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাঙ্গলকোট",
+      "en": "Nangalkot",
+      "slug": "nangalkot-bd20190087"
+    },
+    "code": {
+      "id": "BD20190087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3582"
+    ],
+    "geo": {
+      "lat": "23.14",
+      "lon": "91.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সদর দক্ষিণ",
+      "en": "Sadar Dakkhin",
+      "slug": "sadar-dakkhin-bd20190033"
+    },
+    "code": {
+      "id": "BD20190033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3500"
+    ],
+    "geo": {
+      "lat": "23.388",
+      "lon": "91.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20190094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তিতাস",
+      "en": "Titas",
+      "slug": "titas-bd20190094"
+    },
+    "code": {
+      "id": "BD20190094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2019",
+      "level": 2,
+      "name": {
+        "local": "কুমিল্লা",
+        "en": "Cumilla",
+        "slug": "cumilla-bd2019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2019",
+        "level": 2,
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3547"
+    ],
+    "geo": {
+      "lat": "23.591",
+      "lon": "90.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

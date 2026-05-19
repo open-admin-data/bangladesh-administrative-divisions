@@ -1,0 +1,49 @@
+{
+  "id": "BD2019",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "কুমিল্লা",
+    "en": "Cumilla",
+    "slug": "cumilla-bd2019"
+  },
+  "code": {
+    "id": "BD2019",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 17
+  },
+  "zip_codes": [
+    "3560"
+  ],
+  "geo": {
+    "lat": "23.437",
+    "lon": "91.033"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "BD55270010",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বিরামপুর",
+      "en": "Birampur",
+      "slug": "birampur-bd55270010"
+    },
+    "code": {
+      "id": "BD55270010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5266"
+    ],
+    "geo": {
+      "lat": "25.38",
+      "lon": "88.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270012",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বীরগঞ্জ",
+      "en": "Birganj",
+      "slug": "birganj-bd55270012"
+    },
+    "code": {
+      "id": "BD55270012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5220"
+    ],
+    "geo": {
+      "lat": "25.929",
+      "lon": "88.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270017",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বিরল",
+      "en": "Birol",
+      "slug": "birol-bd55270017"
+    },
+    "code": {
+      "id": "BD55270017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5210"
+    ],
+    "geo": {
+      "lat": "25.647",
+      "lon": "88.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270021",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বোচাগঞ্জ",
+      "en": "Bochaganj",
+      "slug": "bochaganj-bd55270021"
+    },
+    "code": {
+      "id": "BD55270021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5216"
+    ],
+    "geo": {
+      "lat": "25.786",
+      "lon": "88.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270030",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চিরিরবন্দর",
+      "en": "Chirirbandar",
+      "slug": "chirirbandar-bd55270030"
+    },
+    "code": {
+      "id": "BD55270030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5240"
+    ],
+    "geo": {
+      "lat": "25.667",
+      "lon": "88.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270064",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দিনাজপুর সদর",
+      "en": "Dinajpur Sadar",
+      "slug": "dinajpur-sadar-bd55270064"
+    },
+    "code": {
+      "id": "BD55270064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5201"
+    ],
+    "geo": {
+      "lat": "25.608",
+      "lon": "88.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফুলবাড়ী",
+      "en": "Fulbari",
+      "slug": "fulbari-bd55270038"
+    },
+    "code": {
+      "id": "BD55270038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2216"
+    ],
+    "geo": {
+      "lat": "25.471",
+      "lon": "88.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270043",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঘোড়াঘাট",
+      "en": "Ghoraghat",
+      "slug": "ghoraghat-bd55270043"
+    },
+    "code": {
+      "id": "BD55270043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5282"
+    ],
+    "geo": {
+      "lat": "25.287",
+      "lon": "89.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হাকিমপুর",
+      "en": "Hakimpur",
+      "slug": "hakimpur-bd55270047"
+    },
+    "code": {
+      "id": "BD55270047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5270"
+    ],
+    "geo": {
+      "lat": "25.293",
+      "lon": "89.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাহারোল",
+      "en": "Kaharole",
+      "slug": "kaharole-bd55270056"
+    },
+    "code": {
+      "id": "BD55270056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5226"
+    ],
+    "geo": {
+      "lat": "25.802",
+      "lon": "88.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270060",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "খানসামা",
+      "en": "Khansama",
+      "slug": "khansama-bd55270060"
+    },
+    "code": {
+      "id": "BD55270060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5230"
+    ],
+    "geo": {
+      "lat": "25.872",
+      "lon": "88.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270069",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নবাবগঞ্জ",
+      "en": "Nababganj",
+      "slug": "nababganj-bd55270069"
+    },
+    "code": {
+      "id": "BD55270069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5281"
+    ],
+    "geo": {
+      "lat": "25.421",
+      "lon": "89.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55270077",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পার্বতীপুর",
+      "en": "Parbatipur",
+      "slug": "parbatipur-bd55270077"
+    },
+    "code": {
+      "id": "BD55270077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5527",
+      "level": 2,
+      "name": {
+        "local": "দিনাজপুর",
+        "en": "Dinajpur",
+        "slug": "dinajpur-bd5527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5527",
+        "level": 2,
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5250"
+    ],
+    "geo": {
+      "lat": "25.62",
+      "lon": "88.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

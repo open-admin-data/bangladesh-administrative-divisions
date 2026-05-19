@@ -1,0 +1,226 @@
+[
+  {
+    "id": "BD40180007",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আলমডাঙ্গা",
+      "en": "Alamdanga",
+      "slug": "alamdanga-bd40180007"
+    },
+    "code": {
+      "id": "BD40180007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4018",
+      "level": 2,
+      "name": {
+        "local": "চুয়াডাঙ্গা",
+        "en": "Chuadanga",
+        "slug": "chuadanga-bd4018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4018",
+        "level": 2,
+        "name": {
+          "local": "চুয়াডাঙ্গা",
+          "en": "Chuadanga",
+          "slug": "chuadanga-bd4018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7210"
+    ],
+    "geo": {
+      "lat": "23.73",
+      "lon": "88.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40180023",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চুয়াডাঙ্গা সদর",
+      "en": "Chuadanga Sadar",
+      "slug": "chuadanga-sadar-bd40180023"
+    },
+    "code": {
+      "id": "BD40180023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4018",
+      "level": 2,
+      "name": {
+        "local": "চুয়াডাঙ্গা",
+        "en": "Chuadanga",
+        "slug": "chuadanga-bd4018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4018",
+        "level": 2,
+        "name": {
+          "local": "চুয়াডাঙ্গা",
+          "en": "Chuadanga",
+          "slug": "chuadanga-bd4018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7200"
+    ],
+    "geo": {
+      "lat": "23.589",
+      "lon": "88.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40180031",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দামুড়হুদা",
+      "en": "Damurhuda",
+      "slug": "damurhuda-bd40180031"
+    },
+    "code": {
+      "id": "BD40180031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4018",
+      "level": 2,
+      "name": {
+        "local": "চুয়াডাঙ্গা",
+        "en": "Chuadanga",
+        "slug": "chuadanga-bd4018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4018",
+        "level": 2,
+        "name": {
+          "local": "চুয়াডাঙ্গা",
+          "en": "Chuadanga",
+          "slug": "chuadanga-bd4018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7222"
+    ],
+    "geo": {
+      "lat": "23.592",
+      "lon": "88.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40180055",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জীবননগর",
+      "en": "Jibannagar",
+      "slug": "jibannagar-bd40180055"
+    },
+    "code": {
+      "id": "BD40180055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4018",
+      "level": 2,
+      "name": {
+        "local": "চুয়াডাঙ্গা",
+        "en": "Chuadanga",
+        "slug": "chuadanga-bd4018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4018",
+        "level": 2,
+        "name": {
+          "local": "চুয়াডাঙ্গা",
+          "en": "Chuadanga",
+          "slug": "chuadanga-bd4018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7230"
+    ],
+    "geo": {
+      "lat": "23.443",
+      "lon": "88.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD30670002",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আড়াইহাজার",
+      "en": "Araihazar",
+      "slug": "araihazar-bd30670002"
+    },
+    "code": {
+      "id": "BD30670002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3067",
+      "level": 2,
+      "name": {
+        "local": "নারায়ণগঞ্জ",
+        "en": "Narayanganj",
+        "slug": "narayanganj-bd3067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3067",
+        "level": 2,
+        "name": {
+          "local": "নারায়ণগঞ্জ",
+          "en": "Narayanganj",
+          "slug": "narayanganj-bd3067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1450"
+    ],
+    "geo": {
+      "lat": "23.764",
+      "lon": "90.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30670006",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বন্দর",
+      "en": "Bandar",
+      "slug": "bandar-bd30670006"
+    },
+    "code": {
+      "id": "BD30670006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3067",
+      "level": 2,
+      "name": {
+        "local": "নারায়ণগঞ্জ",
+        "en": "Narayanganj",
+        "slug": "narayanganj-bd3067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3067",
+        "level": 2,
+        "name": {
+          "local": "নারায়ণগঞ্জ",
+          "en": "Narayanganj",
+          "slug": "narayanganj-bd3067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1410"
+    ],
+    "geo": {
+      "lat": "23.641",
+      "lon": "90.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30670058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নারায়নগঞ্জ সদর",
+      "en": "Narayanganj Sadar",
+      "slug": "narayanganj-sadar-bd30670058"
+    },
+    "code": {
+      "id": "BD30670058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3067",
+      "level": 2,
+      "name": {
+        "local": "নারায়ণগঞ্জ",
+        "en": "Narayanganj",
+        "slug": "narayanganj-bd3067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3067",
+        "level": 2,
+        "name": {
+          "local": "নারায়ণগঞ্জ",
+          "en": "Narayanganj",
+          "slug": "narayanganj-bd3067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1400"
+    ],
+    "geo": {
+      "lat": "23.613",
+      "lon": "90.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30670068",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রূপগঞ্জ",
+      "en": "Rupganj",
+      "slug": "rupganj-bd30670068"
+    },
+    "code": {
+      "id": "BD30670068",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3067",
+      "level": 2,
+      "name": {
+        "local": "নারায়ণগঞ্জ",
+        "en": "Narayanganj",
+        "slug": "narayanganj-bd3067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3067",
+        "level": 2,
+        "name": {
+          "local": "নারায়ণগঞ্জ",
+          "en": "Narayanganj",
+          "slug": "narayanganj-bd3067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1462"
+    ],
+    "geo": {
+      "lat": "23.812",
+      "lon": "90.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30670004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সোনারগাঁ",
+      "en": "Sonargaon",
+      "slug": "sonargaon-bd30670004"
+    },
+    "code": {
+      "id": "BD30670004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3067",
+      "level": 2,
+      "name": {
+        "local": "নারায়ণগঞ্জ",
+        "en": "Narayanganj",
+        "slug": "narayanganj-bd3067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3067",
+        "level": 2,
+        "name": {
+          "local": "নারায়ণগঞ্জ",
+          "en": "Narayanganj",
+          "slug": "narayanganj-bd3067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1440"
+    ],
+    "geo": {
+      "lat": "23.675",
+      "lon": "90.594"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

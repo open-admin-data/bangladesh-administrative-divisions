@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD30680007",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বেলাবো",
+      "en": "Belabo",
+      "slug": "belabo-bd30680007"
+    },
+    "code": {
+      "id": "BD30680007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3068",
+      "level": 2,
+      "name": {
+        "local": "নরসিংদী",
+        "en": "Narsingdi",
+        "slug": "narsingdi-bd3068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3068",
+        "level": 2,
+        "name": {
+          "local": "নরসিংদী",
+          "en": "Narsingdi",
+          "slug": "narsingdi-bd3068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1640"
+    ],
+    "geo": {
+      "lat": "24.101",
+      "lon": "90.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30680052",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মনোহরদী",
+      "en": "Manohardi",
+      "slug": "manohardi-bd30680052"
+    },
+    "code": {
+      "id": "BD30680052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3068",
+      "level": 2,
+      "name": {
+        "local": "নরসিংদী",
+        "en": "Narsingdi",
+        "slug": "narsingdi-bd3068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3068",
+        "level": 2,
+        "name": {
+          "local": "নরসিংদী",
+          "en": "Narsingdi",
+          "slug": "narsingdi-bd3068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1640"
+    ],
+    "geo": {
+      "lat": "24.161",
+      "lon": "90.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30680060",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নরসিংদী সদর",
+      "en": "Narsingdi Sadar",
+      "slug": "narsingdi-sadar-bd30680060"
+    },
+    "code": {
+      "id": "BD30680060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3068",
+      "level": 2,
+      "name": {
+        "local": "নরসিংদী",
+        "en": "Narsingdi",
+        "slug": "narsingdi-bd3068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3068",
+        "level": 2,
+        "name": {
+          "local": "নরসিংদী",
+          "en": "Narsingdi",
+          "slug": "narsingdi-bd3068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1605"
+    ],
+    "geo": {
+      "lat": "23.869",
+      "lon": "90.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30680063",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পলাশ",
+      "en": "Palash",
+      "slug": "palash-bd30680063"
+    },
+    "code": {
+      "id": "BD30680063",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3068",
+      "level": 2,
+      "name": {
+        "local": "নরসিংদী",
+        "en": "Narsingdi",
+        "slug": "narsingdi-bd3068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3068",
+        "level": 2,
+        "name": {
+          "local": "নরসিংদী",
+          "en": "Narsingdi",
+          "slug": "narsingdi-bd3068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1612"
+    ],
+    "geo": {
+      "lat": "23.956",
+      "lon": "90.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30680064",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রায়পুরা",
+      "en": "Raipura",
+      "slug": "raipura-bd30680064"
+    },
+    "code": {
+      "id": "BD30680064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3068",
+      "level": 2,
+      "name": {
+        "local": "নরসিংদী",
+        "en": "Narsingdi",
+        "slug": "narsingdi-bd3068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3068",
+        "level": 2,
+        "name": {
+          "local": "নরসিংদী",
+          "en": "Narsingdi",
+          "slug": "narsingdi-bd3068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9240"
+    ],
+    "geo": {
+      "lat": "23.962",
+      "lon": "90.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30680076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শিবপুর",
+      "en": "Shibpur",
+      "slug": "shibpur-bd30680076"
+    },
+    "code": {
+      "id": "BD30680076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3068",
+      "level": 2,
+      "name": {
+        "local": "নরসিংদী",
+        "en": "Narsingdi",
+        "slug": "narsingdi-bd3068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3068",
+        "level": 2,
+        "name": {
+          "local": "নরসিংদী",
+          "en": "Narsingdi",
+          "slug": "narsingdi-bd3068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1620"
+    ],
+    "geo": {
+      "lat": "24.028",
+      "lon": "90.747"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

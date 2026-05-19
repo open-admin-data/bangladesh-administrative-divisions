@@ -1,0 +1,14 @@
+id,name.local,name.en,name.slug,code.id,children_count.upazila,zip_codes,geo.lat,geo.lon
+BD3026,ঢাকা,Dhaka,dhaka-bd3026,BD3026,5,1360,23.788,90.251
+BD3029,ফরিদপুর,Faridpur,faridpur-bd3029,BD3029,9,7870,23.478,89.836
+BD3033,গাজীপুর,Gazipur,gazipur-bd3033,BD3033,5,1703,24.099,90.446
+BD3035,গোপালগঞ্জ,Gopalganj,gopalganj-bd3035,BD3035,5,8102,23.105,89.899
+BD3048,কিশোরগঞ্জ,Kishoreganj,kishoreganj-bd3048,BD3048,13,2336,24.378,90.943
+BD3054,মাদারীপুর,Madaripur,madaripur-bd3054,BD3054,5,7932,23.222,90.166
+BD3056,মানিকগঞ্জ,Manikganj,manikganj-bd3056,BD3056,7,1860,23.841,89.951
+BD3059,মুন্সিগঞ্জ,Munshiganj,munshiganj-bd3059,BD3059,6,1510,23.526,90.416
+BD3067,নারায়ণগঞ্জ,Narayanganj,narayanganj-bd3067,BD3067,5,1450,23.724,90.578
+BD3068,নরসিংদী,Narsingdi,narsingdi-bd3068,BD3068,6,1640,24.003,90.774
+BD3082,রাজবাড়ী,Rajbari,rajbari-bd3082,BD3082,5,7730,23.729,89.561
+BD3086,শরিয়তপুর,Shariatpur,shariatpur-bd3086,BD3086,6,8030,23.245,90.415
+BD3093,টাঙ্গাইল,Tangail,tangail-bd3093,BD3093,12,1920,24.358,90

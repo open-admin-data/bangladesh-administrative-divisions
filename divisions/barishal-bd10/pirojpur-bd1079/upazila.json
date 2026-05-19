@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD10790014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভান্ডারিয়া",
+      "en": "Bhandaria",
+      "slug": "bhandaria-bd10790014"
+    },
+    "code": {
+      "id": "BD10790014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1079",
+      "level": 2,
+      "name": {
+        "local": "পিরোজপুর",
+        "en": "Pirojpur",
+        "slug": "pirojpur-bd1079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1079",
+        "level": 2,
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8550"
+    ],
+    "geo": {
+      "lat": "22.452",
+      "lon": "90.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10790090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ইন্দুরকানী",
+      "en": "Indurkani",
+      "slug": "indurkani-bd10790090"
+    },
+    "code": {
+      "id": "BD10790090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1079",
+      "level": 2,
+      "name": {
+        "local": "পিরোজপুর",
+        "en": "Pirojpur",
+        "slug": "pirojpur-bd1079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1079",
+        "level": 2,
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8502"
+    ],
+    "geo": {
+      "lat": "22.466",
+      "lon": "89.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10790047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাউখালী",
+      "en": "Kawkhali",
+      "slug": "kawkhali-bd10790047"
+    },
+    "code": {
+      "id": "BD10790047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1079",
+      "level": 2,
+      "name": {
+        "local": "পিরোজপুর",
+        "en": "Pirojpur",
+        "slug": "pirojpur-bd1079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1079",
+        "level": 2,
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4510"
+    ],
+    "geo": {
+      "lat": "22.606",
+      "lon": "90.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10790058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মঠবাড়ীয়া",
+      "en": "Mathbaria",
+      "slug": "mathbaria-bd10790058"
+    },
+    "code": {
+      "id": "BD10790058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1079",
+      "level": 2,
+      "name": {
+        "local": "পিরোজপুর",
+        "en": "Pirojpur",
+        "slug": "pirojpur-bd1079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1079",
+        "level": 2,
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8565"
+    ],
+    "geo": {
+      "lat": "22.283",
+      "lon": "89.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10790076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাজিরপুর",
+      "en": "Nazirpur",
+      "slug": "nazirpur-bd10790076"
+    },
+    "code": {
+      "id": "BD10790076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1079",
+      "level": 2,
+      "name": {
+        "local": "পিরোজপুর",
+        "en": "Pirojpur",
+        "slug": "pirojpur-bd1079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1079",
+        "level": 2,
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8540"
+    ],
+    "geo": {
+      "lat": "22.77",
+      "lon": "89.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10790087",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নেছারাবাদ (স্বরূপকাঠি)",
+      "en": "Nesarabad (Swarupkathi)",
+      "slug": "nesarabad-swarupkathi-bd10790087"
+    },
+    "code": {
+      "id": "BD10790087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1079",
+      "level": 2,
+      "name": {
+        "local": "পিরোজপুর",
+        "en": "Pirojpur",
+        "slug": "pirojpur-bd1079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1079",
+        "level": 2,
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8522"
+    ],
+    "geo": {
+      "lat": "22.721",
+      "lon": "90.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10790080",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পিরোজপুর সদর",
+      "en": "Pirojpur Sadar",
+      "slug": "pirojpur-sadar-bd10790080"
+    },
+    "code": {
+      "id": "BD10790080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1079",
+      "level": 2,
+      "name": {
+        "local": "পিরোজপুর",
+        "en": "Pirojpur",
+        "slug": "pirojpur-bd1079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1079",
+        "level": 2,
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8501"
+    ],
+    "geo": {
+      "lat": "22.609",
+      "lon": "89.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

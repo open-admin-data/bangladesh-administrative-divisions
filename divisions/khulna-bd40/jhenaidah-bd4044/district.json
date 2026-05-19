@@ -1,0 +1,49 @@
+{
+  "id": "BD4044",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "ঝিনাইদহ",
+    "en": "Jhenaidah",
+    "slug": "jhenaidah-bd4044"
+  },
+  "code": {
+    "id": "BD4044",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD40",
+    "level": 1,
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 6
+  },
+  "zip_codes": [
+    "7310"
+  ],
+  "geo": {
+    "lat": "23.488",
+    "lon": "89.087"
+  },
+  "metadata": {},
+  "source": {}
+}

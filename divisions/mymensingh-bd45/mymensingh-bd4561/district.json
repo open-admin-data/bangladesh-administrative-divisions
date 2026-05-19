@@ -1,0 +1,49 @@
+{
+  "id": "BD4561",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "ময়মনসিংহ",
+    "en": "Mymensingh",
+    "slug": "mymensingh-bd4561"
+  },
+  "code": {
+    "id": "BD4561",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD45",
+    "level": 1,
+    "name": {
+      "local": "ময়মনসিংহ",
+      "en": "Mymensingh",
+      "slug": "mymensingh-bd45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 13
+  },
+  "zip_codes": [
+    "2240"
+  ],
+  "geo": {
+    "lat": "24.699",
+    "lon": "90.43"
+  },
+  "metadata": {},
+  "source": {}
+}

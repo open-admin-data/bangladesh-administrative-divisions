@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD20300014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ছাগলনাইয়া",
+      "en": "Chhagalnaiya",
+      "slug": "chhagalnaiya-bd20300014"
+    },
+    "code": {
+      "id": "BD20300014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2030",
+      "level": 2,
+      "name": {
+        "local": "ফেনী",
+        "en": "Feni",
+        "slug": "feni-bd2030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2030",
+        "level": 2,
+        "name": {
+          "local": "ফেনী",
+          "en": "Feni",
+          "slug": "feni-bd2030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3910"
+    ],
+    "geo": {
+      "lat": "23.02",
+      "lon": "91.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20300025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দাগনভূঞা",
+      "en": "Daganbhuiyan",
+      "slug": "daganbhuiyan-bd20300025"
+    },
+    "code": {
+      "id": "BD20300025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2030",
+      "level": 2,
+      "name": {
+        "local": "ফেনী",
+        "en": "Feni",
+        "slug": "feni-bd2030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2030",
+        "level": 2,
+        "name": {
+          "local": "ফেনী",
+          "en": "Feni",
+          "slug": "feni-bd2030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3923"
+    ],
+    "geo": {
+      "lat": "22.972",
+      "lon": "91.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20300029",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফেনী সদর",
+      "en": "Feni Sadar",
+      "slug": "feni-sadar-bd20300029"
+    },
+    "code": {
+      "id": "BD20300029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2030",
+      "level": 2,
+      "name": {
+        "local": "ফেনী",
+        "en": "Feni",
+        "slug": "feni-bd2030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2030",
+        "level": 2,
+        "name": {
+          "local": "ফেনী",
+          "en": "Feni",
+          "slug": "feni-bd2030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3901"
+    ],
+    "geo": {
+      "lat": "22.991",
+      "lon": "91.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20300041",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফুলগাজী",
+      "en": "Fulgazi",
+      "slug": "fulgazi-bd20300041"
+    },
+    "code": {
+      "id": "BD20300041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2030",
+      "level": 2,
+      "name": {
+        "local": "ফেনী",
+        "en": "Feni",
+        "slug": "feni-bd2030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2030",
+        "level": 2,
+        "name": {
+          "local": "ফেনী",
+          "en": "Feni",
+          "slug": "feni-bd2030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3950"
+    ],
+    "geo": {
+      "lat": "23.118",
+      "lon": "91.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20300051",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পরশুরাম",
+      "en": "Parashuram",
+      "slug": "parashuram-bd20300051"
+    },
+    "code": {
+      "id": "BD20300051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2030",
+      "level": 2,
+      "name": {
+        "local": "ফেনী",
+        "en": "Feni",
+        "slug": "feni-bd2030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2030",
+        "level": 2,
+        "name": {
+          "local": "ফেনী",
+          "en": "Feni",
+          "slug": "feni-bd2030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3940"
+    ],
+    "geo": {
+      "lat": "23.202",
+      "lon": "91.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20300094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সোনাগাজী",
+      "en": "Sonagazi",
+      "slug": "sonagazi-bd20300094"
+    },
+    "code": {
+      "id": "BD20300094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2030",
+      "level": 2,
+      "name": {
+        "local": "ফেনী",
+        "en": "Feni",
+        "slug": "feni-bd2030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2030",
+        "level": 2,
+        "name": {
+          "local": "ফেনী",
+          "en": "Feni",
+          "slug": "feni-bd2030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3932"
+    ],
+    "geo": {
+      "lat": "22.854",
+      "lon": "91.397"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

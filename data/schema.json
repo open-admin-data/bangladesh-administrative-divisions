@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bangladesh Administrative Division Record",
+  "type": "object",
+  "required": [
+    "id",
+    "level",
+    "name"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "level": {
+      "type": "integer",
+      "enum": [
+        1,
+        2,
+        3
+      ]
+    },
+    "level_name": {
+      "type": "object",
+      "properties": {
+        "local": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      }
+    },
+    "name": {
+      "type": "object",
+      "required": [
+        "local",
+        "en"
+      ],
+      "properties": {
+        "local": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        }
+      }
+    },
+    "code": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "iso": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "parent": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "ancestors": {
+      "type": "array"
+    },
+    "children_count": {
+      "type": "object"
+    },
+    "zip_codes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "geo": {
+      "type": "object",
+      "properties": {
+        "lat": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "lon": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}

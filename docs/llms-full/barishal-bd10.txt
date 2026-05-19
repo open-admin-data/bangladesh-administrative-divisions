@@ -1,0 +1,207 @@
+# Barishal — Bangladesh Administrative Divisions
+
+> 6 districts, 42 upazilas
+> Code: BD10
+> Coordinates: 22.393, 90.406
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### বরগুনা (Barguna)
+
+Code: BD1004, Coordinates: 22.128, 90.11
+Upazilas: 6
+
+#### আমতলী (Amtali)
+
+Code: BD10040009, Postal: 8710, Coordinates: 22.147, 90.27
+
+#### বামনা (Bamna)
+
+Code: BD10040019, Postal: 8730, Coordinates: 22.272, 90.057
+
+#### বরগুনা সদর (Barguna Sadar)
+
+Code: BD10040028, Postal: 8700, Coordinates: 22.127, 90.102
+
+#### বেতাগী (Betagi)
+
+Code: BD10040047, Postal: 8740, Coordinates: 22.348, 90.149
+
+#### চারঘাট (Patharghata)
+
+Code: BD10040085, Postal: 8721, Coordinates: 22.09, 89.959
+
+#### তালতলি (Taltali)
+
+Code: BD10040090, Postal: 8710, Coordinates: 21.968, 90.101
+
+### বরিশাল (Barishal)
+
+Code: BD1006, Coordinates: 22.819, 90.369
+Upazilas: 10
+
+#### আগৈলঝাড়া (Agailjhara)
+
+Code: BD10060002, Postal: 8240, Coordinates: 22.968, 90.14
+
+#### বাবুগঞ্জ (Babuganj)
+
+Code: BD10060003, Postal: 8210, Coordinates: 22.825, 90.313
+
+#### বাকেরগঞ্জ (Bakerganj)
+
+Code: BD10060007, Postal: 8432, Coordinates: 22.555, 90.39
+
+#### বানারীপাড়া (Banaripara)
+
+Code: BD10060010, Postal: 8530, Coordinates: 22.811, 90.129
+
+#### বরিশাল সদর (কোতোয়ালি) (Barishal Sadar (Kotwali))
+
+Code: BD10060051, Postal: 8200, Coordinates: 22.715, 90.41
+
+#### গৌরনদী (Gaurnadi)
+
+Code: BD10060032, Postal: 8240, Coordinates: 22.97, 90.243
+
+#### হিজলা (Hijla)
+
+Code: BD10060036, Postal: 8250, Coordinates: 22.963, 90.552
+
+#### মেহেন্দিগঞ্জ (Mehendiganj)
+
+Code: BD10060062, Postal: 8274, Coordinates: 22.816, 90.519
+
+#### মুলাদী (Muladi)
+
+Code: BD10060069, Postal: 8252, Coordinates: 22.955, 90.376
+
+#### মিরপুর (Ujirpur)
+
+Code: BD10060094, Postal: 8223, Coordinates: 22.866, 90.165
+
+### ভোলা (Bhola)
+
+Code: BD1009, Coordinates: 22.31, 90.764
+Upazilas: 7
+
+#### ভোলা সদর (Bhola Sadar)
+
+Code: BD10090018, Postal: 8300, Coordinates: 22.707, 90.631
+
+#### বোরহানউদ্দিন (Borhanuddin)
+
+Code: BD10090021, Postal: 8320, Coordinates: 22.485, 90.715
+
+#### চরফ্যাশন (Charfasson)
+
+Code: BD10090025, Postal: 8340, Coordinates: 22.045, 90.725
+
+#### দৌলতখান (Daulatkhan)
+
+Code: BD10090029, Postal: 8310, Coordinates: 22.642, 90.745
+
+#### লালমোহন (Lalmohan)
+
+Code: BD10090054, Postal: 8331, Coordinates: 22.302, 90.771
+
+#### মনপুরা (Monpura)
+
+Code: BD10090065, Postal: 8360, Coordinates: 22.222, 90.943
+
+#### তজুমদ্দিন (Tazumuddin)
+
+Code: BD10090091, Postal: 8320, Coordinates: 22.453, 90.86
+
+### ঝালকাঠি (Jhalokati)
+
+Code: BD1042, Coordinates: 22.572, 90.182
+Upazilas: 4
+
+#### ঝালকাঠি সদর (Jhalokathi Sadar)
+
+Code: BD10420040, Postal: 8402, Coordinates: 22.68, 90.193
+
+#### কাঠালিয়া (Kanthalia)
+
+Code: BD10420043, Postal: 8431, Coordinates: 22.419, 90.102
+
+#### নলছিটি (Nalchhity)
+
+Code: BD10420073, Postal: 8421, Coordinates: 22.601, 90.271
+
+#### রাজাপুর (Rajapur)
+
+Code: BD10420084, Postal: 8410, Coordinates: 22.55, 90.131
+
+### পটুয়াখালী (Patuakhali)
+
+Code: BD1078, Coordinates: 22.165, 90.407
+Upazilas: 8
+
+#### বাউফল (Bauphal)
+
+Code: BD10780038, Postal: 8621, Coordinates: 22.437, 90.546
+
+#### দশমিনা (Dashmina)
+
+Code: BD10780052, Postal: 8630, Coordinates: 22.251, 90.554
+
+#### দুমকি (Dumki)
+
+Code: BD10780055, Postal: 8602, Coordinates: 22.448, 90.373
+
+#### গলাচিপা (Galachipa)
+
+Code: BD10780057, Postal: 8640, Coordinates: 22.148, 90.461
+
+#### কলাপাড়া (Kalapara)
+
+Code: BD10780066, Postal: 6762, Coordinates: 21.934, 90.222
+
+#### মির্জাগঞ্জ (Mirzaganj)
+
+Code: BD10780076, Postal: 8610, Coordinates: 22.356, 90.217
+
+#### পটুয়াখালী সদর (Patuakhali Sadar)
+
+Code: BD10780095, Postal: 8602, Coordinates: 22.335, 90.329
+
+#### রাঙ্গাবালী (Rangabali)
+
+Code: BD10780097, Postal: 8640, Coordinates: 21.932, 90.43
+
+### পিরোজপুর (Pirojpur)
+
+Code: BD1079, Coordinates: 22.532, 89.992
+Upazilas: 7
+
+#### ভান্ডারিয়া (Bhandaria)
+
+Code: BD10790014, Postal: 8550, Coordinates: 22.452, 90.02
+
+#### ইন্দুরকানী (Indurkani)
+
+Code: BD10790090, Postal: 8502, Coordinates: 22.466, 89.965
+
+#### কাউখালী (Kawkhali)
+
+Code: BD10790047, Postal: 4510, Coordinates: 22.606, 90.057
+
+#### মঠবাড়ীয়া (Mathbaria)
+
+Code: BD10790058, Postal: 8565, Coordinates: 22.283, 89.949
+
+#### নাজিরপুর (Nazirpur)
+
+Code: BD10790076, Postal: 8540, Coordinates: 22.77, 89.975
+
+#### নেছারাবাদ (স্বরূপকাঠি) (Nesarabad (Swarupkathi))
+
+Code: BD10790087, Postal: 8522, Coordinates: 22.721, 90.086
+
+#### পিরোজপুর সদর (Pirojpur Sadar)
+
+Code: BD10790080, Postal: 8501, Coordinates: 22.609, 89.979
+

@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.upazila,zip_codes,geo.lat,geo.lon
+BD6036,হবিগঞ্জ,Habiganj,habiganj-bd6036,BD6036,9,3360,24.369,91.432
+BD6058,মৌলভীবাজার,Moulvibazar,moulvibazar-bd6058,BD6058,7,3250,24.481,91.916
+BD6090,সুনামগঞ্জ,Sunamganj,sunamganj-bd6090,BD6090,12,3010,24.94,91.346
+BD6091,সিলেট,Sylhet,sylhet-bd6091,BD6091,13,3120,24.92,91.988

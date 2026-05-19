@@ -1,0 +1,49 @@
+{
+  "id": "BD3033",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "গাজীপুর",
+    "en": "Gazipur",
+    "slug": "gazipur-bd3033"
+  },
+  "code": {
+    "id": "BD3033",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD30",
+    "level": 1,
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "1703"
+  ],
+  "geo": {
+    "lat": "24.099",
+    "lon": "90.446"
+  },
+  "metadata": {},
+  "source": {}
+}

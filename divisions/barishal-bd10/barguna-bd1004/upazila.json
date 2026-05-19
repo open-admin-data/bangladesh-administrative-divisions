@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD10040009",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আমতলী",
+      "en": "Amtali",
+      "slug": "amtali-bd10040009"
+    },
+    "code": {
+      "id": "BD10040009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1004",
+      "level": 2,
+      "name": {
+        "local": "বরগুনা",
+        "en": "Barguna",
+        "slug": "barguna-bd1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1004",
+        "level": 2,
+        "name": {
+          "local": "বরগুনা",
+          "en": "Barguna",
+          "slug": "barguna-bd1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8710"
+    ],
+    "geo": {
+      "lat": "22.147",
+      "lon": "90.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10040019",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বামনা",
+      "en": "Bamna",
+      "slug": "bamna-bd10040019"
+    },
+    "code": {
+      "id": "BD10040019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1004",
+      "level": 2,
+      "name": {
+        "local": "বরগুনা",
+        "en": "Barguna",
+        "slug": "barguna-bd1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1004",
+        "level": 2,
+        "name": {
+          "local": "বরগুনা",
+          "en": "Barguna",
+          "slug": "barguna-bd1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8730"
+    ],
+    "geo": {
+      "lat": "22.272",
+      "lon": "90.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10040028",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বরগুনা সদর",
+      "en": "Barguna Sadar",
+      "slug": "barguna-sadar-bd10040028"
+    },
+    "code": {
+      "id": "BD10040028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1004",
+      "level": 2,
+      "name": {
+        "local": "বরগুনা",
+        "en": "Barguna",
+        "slug": "barguna-bd1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1004",
+        "level": 2,
+        "name": {
+          "local": "বরগুনা",
+          "en": "Barguna",
+          "slug": "barguna-bd1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8700"
+    ],
+    "geo": {
+      "lat": "22.127",
+      "lon": "90.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10040047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বেতাগী",
+      "en": "Betagi",
+      "slug": "betagi-bd10040047"
+    },
+    "code": {
+      "id": "BD10040047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1004",
+      "level": 2,
+      "name": {
+        "local": "বরগুনা",
+        "en": "Barguna",
+        "slug": "barguna-bd1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1004",
+        "level": 2,
+        "name": {
+          "local": "বরগুনা",
+          "en": "Barguna",
+          "slug": "barguna-bd1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8740"
+    ],
+    "geo": {
+      "lat": "22.348",
+      "lon": "90.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10040085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চারঘাট",
+      "en": "Patharghata",
+      "slug": "patharghata-bd10040085"
+    },
+    "code": {
+      "id": "BD10040085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1004",
+      "level": 2,
+      "name": {
+        "local": "বরগুনা",
+        "en": "Barguna",
+        "slug": "barguna-bd1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1004",
+        "level": 2,
+        "name": {
+          "local": "বরগুনা",
+          "en": "Barguna",
+          "slug": "barguna-bd1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8721"
+    ],
+    "geo": {
+      "lat": "22.09",
+      "lon": "89.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10040090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তালতলি",
+      "en": "Taltali",
+      "slug": "taltali-bd10040090"
+    },
+    "code": {
+      "id": "BD10040090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1004",
+      "level": 2,
+      "name": {
+        "local": "বরগুনা",
+        "en": "Barguna",
+        "slug": "barguna-bd1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1004",
+        "level": 2,
+        "name": {
+          "local": "বরগুনা",
+          "en": "Barguna",
+          "slug": "barguna-bd1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8710"
+    ],
+    "geo": {
+      "lat": "21.968",
+      "lon": "90.101"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

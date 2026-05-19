@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD10090018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভোলা সদর",
+      "en": "Bhola Sadar",
+      "slug": "bhola-sadar-bd10090018"
+    },
+    "code": {
+      "id": "BD10090018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1009",
+      "level": 2,
+      "name": {
+        "local": "ভোলা",
+        "en": "Bhola",
+        "slug": "bhola-bd1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1009",
+        "level": 2,
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8300"
+    ],
+    "geo": {
+      "lat": "22.707",
+      "lon": "90.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10090021",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বোরহানউদ্দিন",
+      "en": "Borhanuddin",
+      "slug": "borhanuddin-bd10090021"
+    },
+    "code": {
+      "id": "BD10090021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1009",
+      "level": 2,
+      "name": {
+        "local": "ভোলা",
+        "en": "Bhola",
+        "slug": "bhola-bd1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1009",
+        "level": 2,
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8320"
+    ],
+    "geo": {
+      "lat": "22.485",
+      "lon": "90.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10090025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চরফ্যাশন",
+      "en": "Charfasson",
+      "slug": "charfasson-bd10090025"
+    },
+    "code": {
+      "id": "BD10090025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1009",
+      "level": 2,
+      "name": {
+        "local": "ভোলা",
+        "en": "Bhola",
+        "slug": "bhola-bd1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1009",
+        "level": 2,
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8340"
+    ],
+    "geo": {
+      "lat": "22.045",
+      "lon": "90.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10090029",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দৌলতখান",
+      "en": "Daulatkhan",
+      "slug": "daulatkhan-bd10090029"
+    },
+    "code": {
+      "id": "BD10090029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1009",
+      "level": 2,
+      "name": {
+        "local": "ভোলা",
+        "en": "Bhola",
+        "slug": "bhola-bd1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1009",
+        "level": 2,
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8310"
+    ],
+    "geo": {
+      "lat": "22.642",
+      "lon": "90.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10090054",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লালমোহন",
+      "en": "Lalmohan",
+      "slug": "lalmohan-bd10090054"
+    },
+    "code": {
+      "id": "BD10090054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1009",
+      "level": 2,
+      "name": {
+        "local": "ভোলা",
+        "en": "Bhola",
+        "slug": "bhola-bd1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1009",
+        "level": 2,
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8331"
+    ],
+    "geo": {
+      "lat": "22.302",
+      "lon": "90.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10090065",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মনপুরা",
+      "en": "Monpura",
+      "slug": "monpura-bd10090065"
+    },
+    "code": {
+      "id": "BD10090065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1009",
+      "level": 2,
+      "name": {
+        "local": "ভোলা",
+        "en": "Bhola",
+        "slug": "bhola-bd1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1009",
+        "level": 2,
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8360"
+    ],
+    "geo": {
+      "lat": "22.222",
+      "lon": "90.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10090091",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তজুমদ্দিন",
+      "en": "Tazumuddin",
+      "slug": "tazumuddin-bd10090091"
+    },
+    "code": {
+      "id": "BD10090091",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1009",
+      "level": 2,
+      "name": {
+        "local": "ভোলা",
+        "en": "Bhola",
+        "slug": "bhola-bd1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1009",
+        "level": 2,
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8320"
+    ],
+    "geo": {
+      "lat": "22.453",
+      "lon": "90.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "BD3059",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "মুন্সিগঞ্জ",
+    "en": "Munshiganj",
+    "slug": "munshiganj-bd3059"
+  },
+  "code": {
+    "id": "BD3059",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD30",
+    "level": 1,
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 6
+  },
+  "zip_codes": [
+    "1510"
+  ],
+  "geo": {
+    "lat": "23.526",
+    "lon": "90.416"
+  },
+  "metadata": {},
+  "source": {}
+}

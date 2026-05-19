@@ -1,0 +1,49 @@
+{
+  "id": "BD2003",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "বান্দরবান",
+    "en": "Bandarban",
+    "slug": "bandarban-bd2003"
+  },
+  "code": {
+    "id": "BD2003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 7
+  },
+  "zip_codes": [
+    "4650"
+  ],
+  "geo": {
+    "lat": "21.805",
+    "lon": "92.365"
+  },
+  "metadata": {},
+  "source": {}
+}

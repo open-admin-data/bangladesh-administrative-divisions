@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD5010",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বগুড়া",
+      "en": "Bogura",
+      "slug": "bogura-bd5010"
+    },
+    "code": {
+      "id": "BD5010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 12
+    },
+    "zip_codes": [
+      "5890"
+    ],
+    "geo": {
+      "lat": "24.824",
+      "lon": "89.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5070",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "চাঁপাইনবাবগঞ্জ",
+      "en": "Chapainababganj",
+      "slug": "chapainababganj-bd5070"
+    },
+    "code": {
+      "id": "BD5070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "6300"
+    ],
+    "geo": {
+      "lat": "24.716",
+      "lon": "88.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5038",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "জয়পুরহাট",
+      "en": "Joypurhat",
+      "slug": "joypurhat-bd5038"
+    },
+    "code": {
+      "id": "BD5038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5940"
+    ],
+    "geo": {
+      "lat": "25.093",
+      "lon": "89.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5064",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নওগাঁ",
+      "en": "Naogaon",
+      "slug": "naogaon-bd5064"
+    },
+    "code": {
+      "id": "BD5064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 11
+    },
+    "zip_codes": [
+      "6596"
+    ],
+    "geo": {
+      "lat": "24.9",
+      "lon": "88.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5069",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নাটোর",
+      "en": "Natore",
+      "slug": "natore-bd5069"
+    },
+    "code": {
+      "id": "BD5069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "6422"
+    ],
+    "geo": {
+      "lat": "24.381",
+      "lon": "89.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5076",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পাবনা",
+      "en": "Pabna",
+      "slug": "pabna-bd5076"
+    },
+    "code": {
+      "id": "BD5076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "6650"
+    ],
+    "geo": {
+      "lat": "24.053",
+      "lon": "89.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5081",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd5081"
+    },
+    "code": {
+      "id": "BD5081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "6281"
+    ],
+    "geo": {
+      "lat": "24.468",
+      "lon": "88.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5088",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "সিরাজগঞ্জ",
+      "en": "Sirajganj",
+      "slug": "sirajganj-bd5088"
+    },
+    "code": {
+      "id": "BD5088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "6730"
+    ],
+    "geo": {
+      "lat": "24.392",
+      "lon": "89.601"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

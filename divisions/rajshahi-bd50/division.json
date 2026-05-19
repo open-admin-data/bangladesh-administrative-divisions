@@ -1,0 +1,30 @@
+{
+  "id": "BD50",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "রাজশাহী",
+    "en": "Rajshahi",
+    "slug": "rajshahi-bd50"
+  },
+  "code": {
+    "id": "BD50",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "upazila": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.589",
+    "lon": "89.046"
+  },
+  "metadata": {},
+  "source": {}
+}

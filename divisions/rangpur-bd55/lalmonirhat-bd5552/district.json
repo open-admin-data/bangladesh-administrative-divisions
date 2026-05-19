@@ -1,0 +1,49 @@
+{
+  "id": "BD5552",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "লালমনিরহাট",
+    "en": "Lalmonirhat",
+    "slug": "lalmonirhat-bd5552"
+  },
+  "code": {
+    "id": "BD5552",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD55",
+    "level": 1,
+    "name": {
+      "local": "রংপুর",
+      "en": "Rangpur",
+      "slug": "rangpur-bd55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "5510"
+  ],
+  "geo": {
+    "lat": "26.063",
+    "lon": "89.237"
+  },
+  "metadata": {},
+  "source": {}
+}

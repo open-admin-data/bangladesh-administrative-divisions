@@ -1,0 +1,618 @@
+[
+  {
+    "id": "BD50640003",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আত্রাই",
+      "en": "Atrai",
+      "slug": "atrai-bd50640003"
+    },
+    "code": {
+      "id": "BD50640003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6596"
+    ],
+    "geo": {
+      "lat": "24.625",
+      "lon": "88.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640006",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বদলগাছী",
+      "en": "Badalgachhi",
+      "slug": "badalgachhi-bd50640006"
+    },
+    "code": {
+      "id": "BD50640006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6570"
+    ],
+    "geo": {
+      "lat": "24.967",
+      "lon": "88.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640028",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ধামইরহাট",
+      "en": "Dhamoirhat",
+      "slug": "dhamoirhat-bd50640028"
+    },
+    "code": {
+      "id": "BD50640028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6520"
+    ],
+    "geo": {
+      "lat": "25.131",
+      "lon": "88.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640050",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মহাদেবপুর",
+      "en": "Mahadebpur",
+      "slug": "mahadebpur-bd50640050"
+    },
+    "code": {
+      "id": "BD50640050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6530"
+    ],
+    "geo": {
+      "lat": "24.922",
+      "lon": "88.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মান্দা",
+      "en": "Manda",
+      "slug": "manda-bd50640047"
+    },
+    "code": {
+      "id": "BD50640047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1410"
+    ],
+    "geo": {
+      "lat": "24.746",
+      "lon": "88.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640060",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নওগাঁ সদর",
+      "en": "Naogaon Sadar",
+      "slug": "naogaon-sadar-bd50640060"
+    },
+    "code": {
+      "id": "BD50640060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6500"
+    ],
+    "geo": {
+      "lat": "24.812",
+      "lon": "88.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640069",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নিয়ামতপুর",
+      "en": "Niamatpur",
+      "slug": "niamatpur-bd50640069"
+    },
+    "code": {
+      "id": "BD50640069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6520"
+    ],
+    "geo": {
+      "lat": "24.83",
+      "lon": "88.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640075",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পত্নিতলা",
+      "en": "Patnitala",
+      "slug": "patnitala-bd50640075"
+    },
+    "code": {
+      "id": "BD50640075",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6540"
+    ],
+    "geo": {
+      "lat": "25.078",
+      "lon": "88.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640079",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পোরশা",
+      "en": "Porsha",
+      "slug": "porsha-bd50640079"
+    },
+    "code": {
+      "id": "BD50640079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6550"
+    ],
+    "geo": {
+      "lat": "24.995",
+      "lon": "88.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাণীনগর",
+      "en": "Raninagar",
+      "slug": "raninagar-bd50640085"
+    },
+    "code": {
+      "id": "BD50640085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6591"
+    ],
+    "geo": {
+      "lat": "24.712",
+      "lon": "89.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50640086",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাপাহার",
+      "en": "Sapahar",
+      "slug": "sapahar-bd50640086"
+    },
+    "code": {
+      "id": "BD50640086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5064",
+      "level": 2,
+      "name": {
+        "local": "নওগাঁ",
+        "en": "Naogaon",
+        "slug": "naogaon-bd5064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5064",
+        "level": 2,
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6561"
+    ],
+    "geo": {
+      "lat": "25.119",
+      "lon": "88.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

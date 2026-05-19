@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD30560010",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দৌলতপুর",
+      "en": "Daulatpur",
+      "slug": "daulatpur-bd30560010"
+    },
+    "code": {
+      "id": "BD30560010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3056",
+      "level": 2,
+      "name": {
+        "local": "মানিকগঞ্জ",
+        "en": "Manikganj",
+        "slug": "manikganj-bd3056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3056",
+        "level": 2,
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1860"
+    ],
+    "geo": {
+      "lat": "23.956",
+      "lon": "89.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30560022",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঘিওর",
+      "en": "Ghior",
+      "slug": "ghior-bd30560022"
+    },
+    "code": {
+      "id": "BD30560022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3056",
+      "level": 2,
+      "name": {
+        "local": "মানিকগঞ্জ",
+        "en": "Manikganj",
+        "slug": "manikganj-bd3056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3056",
+        "level": 2,
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1840"
+    ],
+    "geo": {
+      "lat": "23.874",
+      "lon": "89.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30560028",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হরিরামপুর",
+      "en": "Harirampur",
+      "slug": "harirampur-bd30560028"
+    },
+    "code": {
+      "id": "BD30560028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3056",
+      "level": 2,
+      "name": {
+        "local": "মানিকগঞ্জ",
+        "en": "Manikganj",
+        "slug": "manikganj-bd3056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3056",
+        "level": 2,
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7440"
+    ],
+    "geo": {
+      "lat": "23.721",
+      "lon": "89.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30560046",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মানিকগঞ্জ সদর",
+      "en": "Manikganj Sadar",
+      "slug": "manikganj-sadar-bd30560046"
+    },
+    "code": {
+      "id": "BD30560046",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3056",
+      "level": 2,
+      "name": {
+        "local": "মানিকগঞ্জ",
+        "en": "Manikganj",
+        "slug": "manikganj-bd3056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3056",
+        "level": 2,
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1804"
+    ],
+    "geo": {
+      "lat": "23.837",
+      "lon": "90.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30560070",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাটুরিয়া",
+      "en": "Saturia",
+      "slug": "saturia-bd30560070"
+    },
+    "code": {
+      "id": "BD30560070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3056",
+      "level": 2,
+      "name": {
+        "local": "মানিকগঞ্জ",
+        "en": "Manikganj",
+        "slug": "manikganj-bd3056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3056",
+        "level": 2,
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1811"
+    ],
+    "geo": {
+      "lat": "23.958",
+      "lon": "90.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30560078",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শিবালয়",
+      "en": "Shibalay",
+      "slug": "shibalay-bd30560078"
+    },
+    "code": {
+      "id": "BD30560078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3056",
+      "level": 2,
+      "name": {
+        "local": "মানিকগঞ্জ",
+        "en": "Manikganj",
+        "slug": "manikganj-bd3056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3056",
+        "level": 2,
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1850"
+    ],
+    "geo": {
+      "lat": "23.838",
+      "lon": "89.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30560082",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সিংগাইর",
+      "en": "Singair",
+      "slug": "singair-bd30560082"
+    },
+    "code": {
+      "id": "BD30560082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3056",
+      "level": 2,
+      "name": {
+        "local": "মানিকগঞ্জ",
+        "en": "Manikganj",
+        "slug": "manikganj-bd3056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3056",
+        "level": 2,
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1821"
+    ],
+    "geo": {
+      "lat": "23.783",
+      "lon": "90.154"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

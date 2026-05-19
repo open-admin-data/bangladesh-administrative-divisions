@@ -1,0 +1,170 @@
+[
+  {
+    "id": "BD40650028",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালিয়া",
+      "en": "Kalia",
+      "slug": "kalia-bd40650028"
+    },
+    "code": {
+      "id": "BD40650028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4065",
+      "level": 2,
+      "name": {
+        "local": "নড়াইল",
+        "en": "Narail",
+        "slug": "narail-bd4065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4065",
+        "level": 2,
+        "name": {
+          "local": "নড়াইল",
+          "en": "Narail",
+          "slug": "narail-bd4065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7520"
+    ],
+    "geo": {
+      "lat": "23.029",
+      "lon": "89.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40650052",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লোহাগড়া",
+      "en": "Lohagara",
+      "slug": "lohagara-bd40650052"
+    },
+    "code": {
+      "id": "BD40650052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4065",
+      "level": 2,
+      "name": {
+        "local": "নড়াইল",
+        "en": "Narail",
+        "slug": "narail-bd4065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4065",
+        "level": 2,
+        "name": {
+          "local": "নড়াইল",
+          "en": "Narail",
+          "slug": "narail-bd4065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4398"
+    ],
+    "geo": {
+      "lat": "23.204",
+      "lon": "89.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40650076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নড়াইল সদর",
+      "en": "Narail Sadar",
+      "slug": "narail-sadar-bd40650076"
+    },
+    "code": {
+      "id": "BD40650076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4065",
+      "level": 2,
+      "name": {
+        "local": "নড়াইল",
+        "en": "Narail",
+        "slug": "narail-bd4065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4065",
+        "level": 2,
+        "name": {
+          "local": "নড়াইল",
+          "en": "Narail",
+          "slug": "narail-bd4065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7500"
+    ],
+    "geo": {
+      "lat": "23.155",
+      "lon": "89.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

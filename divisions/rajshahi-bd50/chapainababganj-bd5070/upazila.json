@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD50700018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভোলাহাট",
+      "en": "Bholahat",
+      "slug": "bholahat-bd50700018"
+    },
+    "code": {
+      "id": "BD50700018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5070",
+      "level": 2,
+      "name": {
+        "local": "চাঁপাইনবাবগঞ্জ",
+        "en": "Chapainababganj",
+        "slug": "chapainababganj-bd5070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5070",
+        "level": 2,
+        "name": {
+          "local": "চাঁপাইনবাবগঞ্জ",
+          "en": "Chapainababganj",
+          "slug": "chapainababganj-bd5070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6330"
+    ],
+    "geo": {
+      "lat": "24.897",
+      "lon": "88.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50700066",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চাঁপাইনবাবগঞ্জ সদর",
+      "en": "Chapainawabganj Sadar",
+      "slug": "chapainawabganj-sadar-bd50700066"
+    },
+    "code": {
+      "id": "BD50700066",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5070",
+      "level": 2,
+      "name": {
+        "local": "চাঁপাইনবাবগঞ্জ",
+        "en": "Chapainababganj",
+        "slug": "chapainababganj-bd5070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5070",
+        "level": 2,
+        "name": {
+          "local": "চাঁপাইনবাবগঞ্জ",
+          "en": "Chapainababganj",
+          "slug": "chapainababganj-bd5070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6303"
+    ],
+    "geo": {
+      "lat": "24.565",
+      "lon": "88.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50700037",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোমস্তাপুর",
+      "en": "Gomastapur",
+      "slug": "gomastapur-bd50700037"
+    },
+    "code": {
+      "id": "BD50700037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5070",
+      "level": 2,
+      "name": {
+        "local": "চাঁপাইনবাবগঞ্জ",
+        "en": "Chapainababganj",
+        "slug": "chapainababganj-bd5070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5070",
+        "level": 2,
+        "name": {
+          "local": "চাঁপাইনবাবগঞ্জ",
+          "en": "Chapainababganj",
+          "slug": "chapainababganj-bd5070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6310"
+    ],
+    "geo": {
+      "lat": "24.859",
+      "lon": "88.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50700056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাচোল",
+      "en": "Nachole",
+      "slug": "nachole-bd50700056"
+    },
+    "code": {
+      "id": "BD50700056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5070",
+      "level": 2,
+      "name": {
+        "local": "চাঁপাইনবাবগঞ্জ",
+        "en": "Chapainababganj",
+        "slug": "chapainababganj-bd5070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5070",
+        "level": 2,
+        "name": {
+          "local": "চাঁপাইনবাবগঞ্জ",
+          "en": "Chapainababganj",
+          "slug": "chapainababganj-bd5070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6311"
+    ],
+    "geo": {
+      "lat": "24.727",
+      "lon": "88.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50700088",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শিবগঞ্জ",
+      "en": "Shibganj",
+      "slug": "shibganj-bd50700088"
+    },
+    "code": {
+      "id": "BD50700088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5070",
+      "level": 2,
+      "name": {
+        "local": "চাঁপাইনবাবগঞ্জ",
+        "en": "Chapainababganj",
+        "slug": "chapainababganj-bd5070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5070",
+        "level": 2,
+        "name": {
+          "local": "চাঁপাইনবাবগঞ্জ",
+          "en": "Chapainababganj",
+          "slug": "chapainababganj-bd5070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5810"
+    ],
+    "geo": {
+      "lat": "24.705",
+      "lon": "88.155"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

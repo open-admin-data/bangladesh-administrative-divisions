@@ -1,0 +1,242 @@
+[
+  {
+    "id": "BD10",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd10"
+    },
+    "code": {
+      "id": "BD10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "upazila": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.393",
+      "lon": "90.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    },
+    "code": {
+      "id": "BD20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "upazila": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.701",
+      "lon": "91.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    },
+    "code": {
+      "id": "BD30",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "upazila": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.839",
+      "lon": "90.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    },
+    "code": {
+      "id": "BD40",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "upazila": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.838",
+      "lon": "89.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "ময়মনসিংহ",
+      "en": "Mymensingh",
+      "slug": "mymensingh-bd45"
+    },
+    "code": {
+      "id": "BD45",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "upazila": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.848",
+      "lon": "90.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    },
+    "code": {
+      "id": "BD50",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "upazila": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.589",
+      "lon": "89.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "রংপুর",
+      "en": "Rangpur",
+      "slug": "rangpur-bd55"
+    },
+    "code": {
+      "id": "BD55",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "upazila": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.78",
+      "lon": "89.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60",
+    "level": 1,
+    "level_name": {
+      "local": "বিভাগ",
+      "en": "Division"
+    },
+    "name": {
+      "local": "সিলেট",
+      "en": "Sylhet",
+      "slug": "sylhet-bd60"
+    },
+    "code": {
+      "id": "BD60",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "upazila": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.715",
+      "lon": "91.665"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

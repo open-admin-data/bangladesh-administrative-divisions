@@ -1,0 +1,226 @@
+[
+  {
+    "id": "BD40550057",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মাগুরা সদর",
+      "en": "Magura Sadar",
+      "slug": "magura-sadar-bd40550057"
+    },
+    "code": {
+      "id": "BD40550057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4055",
+      "level": 2,
+      "name": {
+        "local": "মাগুরা",
+        "en": "Magura",
+        "slug": "magura-bd4055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4055",
+        "level": 2,
+        "name": {
+          "local": "মাগুরা",
+          "en": "Magura",
+          "slug": "magura-bd4055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7600"
+    ],
+    "geo": {
+      "lat": "23.452",
+      "lon": "89.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40550066",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মহম্মদপুর",
+      "en": "Mohammadpur",
+      "slug": "mohammadpur-bd40550066"
+    },
+    "code": {
+      "id": "BD40550066",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4055",
+      "level": 2,
+      "name": {
+        "local": "মাগুরা",
+        "en": "Magura",
+        "slug": "magura-bd4055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4055",
+        "level": 2,
+        "name": {
+          "local": "মাগুরা",
+          "en": "Magura",
+          "slug": "magura-bd4055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1207"
+    ],
+    "geo": {
+      "lat": "23.4",
+      "lon": "89.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40550085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শালিখা",
+      "en": "Shalikha",
+      "slug": "shalikha-bd40550085"
+    },
+    "code": {
+      "id": "BD40550085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4055",
+      "level": 2,
+      "name": {
+        "local": "মাগুরা",
+        "en": "Magura",
+        "slug": "magura-bd4055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4055",
+        "level": 2,
+        "name": {
+          "local": "মাগুরা",
+          "en": "Magura",
+          "slug": "magura-bd4055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7620"
+    ],
+    "geo": {
+      "lat": "23.348",
+      "lon": "89.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40550095",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শ্রীপুর",
+      "en": "Sreepur",
+      "slug": "sreepur-bd40550095"
+    },
+    "code": {
+      "id": "BD40550095",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4055",
+      "level": 2,
+      "name": {
+        "local": "মাগুরা",
+        "en": "Magura",
+        "slug": "magura-bd4055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4055",
+        "level": 2,
+        "name": {
+          "local": "মাগুরা",
+          "en": "Magura",
+          "slug": "magura-bd4055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1743"
+    ],
+    "geo": {
+      "lat": "23.598",
+      "lon": "89.424"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

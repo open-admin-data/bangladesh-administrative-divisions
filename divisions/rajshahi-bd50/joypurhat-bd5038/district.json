@@ -1,0 +1,49 @@
+{
+  "id": "BD5038",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "জয়পুরহাট",
+    "en": "Joypurhat",
+    "slug": "joypurhat-bd5038"
+  },
+  "code": {
+    "id": "BD5038",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "5940"
+  ],
+  "geo": {
+    "lat": "25.093",
+    "lon": "89.084"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "BD60910008",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বালাগঞ্জ",
+      "en": "Balaganj",
+      "slug": "balaganj-bd60910008"
+    },
+    "code": {
+      "id": "BD60910008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3120"
+    ],
+    "geo": {
+      "lat": "24.689",
+      "lon": "91.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910017",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বিয়ানীবাজার",
+      "en": "Beanibazar",
+      "slug": "beanibazar-bd60910017"
+    },
+    "code": {
+      "id": "BD60910017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3170"
+    ],
+    "geo": {
+      "lat": "24.849",
+      "lon": "92.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910020",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বিশ্বনাথ",
+      "en": "Bishwanath",
+      "slug": "bishwanath-bd60910020"
+    },
+    "code": {
+      "id": "BD60910020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3130"
+    ],
+    "geo": {
+      "lat": "24.835",
+      "lon": "91.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910027",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কোম্পানীগঞ্জ",
+      "en": "Companiganj",
+      "slug": "companiganj-bd60910027"
+    },
+    "code": {
+      "id": "BD60910027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3140"
+    ],
+    "geo": {
+      "lat": "25.08",
+      "lon": "91.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910031",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দক্ষিণ সুরমা",
+      "en": "Dakkhin Surma",
+      "slug": "dakkhin-surma-bd60910031"
+    },
+    "code": {
+      "id": "BD60910031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3106"
+    ],
+    "geo": {
+      "lat": "24.817",
+      "lon": "91.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910035",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফেঞ্চুগঞ্জ",
+      "en": "Fenchuganj",
+      "slug": "fenchuganj-bd60910035"
+    },
+    "code": {
+      "id": "BD60910035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3116"
+    ],
+    "geo": {
+      "lat": "24.694",
+      "lon": "91.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোলাপগঞ্জ",
+      "en": "Golapganj",
+      "slug": "golapganj-bd60910038"
+    },
+    "code": {
+      "id": "BD60910038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3165"
+    ],
+    "geo": {
+      "lat": "24.81",
+      "lon": "92.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910041",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোয়াইনঘাট",
+      "en": "Gowainghat",
+      "slug": "gowainghat-bd60910041"
+    },
+    "code": {
+      "id": "BD60910041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3150"
+    ],
+    "geo": {
+      "lat": "25.081",
+      "lon": "91.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910053",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জৈন্তাপুর",
+      "en": "Jaintapur",
+      "slug": "jaintapur-bd60910053"
+    },
+    "code": {
+      "id": "BD60910053",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3152"
+    ],
+    "geo": {
+      "lat": "25.058",
+      "lon": "92.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910059",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কানাইঘাট",
+      "en": "Kanaighat",
+      "slug": "kanaighat-bd60910059"
+    },
+    "code": {
+      "id": "BD60910059",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3181"
+    ],
+    "geo": {
+      "lat": "24.993",
+      "lon": "92.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910060",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ওসমানী নগর",
+      "en": "Osmaninagar",
+      "slug": "osmaninagar-bd60910060"
+    },
+    "code": {
+      "id": "BD60910060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6591"
+    ],
+    "geo": {
+      "lat": "24.703",
+      "lon": "91.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910062",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সিলেট সদর",
+      "en": "Sylhet Sadar",
+      "slug": "sylhet-sadar-bd60910062"
+    },
+    "code": {
+      "id": "BD60910062",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3106"
+    ],
+    "geo": {
+      "lat": "24.944",
+      "lon": "91.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60910094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জকিগঞ্জ",
+      "en": "Zakiganj",
+      "slug": "zakiganj-bd60910094"
+    },
+    "code": {
+      "id": "BD60910094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6091",
+      "level": 2,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd6091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6091",
+        "level": 2,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3191"
+    ],
+    "geo": {
+      "lat": "24.925",
+      "lon": "92.368"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

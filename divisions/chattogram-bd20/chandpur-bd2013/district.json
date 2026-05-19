@@ -1,0 +1,49 @@
+{
+  "id": "BD2013",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "চাঁদপুর",
+    "en": "Chandpur",
+    "slug": "chandpur-bd2013"
+  },
+  "code": {
+    "id": "BD2013",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 8
+  },
+  "zip_codes": [
+    "3602"
+  ],
+  "geo": {
+    "lat": "23.261",
+    "lon": "90.749"
+  },
+  "metadata": {},
+  "source": {}
+}

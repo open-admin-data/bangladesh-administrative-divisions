@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.upazila,zip_codes,geo.lat,geo.lon
+BD4001,বাগেরহাট,Bagerhat,bagerhat-bd4001,BD4001,9,9300,22.329,89.744
+BD4018,চুয়াডাঙ্গা,Chuadanga,chuadanga-bd4018,BD4018,4,7210,23.609,88.849
+BD4041,যশোর,Jashore,jashore-bd4041,BD4041,8,7470,23.089,89.175
+BD4044,ঝিনাইদহ,Jhenaidah,jhenaidah-bd4044,BD4044,6,7310,23.488,89.087
+BD4047,খুলনা,Khulna,khulna-bd4047,BD4047,9,9240,22.366,89.453
+BD4050,কুষ্টিয়া,Kushtia,kushtia-bd4050,BD4050,6,7042,23.926,89.018
+BD4055,মাগুরা,Magura,magura-bd4055,BD4055,4,7620,23.444,89.433
+BD4057,মেহেরপুর,Meherpur,meherpur-bd4057,BD4057,3,7110,23.794,88.707
+BD4065,নড়াইল,Narail,narail-bd4065,BD4065,3,7520,23.131,89.578
+BD4087,সাতক্ষীরা,Satkhira,satkhira-bd4087,BD4087,7,9460,22.308,89.143

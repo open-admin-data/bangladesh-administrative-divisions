@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD55490006",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভুরুঙ্গামারী",
+      "en": "Bhurungamari",
+      "slug": "bhurungamari-bd55490006"
+    },
+    "code": {
+      "id": "BD55490006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5670"
+    ],
+    "geo": {
+      "lat": "26.116",
+      "lon": "89.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490009",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চিলমারী",
+      "en": "Chilmari",
+      "slug": "chilmari-bd55490009"
+    },
+    "code": {
+      "id": "BD55490009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5630"
+    ],
+    "geo": {
+      "lat": "25.564",
+      "lon": "89.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490052",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কুড়িগ্রাম সদর",
+      "en": "Kurigram Sadar",
+      "slug": "kurigram-sadar-bd55490052"
+    },
+    "code": {
+      "id": "BD55490052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5600"
+    ],
+    "geo": {
+      "lat": "25.827",
+      "lon": "89.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490061",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাগেশ্বরী",
+      "en": "Nageshwari",
+      "slug": "nageshwari-bd55490061"
+    },
+    "code": {
+      "id": "BD55490061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5660"
+    ],
+    "geo": {
+      "lat": "25.96",
+      "lon": "89.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফুলবাড়ী",
+      "en": "Phulbari",
+      "slug": "phulbari-bd55490018"
+    },
+    "code": {
+      "id": "BD55490018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5260"
+    ],
+    "geo": {
+      "lat": "25.948",
+      "lon": "89.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490077",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাজারহাট",
+      "en": "Rajarhat",
+      "slug": "rajarhat-bd55490077"
+    },
+    "code": {
+      "id": "BD55490077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5611"
+    ],
+    "geo": {
+      "lat": "25.787",
+      "lon": "89.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490008",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চর রাজিবপুর",
+      "en": "Rajibpur",
+      "slug": "rajibpur-bd55490008"
+    },
+    "code": {
+      "id": "BD55490008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5650"
+    ],
+    "geo": {
+      "lat": "25.444",
+      "lon": "89.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490079",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রৌমারী",
+      "en": "Roumari",
+      "slug": "roumari-bd55490079"
+    },
+    "code": {
+      "id": "BD55490079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5640"
+    ],
+    "geo": {
+      "lat": "25.593",
+      "lon": "89.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55490094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "উলিপুর",
+      "en": "Ulipur",
+      "slug": "ulipur-bd55490094"
+    },
+    "code": {
+      "id": "BD55490094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5549",
+      "level": 2,
+      "name": {
+        "local": "কুড়িগ্রাম",
+        "en": "Kurigram",
+        "slug": "kurigram-bd5549"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5549",
+        "level": 2,
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5621"
+    ],
+    "geo": {
+      "lat": "25.69",
+      "lon": "89.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

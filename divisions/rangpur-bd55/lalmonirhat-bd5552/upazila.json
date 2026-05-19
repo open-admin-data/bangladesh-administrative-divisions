@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD55520002",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আদিতমারী",
+      "en": "Aditmari",
+      "slug": "aditmari-bd55520002"
+    },
+    "code": {
+      "id": "BD55520002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5552",
+      "level": 2,
+      "name": {
+        "local": "লালমনিরহাট",
+        "en": "Lalmonirhat",
+        "slug": "lalmonirhat-bd5552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5552",
+        "level": 2,
+        "name": {
+          "local": "লালমনিরহাট",
+          "en": "Lalmonirhat",
+          "slug": "lalmonirhat-bd5552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5510"
+    ],
+    "geo": {
+      "lat": "25.943",
+      "lon": "89.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55520033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হাতীবান্ধা",
+      "en": "Hatibandha",
+      "slug": "hatibandha-bd55520033"
+    },
+    "code": {
+      "id": "BD55520033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5552",
+      "level": 2,
+      "name": {
+        "local": "লালমনিরহাট",
+        "en": "Lalmonirhat",
+        "slug": "lalmonirhat-bd5552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5552",
+        "level": 2,
+        "name": {
+          "local": "লালমনিরহাট",
+          "en": "Lalmonirhat",
+          "slug": "lalmonirhat-bd5552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5530"
+    ],
+    "geo": {
+      "lat": "26.12",
+      "lon": "89.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55520039",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালীগঞ্জ",
+      "en": "Kaliganj",
+      "slug": "kaliganj-bd55520039"
+    },
+    "code": {
+      "id": "BD55520039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5552",
+      "level": 2,
+      "name": {
+        "local": "লালমনিরহাট",
+        "en": "Lalmonirhat",
+        "slug": "lalmonirhat-bd5552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5552",
+        "level": 2,
+        "name": {
+          "local": "লালমনিরহাট",
+          "en": "Lalmonirhat",
+          "slug": "lalmonirhat-bd5552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1720"
+    ],
+    "geo": {
+      "lat": "25.986",
+      "lon": "89.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55520055",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লালমনিরহাট সদর",
+      "en": "Lalmonirhat Sadar",
+      "slug": "lalmonirhat-sadar-bd55520055"
+    },
+    "code": {
+      "id": "BD55520055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5552",
+      "level": 2,
+      "name": {
+        "local": "লালমনিরহাট",
+        "en": "Lalmonirhat",
+        "slug": "lalmonirhat-bd5552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5552",
+        "level": 2,
+        "name": {
+          "local": "লালমনিরহাট",
+          "en": "Lalmonirhat",
+          "slug": "lalmonirhat-bd5552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5502"
+    ],
+    "geo": {
+      "lat": "25.879",
+      "lon": "89.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55520070",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পাটগ্রাম",
+      "en": "Patgram",
+      "slug": "patgram-bd55520070"
+    },
+    "code": {
+      "id": "BD55520070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5552",
+      "level": 2,
+      "name": {
+        "local": "লালমনিরহাট",
+        "en": "Lalmonirhat",
+        "slug": "lalmonirhat-bd5552"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5552",
+        "level": 2,
+        "name": {
+          "local": "লালমনিরহাট",
+          "en": "Lalmonirhat",
+          "slug": "lalmonirhat-bd5552"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5541"
+    ],
+    "geo": {
+      "lat": "26.343",
+      "lon": "89.02"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD50880011",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বেলকুচি",
+      "en": "Belkuchi",
+      "slug": "belkuchi-bd50880011"
+    },
+    "code": {
+      "id": "BD50880011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6740"
+    ],
+    "geo": {
+      "lat": "24.298",
+      "lon": "89.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880027",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চৌহালি",
+      "en": "Chouhali",
+      "slug": "chouhali-bd50880027"
+    },
+    "code": {
+      "id": "BD50880027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1930"
+    ],
+    "geo": {
+      "lat": "24.139",
+      "lon": "89.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880044",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কামারখন্দ",
+      "en": "Kamarkhanda",
+      "slug": "kamarkhanda-bd50880044"
+    },
+    "code": {
+      "id": "BD50880044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6730"
+    ],
+    "geo": {
+      "lat": "24.378",
+      "lon": "89.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880050",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাজীপুর",
+      "en": "Kazipur",
+      "slug": "kazipur-bd50880050"
+    },
+    "code": {
+      "id": "BD50880050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6712"
+    ],
+    "geo": {
+      "lat": "24.672",
+      "lon": "89.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880061",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রায়গঞ্জ",
+      "en": "Rayganj",
+      "slug": "rayganj-bd50880061"
+    },
+    "code": {
+      "id": "BD50880061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6721"
+    ],
+    "geo": {
+      "lat": "24.492",
+      "lon": "89.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880067",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শাহজাদপুর",
+      "en": "Shahjadpur",
+      "slug": "shahjadpur-bd50880067"
+    },
+    "code": {
+      "id": "BD50880067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6772"
+    ],
+    "geo": {
+      "lat": "24.163",
+      "lon": "89.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880078",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সিরাজগঞ্জ সদর",
+      "en": "Sirajganj Sadar",
+      "slug": "sirajganj-sadar-bd50880078"
+    },
+    "code": {
+      "id": "BD50880078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6701"
+    ],
+    "geo": {
+      "lat": "24.494",
+      "lon": "89.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880089",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তাড়াশ",
+      "en": "Tarash",
+      "slug": "tarash-bd50880089"
+    },
+    "code": {
+      "id": "BD50880089",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6780"
+    ],
+    "geo": {
+      "lat": "24.445",
+      "lon": "89.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50880094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "উল্লাপাড়া",
+      "en": "Ullapara",
+      "slug": "ullapara-bd50880094"
+    },
+    "code": {
+      "id": "BD50880094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5088",
+      "level": 2,
+      "name": {
+        "local": "সিরাজগঞ্জ",
+        "en": "Sirajganj",
+        "slug": "sirajganj-bd5088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5088",
+        "level": 2,
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6762"
+    ],
+    "geo": {
+      "lat": "24.328",
+      "lon": "89.518"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

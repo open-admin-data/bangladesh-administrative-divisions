@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD55770004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আটোয়ারী",
+      "en": "Atowari",
+      "slug": "atowari-bd55770004"
+    },
+    "code": {
+      "id": "BD55770004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5577",
+      "level": 2,
+      "name": {
+        "local": "পঞ্চগড়",
+        "en": "Panchagarh",
+        "slug": "panchagarh-bd5577"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5577",
+        "level": 2,
+        "name": {
+          "local": "পঞ্চগড়",
+          "en": "Panchagarh",
+          "slug": "panchagarh-bd5577"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5041"
+    ],
+    "geo": {
+      "lat": "26.251",
+      "lon": "88.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55770025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বোদা",
+      "en": "Boda",
+      "slug": "boda-bd55770025"
+    },
+    "code": {
+      "id": "BD55770025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5577",
+      "level": 2,
+      "name": {
+        "local": "পঞ্চগড়",
+        "en": "Panchagarh",
+        "slug": "panchagarh-bd5577"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5577",
+        "level": 2,
+        "name": {
+          "local": "পঞ্চগড়",
+          "en": "Panchagarh",
+          "slug": "panchagarh-bd5577"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5010"
+    ],
+    "geo": {
+      "lat": "26.235",
+      "lon": "88.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55770034",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দেবীগঞ্জ",
+      "en": "Debiganj",
+      "slug": "debiganj-bd55770034"
+    },
+    "code": {
+      "id": "BD55770034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5577",
+      "level": 2,
+      "name": {
+        "local": "পঞ্চগড়",
+        "en": "Panchagarh",
+        "slug": "panchagarh-bd5577"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5577",
+        "level": 2,
+        "name": {
+          "local": "পঞ্চগড়",
+          "en": "Panchagarh",
+          "slug": "panchagarh-bd5577"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5020"
+    ],
+    "geo": {
+      "lat": "26.127",
+      "lon": "88.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55770073",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পঞ্চগড় সদর",
+      "en": "Panchagarh Sadar",
+      "slug": "panchagarh-sadar-bd55770073"
+    },
+    "code": {
+      "id": "BD55770073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5577",
+      "level": 2,
+      "name": {
+        "local": "পঞ্চগড়",
+        "en": "Panchagarh",
+        "slug": "panchagarh-bd5577"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5577",
+        "level": 2,
+        "name": {
+          "local": "পঞ্চগড়",
+          "en": "Panchagarh",
+          "slug": "panchagarh-bd5577"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5000"
+    ],
+    "geo": {
+      "lat": "26.365",
+      "lon": "88.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55770090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তেতুলিয়া",
+      "en": "Tetulia",
+      "slug": "tetulia-bd55770090"
+    },
+    "code": {
+      "id": "BD55770090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5577",
+      "level": 2,
+      "name": {
+        "local": "পঞ্চগড়",
+        "en": "Panchagarh",
+        "slug": "panchagarh-bd5577"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5577",
+        "level": 2,
+        "name": {
+          "local": "পঞ্চগড়",
+          "en": "Panchagarh",
+          "slug": "panchagarh-bd5577"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5030"
+    ],
+    "geo": {
+      "lat": "26.513",
+      "lon": "88.431"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

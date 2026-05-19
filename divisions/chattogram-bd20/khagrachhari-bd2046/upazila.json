@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD20460043",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দিঘীনালা",
+      "en": "Dighinala",
+      "slug": "dighinala-bd20460043"
+    },
+    "code": {
+      "id": "BD20460043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4420"
+    ],
+    "geo": {
+      "lat": "23.416",
+      "lon": "92.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গুইমারা",
+      "en": "Guimara",
+      "slug": "guimara-bd20460047"
+    },
+    "code": {
+      "id": "BD20460047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4440"
+    ],
+    "geo": {
+      "lat": "22.958",
+      "lon": "91.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460049",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "খাগড়াছড়ি সদর",
+      "en": "Khagrachhari Sadar",
+      "slug": "khagrachhari-sadar-bd20460049"
+    },
+    "code": {
+      "id": "BD20460049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4400"
+    ],
+    "geo": {
+      "lat": "23.158",
+      "lon": "91.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460061",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লক্ষ্মীছড়ি",
+      "en": "Lakkhichhari",
+      "slug": "lakkhichhari-bd20460061"
+    },
+    "code": {
+      "id": "BD20460061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4470"
+    ],
+    "geo": {
+      "lat": "22.784",
+      "lon": "91.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460065",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মহালছড়ি",
+      "en": "Mahalchhari",
+      "slug": "mahalchhari-bd20460065"
+    },
+    "code": {
+      "id": "BD20460065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4430"
+    ],
+    "geo": {
+      "lat": "22.984",
+      "lon": "92.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460067",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফটিকছড়ি",
+      "en": "Manikchhari",
+      "slug": "manikchhari-bd20460067"
+    },
+    "code": {
+      "id": "BD20460067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4460"
+    ],
+    "geo": {
+      "lat": "22.852",
+      "lon": "91.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460070",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মাটিরাঙ্গা",
+      "en": "Matiranga",
+      "slug": "matiranga-bd20460070"
+    },
+    "code": {
+      "id": "BD20460070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4450"
+    ],
+    "geo": {
+      "lat": "23.163",
+      "lon": "91.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460077",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পানছড়ি",
+      "en": "Panchhari",
+      "slug": "panchhari-bd20460077"
+    },
+    "code": {
+      "id": "BD20460077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4410"
+    ],
+    "geo": {
+      "lat": "23.342",
+      "lon": "91.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20460080",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রামগড়",
+      "en": "Ramgarh",
+      "slug": "ramgarh-bd20460080"
+    },
+    "code": {
+      "id": "BD20460080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2046",
+      "level": 2,
+      "name": {
+        "local": "খাগড়াছড়ি",
+        "en": "Khagrachhari",
+        "slug": "khagrachhari-bd2046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2046",
+        "level": 2,
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3721"
+    ],
+    "geo": {
+      "lat": "22.954",
+      "lon": "91.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

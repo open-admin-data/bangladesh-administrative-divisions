@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD30350032",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোপালগঞ্জ সদর",
+      "en": "Gopalganj Sadar",
+      "slug": "gopalganj-sadar-bd30350032"
+    },
+    "code": {
+      "id": "BD30350032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3035",
+      "level": 2,
+      "name": {
+        "local": "গোপালগঞ্জ",
+        "en": "Gopalganj",
+        "slug": "gopalganj-bd3035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3035",
+        "level": 2,
+        "name": {
+          "local": "গোপালগঞ্জ",
+          "en": "Gopalganj",
+          "slug": "gopalganj-bd3035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8102"
+    ],
+    "geo": {
+      "lat": "23.061",
+      "lon": "89.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30350043",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাশিয়ানী",
+      "en": "Kashiani",
+      "slug": "kashiani-bd30350043"
+    },
+    "code": {
+      "id": "BD30350043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3035",
+      "level": 2,
+      "name": {
+        "local": "গোপালগঞ্জ",
+        "en": "Gopalganj",
+        "slug": "gopalganj-bd3035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3035",
+        "level": 2,
+        "name": {
+          "local": "গোপালগঞ্জ",
+          "en": "Gopalganj",
+          "slug": "gopalganj-bd3035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8133"
+    ],
+    "geo": {
+      "lat": "23.191",
+      "lon": "89.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30350051",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কোটালীপাড়া",
+      "en": "Kotalipara",
+      "slug": "kotalipara-bd30350051"
+    },
+    "code": {
+      "id": "BD30350051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3035",
+      "level": 2,
+      "name": {
+        "local": "গোপালগঞ্জ",
+        "en": "Gopalganj",
+        "slug": "gopalganj-bd3035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3035",
+        "level": 2,
+        "name": {
+          "local": "গোপালগঞ্জ",
+          "en": "Gopalganj",
+          "slug": "gopalganj-bd3035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8110"
+    ],
+    "geo": {
+      "lat": "23.011",
+      "lon": "90.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30350058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মুকসুদপুর",
+      "en": "Muksudpur",
+      "slug": "muksudpur-bd30350058"
+    },
+    "code": {
+      "id": "BD30350058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3035",
+      "level": 2,
+      "name": {
+        "local": "গোপালগঞ্জ",
+        "en": "Gopalganj",
+        "slug": "gopalganj-bd3035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3035",
+        "level": 2,
+        "name": {
+          "local": "গোপালগঞ্জ",
+          "en": "Gopalganj",
+          "slug": "gopalganj-bd3035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8141"
+    ],
+    "geo": {
+      "lat": "23.266",
+      "lon": "89.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30350091",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "টুংগীপাড়া",
+      "en": "Tungipara",
+      "slug": "tungipara-bd30350091"
+    },
+    "code": {
+      "id": "BD30350091",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3035",
+      "level": 2,
+      "name": {
+        "local": "গোপালগঞ্জ",
+        "en": "Gopalganj",
+        "slug": "gopalganj-bd3035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3035",
+        "level": 2,
+        "name": {
+          "local": "গোপালগঞ্জ",
+          "en": "Gopalganj",
+          "slug": "gopalganj-bd3035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8121"
+    ],
+    "geo": {
+      "lat": "22.924",
+      "lon": "89.902"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "BD60",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "সিলেট",
+    "en": "Sylhet",
+    "slug": "sylhet-bd60"
+  },
+  "code": {
+    "id": "BD60",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "upazila": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.715",
+    "lon": "91.665"
+  },
+  "metadata": {},
+  "source": {}
+}

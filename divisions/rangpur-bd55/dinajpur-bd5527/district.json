@@ -1,0 +1,49 @@
+{
+  "id": "BD5527",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "দিনাজপুর",
+    "en": "Dinajpur",
+    "slug": "dinajpur-bd5527"
+  },
+  "code": {
+    "id": "BD5527",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD55",
+    "level": 1,
+    "name": {
+      "local": "রংপুর",
+      "en": "Rangpur",
+      "slug": "rangpur-bd55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 13
+  },
+  "zip_codes": [
+    "5270"
+  ],
+  "geo": {
+    "lat": "25.63",
+    "lon": "88.786"
+  },
+  "metadata": {},
+  "source": {}
+}

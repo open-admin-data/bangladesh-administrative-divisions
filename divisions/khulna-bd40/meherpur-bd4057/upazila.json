@@ -1,0 +1,170 @@
+[
+  {
+    "id": "BD40570047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গাংনী",
+      "en": "Gangni",
+      "slug": "gangni-bd40570047"
+    },
+    "code": {
+      "id": "BD40570047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4057",
+      "level": 2,
+      "name": {
+        "local": "মেহেরপুর",
+        "en": "Meherpur",
+        "slug": "meherpur-bd4057"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4057",
+        "level": 2,
+        "name": {
+          "local": "মেহেরপুর",
+          "en": "Meherpur",
+          "slug": "meherpur-bd4057"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7110"
+    ],
+    "geo": {
+      "lat": "23.857",
+      "lon": "88.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40570087",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মেহেরপুর সদর",
+      "en": "Meherpur Sadar",
+      "slug": "meherpur-sadar-bd40570087"
+    },
+    "code": {
+      "id": "BD40570087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4057",
+      "level": 2,
+      "name": {
+        "local": "মেহেরপুর",
+        "en": "Meherpur",
+        "slug": "meherpur-bd4057"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4057",
+        "level": 2,
+        "name": {
+          "local": "মেহেরপুর",
+          "en": "Meherpur",
+          "slug": "meherpur-bd4057"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7101"
+    ],
+    "geo": {
+      "lat": "23.765",
+      "lon": "88.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40570060",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মুজিবনগর",
+      "en": "Mujibnagar",
+      "slug": "mujibnagar-bd40570060"
+    },
+    "code": {
+      "id": "BD40570060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4057",
+      "level": 2,
+      "name": {
+        "local": "মেহেরপুর",
+        "en": "Meherpur",
+        "slug": "meherpur-bd4057"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4057",
+        "level": 2,
+        "name": {
+          "local": "মেহেরপুর",
+          "en": "Meherpur",
+          "slug": "meherpur-bd4057"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7100"
+    ],
+    "geo": {
+      "lat": "23.668",
+      "lon": "88.621"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

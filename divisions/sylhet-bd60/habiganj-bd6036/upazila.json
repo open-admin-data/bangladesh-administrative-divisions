@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD60360002",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আজমিরীগঞ্জ",
+      "en": "Ajmiriganj",
+      "slug": "ajmiriganj-bd60360002"
+    },
+    "code": {
+      "id": "BD60360002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3360"
+    ],
+    "geo": {
+      "lat": "24.554",
+      "lon": "91.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360005",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাহুবল",
+      "en": "Bahubal",
+      "slug": "bahubal-bd60360005"
+    },
+    "code": {
+      "id": "BD60360005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3310"
+    ],
+    "geo": {
+      "lat": "24.361",
+      "lon": "91.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360011",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বানিয়াচং",
+      "en": "Baniachong",
+      "slug": "baniachong-bd60360011"
+    },
+    "code": {
+      "id": "BD60360011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3350"
+    ],
+    "geo": {
+      "lat": "24.499",
+      "lon": "91.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360026",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চুনারুঘাট",
+      "en": "Chunarughat",
+      "slug": "chunarughat-bd60360026"
+    },
+    "code": {
+      "id": "BD60360026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3321"
+    ],
+    "geo": {
+      "lat": "24.18",
+      "lon": "91.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360044",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হবিগঞ্জ সদর",
+      "en": "Habiganj Sadar",
+      "slug": "habiganj-sadar-bd60360044"
+    },
+    "code": {
+      "id": "BD60360044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3302"
+    ],
+    "geo": {
+      "lat": "24.351",
+      "lon": "91.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360068",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লাখাই",
+      "en": "Lakhai",
+      "slug": "lakhai-bd60360068"
+    },
+    "code": {
+      "id": "BD60360068",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3340"
+    ],
+    "geo": {
+      "lat": "24.299",
+      "lon": "91.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360071",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মাধবপুর",
+      "en": "Madhabpur",
+      "slug": "madhabpur-bd60360071"
+    },
+    "code": {
+      "id": "BD60360071",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3331"
+    ],
+    "geo": {
+      "lat": "24.12",
+      "lon": "91.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360077",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নবীগঞ্জ",
+      "en": "Nabiganj",
+      "slug": "nabiganj-bd60360077"
+    },
+    "code": {
+      "id": "BD60360077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3373"
+    ],
+    "geo": {
+      "lat": "24.571",
+      "lon": "91.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60360087",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শায়েস্তাগঞ্জ",
+      "en": "Shayestaganj",
+      "slug": "shayestaganj-bd60360087"
+    },
+    "code": {
+      "id": "BD60360087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6036",
+      "level": 2,
+      "name": {
+        "local": "হবিগঞ্জ",
+        "en": "Habiganj",
+        "slug": "habiganj-bd6036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6036",
+        "level": 2,
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3342"
+    ],
+    "geo": {
+      "lat": "24.275",
+      "lon": "91.407"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

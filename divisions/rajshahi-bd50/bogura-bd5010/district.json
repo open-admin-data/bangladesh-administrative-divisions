@@ -1,0 +1,49 @@
+{
+  "id": "BD5010",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "বগুড়া",
+    "en": "Bogura",
+    "slug": "bogura-bd5010"
+  },
+  "code": {
+    "id": "BD5010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 12
+  },
+  "zip_codes": [
+    "5890"
+  ],
+  "geo": {
+    "lat": "24.824",
+    "lon": "89.38"
+  },
+  "metadata": {},
+  "source": {}
+}

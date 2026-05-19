@@ -1,0 +1,49 @@
+{
+  "id": "BD6036",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "হবিগঞ্জ",
+    "en": "Habiganj",
+    "slug": "habiganj-bd6036"
+  },
+  "code": {
+    "id": "BD6036",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD60",
+    "level": 1,
+    "name": {
+      "local": "সিলেট",
+      "en": "Sylhet",
+      "slug": "sylhet-bd60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD60",
+      "level": 1,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd60"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "3360"
+  ],
+  "geo": {
+    "lat": "24.369",
+    "lon": "91.432"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,430 @@
+# Dhaka — Bangladesh Administrative Divisions
+
+> 13 districts, 89 upazilas
+> Code: BD30
+> Coordinates: 23.839, 90.242
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### ঢাকা (Dhaka)
+
+Code: BD3026, Coordinates: 23.788, 90.251
+Upazilas: 5
+
+#### ধামরাই (Dhamrai)
+
+Code: BD30260014, Postal: 1350, Coordinates: 23.939, 90.141
+
+#### দোহার (Dohar)
+
+Code: BD30260018, Postal: 1330, Coordinates: 23.602, 90.108
+
+#### কেরাণীগঞ্জ (Keraniganj)
+
+Code: BD30260038, Postal: 1312, Coordinates: 23.694, 90.344
+
+#### নবাবগঞ্জ (Nawabganj)
+
+Code: BD30260062, Postal: 1323, Coordinates: 23.672, 90.161
+
+#### সাভার (Savar)
+
+Code: BD30260072, Postal: 1348, Coordinates: 23.88, 90.281
+
+### ফরিদপুর (Faridpur)
+
+Code: BD3029, Coordinates: 23.478, 89.836
+Upazilas: 9
+
+#### আলফাডাঙ্গা (Alfadanga)
+
+Code: BD30290003, Postal: 7870, Coordinates: 23.295, 89.67
+
+#### ভাঙ্গা (Bhanga)
+
+Code: BD30290010, Postal: 7830, Coordinates: 23.389, 90.01
+
+#### বোয়ালমারী (Boalmari)
+
+Code: BD30290018, Postal: 7860, Coordinates: 23.399, 89.692
+
+#### চরভদ্রাসন (Char Bhadrasan)
+
+Code: BD30290021, Postal: 7800, Coordinates: 23.59, 89.98
+
+#### ফরিদপুর সদর (Faridpur Sadar)
+
+Code: BD30290047, Postal: 7802, Coordinates: 23.597, 89.813
+
+#### মধুখালী (Madhukhali)
+
+Code: BD30290056, Postal: 7850, Coordinates: 23.541, 89.611
+
+#### নগরকান্দা (Nagarkanda)
+
+Code: BD30290062, Postal: 7840, Coordinates: 23.434, 89.896
+
+#### সদরপুর (Sadarpur)
+
+Code: BD30290084, Postal: 7822, Coordinates: 23.498, 90.051
+
+#### সালথা (Saltha)
+
+Code: BD30290090, Postal: 7801, Coordinates: 23.418, 89.801
+
+### গাজীপুর (Gazipur)
+
+Code: BD3033, Coordinates: 24.099, 90.446
+Upazilas: 5
+
+#### গাজীপুর সদর (Gazipur Sadar)
+
+Code: BD30330030, Postal: 1703, Coordinates: 24.085, 90.425
+
+#### কালিয়াকৈর (Kaliakair)
+
+Code: BD30330032, Postal: 1750, Coordinates: 24.102, 90.266
+
+#### কালীগঞ্জ (Kaliganj)
+
+Code: BD30330034, Postal: 1720, Coordinates: 23.965, 90.555
+
+#### কাপাসিয়া (Kapasia)
+
+Code: BD30330036, Postal: 1730, Coordinates: 24.148, 90.6
+
+#### শ্রীপুর (Sreepur)
+
+Code: BD30330086, Postal: 1743, Coordinates: 24.206, 90.444
+
+### গোপালগঞ্জ (Gopalganj)
+
+Code: BD3035, Coordinates: 23.105, 89.899
+Upazilas: 5
+
+#### গোপালগঞ্জ সদর (Gopalganj Sadar)
+
+Code: BD30350032, Postal: 8102, Coordinates: 23.061, 89.848
+
+#### কাশিয়ানী (Kashiani)
+
+Code: BD30350043, Postal: 8133, Coordinates: 23.191, 89.795
+
+#### কোটালীপাড়া (Kotalipara)
+
+Code: BD30350051, Postal: 8110, Coordinates: 23.011, 90.02
+
+#### মুকসুদপুর (Muksudpur)
+
+Code: BD30350058, Postal: 8141, Coordinates: 23.266, 89.916
+
+#### টুংগীপাড়া (Tungipara)
+
+Code: BD30350091, Postal: 8121, Coordinates: 22.924, 89.902
+
+### কিশোরগঞ্জ (Kishoreganj)
+
+Code: BD3048, Coordinates: 24.378, 90.943
+Upazilas: 13
+
+#### অষ্টগ্রাম (Austagram)
+
+Code: BD30480002, Postal: 2380, Coordinates: 24.324, 91.122
+
+#### বাজিতপুর (Bajitpur)
+
+Code: BD30480006, Postal: 2336, Coordinates: 24.227, 90.948
+
+#### ভৈরব (Bhairab)
+
+Code: BD30480011, Postal: 2350, Coordinates: 24.102, 90.981
+
+#### হোসেনপুর (Hossainpur)
+
+Code: BD30480027, Postal: 2320, Coordinates: 24.448, 90.663
+
+#### ইটনা (Itna)
+
+Code: BD30480033, Postal: 2390, Coordinates: 24.551, 91.084
+
+#### করিমগঞ্জ (Karimganj)
+
+Code: BD30480042, Postal: 2310, Coordinates: 24.454, 90.896
+
+#### কটিয়াদী (Katiadi)
+
+Code: BD30480045, Postal: 2331, Coordinates: 24.295, 90.821
+
+#### কিশোরগঞ্জ সদর (Kishoreganj Sadar)
+
+Code: BD30480049, Postal: 2301, Coordinates: 24.426, 90.783
+
+#### কুলিয়ারচর (Kuliarchar)
+
+Code: BD30480054, Postal: 2341, Coordinates: 24.153, 90.887
+
+#### মিঠামইন (Mithamain)
+
+Code: BD30480059, Postal: 2371, Coordinates: 24.433, 91.111
+
+#### নিকলী (Nikli)
+
+Code: BD30480076, Postal: 2360, Coordinates: 24.338, 90.961
+
+#### পাকুন্দিয়া (Pakundia)
+
+Code: BD30480079, Postal: 2326, Coordinates: 24.321, 90.694
+
+#### তাড়াইল (Tarail)
+
+Code: BD30480092, Postal: 3432, Coordinates: 24.551, 90.891
+
+### মাদারীপুর (Madaripur)
+
+Code: BD3054, Coordinates: 23.222, 90.166
+Upazilas: 5
+
+#### ডাসার (Dasar)
+
+Code: BD30540018, Postal: 7900, Coordinates: 23.092, 90.161
+
+#### কালকিনি (Kalkini)
+
+Code: BD30540040, Postal: 7920, Coordinates: 23.067, 90.281
+
+#### মাদারীপুর সদর (Madaripur Sadar)
+
+Code: BD30540054, Postal: 7901, Coordinates: 23.191, 90.178
+
+#### রাজৈর (Rajoir)
+
+Code: BD30540080, Postal: 7911, Coordinates: 23.202, 90.039
+
+#### শিবচর (Shibchar)
+
+Code: BD30540087, Postal: 7930, Coordinates: 23.373, 90.176
+
+### মানিকগঞ্জ (Manikganj)
+
+Code: BD3056, Coordinates: 23.841, 89.951
+Upazilas: 7
+
+#### দৌলতপুর (Daulatpur)
+
+Code: BD30560010, Postal: 1860, Coordinates: 23.956, 89.799
+
+#### ঘিওর (Ghior)
+
+Code: BD30560022, Postal: 1840, Coordinates: 23.874, 89.904
+
+#### হরিরামপুর (Harirampur)
+
+Code: BD30560028, Postal: 7440, Coordinates: 23.721, 89.946
+
+#### মানিকগঞ্জ সদর (Manikganj Sadar)
+
+Code: BD30560046, Postal: 1804, Coordinates: 23.837, 90.03
+
+#### সাটুরিয়া (Saturia)
+
+Code: BD30560070, Postal: 1811, Coordinates: 23.958, 90.001
+
+#### শিবালয় (Shibalay)
+
+Code: BD30560078, Postal: 1850, Coordinates: 23.838, 89.811
+
+#### সিংগাইর (Singair)
+
+Code: BD30560082, Postal: 1821, Coordinates: 23.783, 90.154
+
+### মুন্সিগঞ্জ (Munshiganj)
+
+Code: BD3059, Coordinates: 23.526, 90.416
+Upazilas: 6
+
+#### গজারিয়া (Gazaria)
+
+Code: BD30590024, Postal: 1510, Coordinates: 23.547, 90.629
+
+#### লৌহজং (Louhajang)
+
+Code: BD30590044, Postal: 1535, Coordinates: 23.469, 90.344
+
+#### মুন্সিগঞ্জ সদর (Munshiganj Sadar)
+
+Code: BD30590056, Postal: 1503, Coordinates: 23.487, 90.526
+
+#### সিরাজদিখান (Sirajdikhan)
+
+Code: BD30590074, Postal: 1542, Coordinates: 23.598, 90.358
+
+#### শ্রীনগর (Sreenagar)
+
+Code: BD30590084, Postal: 1541, Coordinates: 23.546, 90.264
+
+#### টংগীবাড়ি (Tongibari)
+
+Code: BD30590094, Postal: 1523, Coordinates: 23.475, 90.453
+
+### নারায়ণগঞ্জ (Narayanganj)
+
+Code: BD3067, Coordinates: 23.724, 90.578
+Upazilas: 5
+
+#### আড়াইহাজার (Araihazar)
+
+Code: BD30670002, Postal: 1450, Coordinates: 23.764, 90.669
+
+#### বন্দর (Bandar)
+
+Code: BD30670006, Postal: 1410, Coordinates: 23.641, 90.546
+
+#### নারায়নগঞ্জ সদর (Narayanganj Sadar)
+
+Code: BD30670058, Postal: 1400, Coordinates: 23.613, 90.47
+
+#### রূপগঞ্জ (Rupganj)
+
+Code: BD30670068, Postal: 1462, Coordinates: 23.812, 90.54
+
+#### সোনারগাঁ (Sonargaon)
+
+Code: BD30670004, Postal: 1440, Coordinates: 23.675, 90.594
+
+### নরসিংদী (Narsingdi)
+
+Code: BD3068, Coordinates: 24.003, 90.774
+Upazilas: 6
+
+#### বেলাবো (Belabo)
+
+Code: BD30680007, Postal: 1640, Coordinates: 24.101, 90.849
+
+#### মনোহরদী (Manohardi)
+
+Code: BD30680052, Postal: 1640, Coordinates: 24.161, 90.731
+
+#### নরসিংদী সদর (Narsingdi Sadar)
+
+Code: BD30680060, Postal: 1605, Coordinates: 23.869, 90.708
+
+#### পলাশ (Palash)
+
+Code: BD30680063, Postal: 1612, Coordinates: 23.956, 90.65
+
+#### রায়পুরা (Raipura)
+
+Code: BD30680064, Postal: 9240, Coordinates: 23.962, 90.872
+
+#### শিবপুর (Shibpur)
+
+Code: BD30680076, Postal: 1620, Coordinates: 24.028, 90.747
+
+### রাজবাড়ী (Rajbari)
+
+Code: BD3082, Coordinates: 23.729, 89.561
+Upazilas: 5
+
+#### বালিয়াকান্দি (Baliakandi)
+
+Code: BD30820007, Postal: 7730, Coordinates: 23.651, 89.552
+
+#### গোয়ালন্দ (Goalanda)
+
+Code: BD30820029, Postal: 2011, Coordinates: 23.756, 89.765
+
+#### কালুখালী (Kalukhali)
+
+Code: BD30820047, Postal: 8513, Coordinates: 23.742, 89.475
+
+#### পাংশা (Pangsha)
+
+Code: BD30820073, Postal: 7723, Coordinates: 23.789, 89.388
+
+#### রাজবাড়ী সদর (Rajbari Sadar)
+
+Code: BD30820076, Postal: 7710, Coordinates: 23.717, 89.656
+
+### শরিয়তপুর (Shariatpur)
+
+Code: BD3086, Coordinates: 23.245, 90.415
+Upazilas: 6
+
+#### ভেদরগঞ্জ (Bhedarganj)
+
+Code: BD30860014, Postal: 5721, Coordinates: 23.248, 90.514
+
+#### ডামুড্যা (Damudya)
+
+Code: BD30860025, Postal: 8040, Coordinates: 23.14, 90.423
+
+#### গোসাইরহাট (Gosairhat)
+
+Code: BD30860036, Postal: 8050, Coordinates: 23.082, 90.457
+
+#### নড়িয়া (Naria)
+
+Code: BD30860065, Postal: 8021, Coordinates: 23.306, 90.428
+
+#### শরিয়তপুর সদর (Shariatpur Sadar)
+
+Code: BD30860069, Postal: 8001, Coordinates: 23.219, 90.317
+
+#### জাজিরা (Zajira)
+
+Code: BD30860094, Postal: 8010, Coordinates: 23.366, 90.324
+
+### টাঙ্গাইল (Tangail)
+
+Code: BD3093, Coordinates: 24.358, 90
+Upazilas: 12
+
+#### বাসাইল (Basail)
+
+Code: BD30930009, Postal: 1920, Coordinates: 24.234, 90.04
+
+#### ভূঞাপুর (Bhuanpur)
+
+Code: BD30930019, Postal: 1992, Coordinates: 24.477, 89.816
+
+#### দেলদুয়ার (Delduar)
+
+Code: BD30930023, Postal: 1910, Coordinates: 24.148, 89.939
+
+#### ধনবাড়ী (Dhanbari)
+
+Code: BD30930025, Postal: 1997, Coordinates: 24.688, 89.934
+
+#### ঘাটাইল (Ghatail)
+
+Code: BD30930028, Postal: 1982, Coordinates: 24.474, 90.053
+
+#### গোপালপুর (Gopalpur)
+
+Code: BD30930038, Postal: 1990, Coordinates: 24.572, 89.902
+
+#### কালিহাতী (Kalihati)
+
+Code: BD30930047, Postal: 1973, Coordinates: 24.36, 89.947
+
+#### মধুপুর (Madhupur)
+
+Code: BD30930057, Postal: 1997, Coordinates: 24.65, 90.062
+
+#### মির্জাপুর (Mirzapur)
+
+Code: BD30930066, Postal: 1941, Coordinates: 24.118, 90.107
+
+#### নাগরপুর (Nagarpur)
+
+Code: BD30930076, Postal: 1937, Coordinates: 24.051, 89.875
+
+#### সখিপুর (Sakhipur)
+
+Code: BD30930085, Postal: 1951, Coordinates: 24.306, 90.175
+
+#### টাঙ্গাইল সদর (Tangail Sadar)
+
+Code: BD30930095, Postal: 1901, Coordinates: 24.26, 89.867
+

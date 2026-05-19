@@ -1,0 +1,30 @@
+{
+  "id": "BD10",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "বরিশাল",
+    "en": "Barishal",
+    "slug": "barishal-bd10"
+  },
+  "code": {
+    "id": "BD10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "upazila": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.393",
+    "lon": "90.406"
+  },
+  "metadata": {},
+  "source": {}
+}

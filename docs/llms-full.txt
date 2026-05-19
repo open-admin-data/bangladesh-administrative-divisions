@@ -1,0 +1,27 @@
+# Bangladesh Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Per-Division Data Files
+
+- [Barishal](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/barishal-bd10.txt) — 6 districts, 42 upazilas
+- [Chattogram](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/chattogram-bd20.txt) — 11 districts, 104 upazilas
+- [Dhaka](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/dhaka-bd30.txt) — 13 districts, 89 upazilas
+- [Khulna](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/khulna-bd40.txt) — 10 districts, 59 upazilas
+- [Mymensingh](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/mymensingh-bd45.txt) — 4 districts, 35 upazilas
+- [Rajshahi](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/rajshahi-bd50.txt) — 8 districts, 67 upazilas
+- [Rangpur](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/rangpur-bd55.txt) — 8 districts, 58 upazilas
+- [Sylhet](https://github.com/open-admin-data/bangladesh-administrative-divisions/blob/main/docs/llms-full/sylhet-bd60.txt) — 4 districts, 41 upazilas
+
+## Summary
+
+| Division | Districts | Upazilas | 
+|---|---|---|
+| Barishal | 6 | 42 | 
+| Chattogram | 11 | 104 | 
+| Dhaka | 13 | 89 | 
+| Khulna | 10 | 59 | 
+| Mymensingh | 4 | 35 | 
+| Rajshahi | 8 | 67 | 
+| Rangpur | 8 | 58 | 
+| Sylhet | 4 | 41 | 

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "BD10420040",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঝালকাঠি সদর",
+      "en": "Jhalokathi Sadar",
+      "slug": "jhalokathi-sadar-bd10420040"
+    },
+    "code": {
+      "id": "BD10420040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1042",
+      "level": 2,
+      "name": {
+        "local": "ঝালকাঠি",
+        "en": "Jhalokati",
+        "slug": "jhalokati-bd1042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1042",
+        "level": 2,
+        "name": {
+          "local": "ঝালকাঠি",
+          "en": "Jhalokati",
+          "slug": "jhalokati-bd1042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8402"
+    ],
+    "geo": {
+      "lat": "22.68",
+      "lon": "90.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10420043",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাঠালিয়া",
+      "en": "Kanthalia",
+      "slug": "kanthalia-bd10420043"
+    },
+    "code": {
+      "id": "BD10420043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1042",
+      "level": 2,
+      "name": {
+        "local": "ঝালকাঠি",
+        "en": "Jhalokati",
+        "slug": "jhalokati-bd1042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1042",
+        "level": 2,
+        "name": {
+          "local": "ঝালকাঠি",
+          "en": "Jhalokati",
+          "slug": "jhalokati-bd1042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8431"
+    ],
+    "geo": {
+      "lat": "22.419",
+      "lon": "90.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10420073",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নলছিটি",
+      "en": "Nalchhity",
+      "slug": "nalchhity-bd10420073"
+    },
+    "code": {
+      "id": "BD10420073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1042",
+      "level": 2,
+      "name": {
+        "local": "ঝালকাঠি",
+        "en": "Jhalokati",
+        "slug": "jhalokati-bd1042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1042",
+        "level": 2,
+        "name": {
+          "local": "ঝালকাঠি",
+          "en": "Jhalokati",
+          "slug": "jhalokati-bd1042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8421"
+    ],
+    "geo": {
+      "lat": "22.601",
+      "lon": "90.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD10420084",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাজাপুর",
+      "en": "Rajapur",
+      "slug": "rajapur-bd10420084"
+    },
+    "code": {
+      "id": "BD10420084",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD1042",
+      "level": 2,
+      "name": {
+        "local": "ঝালকাঠি",
+        "en": "Jhalokati",
+        "slug": "jhalokati-bd1042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      },
+      {
+        "id": "BD1042",
+        "level": 2,
+        "name": {
+          "local": "ঝালকাঠি",
+          "en": "Jhalokati",
+          "slug": "jhalokati-bd1042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8410"
+    ],
+    "geo": {
+      "lat": "22.55",
+      "lon": "90.131"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

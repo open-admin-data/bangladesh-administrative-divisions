@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD20510033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কমলনগর",
+      "en": "Kamalnagar",
+      "slug": "kamalnagar-bd20510033"
+    },
+    "code": {
+      "id": "BD20510033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2051",
+      "level": 2,
+      "name": {
+        "local": "লক্ষ্মীপুর",
+        "en": "Lakshmipur",
+        "slug": "lakshmipur-bd2051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2051",
+        "level": 2,
+        "name": {
+          "local": "লক্ষ্মীপুর",
+          "en": "Lakshmipur",
+          "slug": "lakshmipur-bd2051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3700"
+    ],
+    "geo": {
+      "lat": "22.757",
+      "lon": "90.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20510043",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লক্ষ্মীপুর সদর",
+      "en": "Lakshmipur Sadar",
+      "slug": "lakshmipur-sadar-bd20510043"
+    },
+    "code": {
+      "id": "BD20510043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2051",
+      "level": 2,
+      "name": {
+        "local": "লক্ষ্মীপুর",
+        "en": "Lakshmipur",
+        "slug": "lakshmipur-bd2051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2051",
+        "level": 2,
+        "name": {
+          "local": "লক্ষ্মীপুর",
+          "en": "Lakshmipur",
+          "slug": "lakshmipur-bd2051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3700"
+    ],
+    "geo": {
+      "lat": "22.911",
+      "lon": "90.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20510058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রায়পুর",
+      "en": "Raipur",
+      "slug": "raipur-bd20510058"
+    },
+    "code": {
+      "id": "BD20510058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2051",
+      "level": 2,
+      "name": {
+        "local": "লক্ষ্মীপুর",
+        "en": "Lakshmipur",
+        "slug": "lakshmipur-bd2051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2051",
+        "level": 2,
+        "name": {
+          "local": "লক্ষ্মীপুর",
+          "en": "Lakshmipur",
+          "slug": "lakshmipur-bd2051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9240"
+    ],
+    "geo": {
+      "lat": "23.005",
+      "lon": "90.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20510065",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রামগঞ্জ",
+      "en": "Ramganj",
+      "slug": "ramganj-bd20510065"
+    },
+    "code": {
+      "id": "BD20510065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2051",
+      "level": 2,
+      "name": {
+        "local": "লক্ষ্মীপুর",
+        "en": "Lakshmipur",
+        "slug": "lakshmipur-bd2051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2051",
+        "level": 2,
+        "name": {
+          "local": "লক্ষ্মীপুর",
+          "en": "Lakshmipur",
+          "slug": "lakshmipur-bd2051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3721"
+    ],
+    "geo": {
+      "lat": "23.097",
+      "lon": "90.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20510073",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রামগতি",
+      "en": "Ramgati",
+      "slug": "ramgati-bd20510073"
+    },
+    "code": {
+      "id": "BD20510073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2051",
+      "level": 2,
+      "name": {
+        "local": "লক্ষ্মীপুর",
+        "en": "Lakshmipur",
+        "slug": "lakshmipur-bd2051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2051",
+        "level": 2,
+        "name": {
+          "local": "লক্ষ্মীপুর",
+          "en": "Lakshmipur",
+          "slug": "lakshmipur-bd2051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3721"
+    ],
+    "geo": {
+      "lat": "22.625",
+      "lon": "90.922"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

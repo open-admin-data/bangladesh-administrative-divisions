@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,children_count.upazila,zip_codes,geo.lat,geo.lon
+BD2003,বান্দরবান,Bandarban,bandarban-bd2003,BD2003,7,4650,21.805,92.365
+BD2012,ব্রাহ্মণবাড়ীয়া,Brahmanbaria,brahmanbaria-bd2012,BD2012,9,3450,23.953,91.083
+BD2013,চাঁদপুর,Chandpur,chandpur-bd2013,BD2013,8,3602,23.261,90.749
+BD2015,চট্টগ্রাম,Chattogram,chattogram-bd2015,BD2015,15,4376,22.447,91.819
+BD2022,কক্সবাজার,Cox's Bazar,coxs-bazar-bd2022,BD2022,9,4742,21.476,92.063
+BD2019,কুমিল্লা,Cumilla,cumilla-bd2019,BD2019,17,3560,23.437,91.033
+BD2030,ফেনী,Feni,feni-bd2030,BD2030,6,3910,22.995,91.412
+BD2046,খাগড়াছড়ি,Khagrachhari,khagrachhari-bd2046,BD2046,9,4420,23.172,91.956
+BD2051,লক্ষ্মীপুর,Lakshmipur,lakshmipur-bd2051,BD2051,5,3730,22.851,90.854
+BD2075,নোয়াখালী,Noakhali,noakhali-bd2075,BD2075,9,3850,22.658,91.129
+BD2084,রাঙ্গামাটি,Rangamati,rangamati-bd2084,BD2084,10,4570,22.825,92.281

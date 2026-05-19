@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD45890037",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঝিনাইগাতী",
+      "en": "Jhenaigati",
+      "slug": "jhenaigati-bd45890037"
+    },
+    "code": {
+      "id": "BD45890037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4589",
+      "level": 2,
+      "name": {
+        "local": "শেরপুর",
+        "en": "Sherpur",
+        "slug": "sherpur-bd4589"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4589",
+        "level": 2,
+        "name": {
+          "local": "শেরপুর",
+          "en": "Sherpur",
+          "slug": "sherpur-bd4589"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2120"
+    ],
+    "geo": {
+      "lat": "25.182",
+      "lon": "90.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45890067",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নকলা",
+      "en": "Nakla",
+      "slug": "nakla-bd45890067"
+    },
+    "code": {
+      "id": "BD45890067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4589",
+      "level": 2,
+      "name": {
+        "local": "শেরপুর",
+        "en": "Sherpur",
+        "slug": "sherpur-bd4589"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4589",
+        "level": 2,
+        "name": {
+          "local": "শেরপুর",
+          "en": "Sherpur",
+          "slug": "sherpur-bd4589"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2151"
+    ],
+    "geo": {
+      "lat": "24.958",
+      "lon": "90.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45890070",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নালিতাবাড়ী",
+      "en": "Nalitabari",
+      "slug": "nalitabari-bd45890070"
+    },
+    "code": {
+      "id": "BD45890070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4589",
+      "level": 2,
+      "name": {
+        "local": "শেরপুর",
+        "en": "Sherpur",
+        "slug": "sherpur-bd4589"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4589",
+        "level": 2,
+        "name": {
+          "local": "শেরপুর",
+          "en": "Sherpur",
+          "slug": "sherpur-bd4589"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2111"
+    ],
+    "geo": {
+      "lat": "25.117",
+      "lon": "90.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45890088",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শেরপুর সদর",
+      "en": "Sherpur Sadar",
+      "slug": "sherpur-sadar-bd45890088"
+    },
+    "code": {
+      "id": "BD45890088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4589",
+      "level": 2,
+      "name": {
+        "local": "শেরপুর",
+        "en": "Sherpur",
+        "slug": "sherpur-bd4589"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4589",
+        "level": 2,
+        "name": {
+          "local": "শেরপুর",
+          "en": "Sherpur",
+          "slug": "sherpur-bd4589"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7101"
+    ],
+    "geo": {
+      "lat": "24.991",
+      "lon": "90.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45890090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শ্রীবরদী",
+      "en": "Sreebardi",
+      "slug": "sreebardi-bd45890090"
+    },
+    "code": {
+      "id": "BD45890090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4589",
+      "level": 2,
+      "name": {
+        "local": "শেরপুর",
+        "en": "Sherpur",
+        "slug": "sherpur-bd4589"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4589",
+        "level": 2,
+        "name": {
+          "local": "শেরপুর",
+          "en": "Sherpur",
+          "slug": "sherpur-bd4589"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2130"
+    ],
+    "geo": {
+      "lat": "25.165",
+      "lon": "89.957"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

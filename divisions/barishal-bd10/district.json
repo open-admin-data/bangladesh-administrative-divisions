@@ -1,0 +1,296 @@
+[
+  {
+    "id": "BD1004",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বরগুনা",
+      "en": "Barguna",
+      "slug": "barguna-bd1004"
+    },
+    "code": {
+      "id": "BD1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "8710"
+    ],
+    "geo": {
+      "lat": "22.128",
+      "lon": "90.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1006",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd1006"
+    },
+    "code": {
+      "id": "BD1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 10
+    },
+    "zip_codes": [
+      "8240"
+    ],
+    "geo": {
+      "lat": "22.819",
+      "lon": "90.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1009",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ভোলা",
+      "en": "Bhola",
+      "slug": "bhola-bd1009"
+    },
+    "code": {
+      "id": "BD1009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "8300"
+    ],
+    "geo": {
+      "lat": "22.31",
+      "lon": "90.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1042",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ঝালকাঠি",
+      "en": "Jhalokati",
+      "slug": "jhalokati-bd1042"
+    },
+    "code": {
+      "id": "BD1042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 4
+    },
+    "zip_codes": [
+      "8402"
+    ],
+    "geo": {
+      "lat": "22.572",
+      "lon": "90.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1078",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পটুয়াখালী",
+      "en": "Patuakhali",
+      "slug": "patuakhali-bd1078"
+    },
+    "code": {
+      "id": "BD1078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 8
+    },
+    "zip_codes": [
+      "8621"
+    ],
+    "geo": {
+      "lat": "22.165",
+      "lon": "90.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1079",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পিরোজপুর",
+      "en": "Pirojpur",
+      "slug": "pirojpur-bd1079"
+    },
+    "code": {
+      "id": "BD1079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "8530"
+    ],
+    "geo": {
+      "lat": "22.532",
+      "lon": "89.992"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

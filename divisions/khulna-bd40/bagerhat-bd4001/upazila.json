@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD40010008",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাগেরহাট সদর",
+      "en": "Bagerhat Sadar",
+      "slug": "bagerhat-sadar-bd40010008"
+    },
+    "code": {
+      "id": "BD40010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9300"
+    ],
+    "geo": {
+      "lat": "22.676",
+      "lon": "89.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চিতলমারী",
+      "en": "Chitalmari",
+      "slug": "chitalmari-bd40010014"
+    },
+    "code": {
+      "id": "BD40010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9361"
+    ],
+    "geo": {
+      "lat": "22.811",
+      "lon": "89.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010034",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফকিরহাট",
+      "en": "Fakirhat",
+      "slug": "fakirhat-bd40010034"
+    },
+    "code": {
+      "id": "BD40010034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9372"
+    ],
+    "geo": {
+      "lat": "22.743",
+      "lon": "89.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কচুয়া",
+      "en": "Kachua",
+      "slug": "kachua-bd40010038"
+    },
+    "code": {
+      "id": "BD40010038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3630"
+    ],
+    "geo": {
+      "lat": "22.652",
+      "lon": "89.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মোল্লাহাট",
+      "en": "Mollahat",
+      "slug": "mollahat-bd40010056"
+    },
+    "code": {
+      "id": "BD40010056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9383"
+    ],
+    "geo": {
+      "lat": "22.884",
+      "lon": "89.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মোংলা",
+      "en": "Mongla",
+      "slug": "mongla-bd40010058"
+    },
+    "code": {
+      "id": "BD40010058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9350"
+    ],
+    "geo": {
+      "lat": "22.117",
+      "lon": "89.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010060",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মোড়েলগঞ্জ",
+      "en": "Morelganj",
+      "slug": "morelganj-bd40010060"
+    },
+    "code": {
+      "id": "BD40010060",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9320"
+    ],
+    "geo": {
+      "lat": "22.483",
+      "lon": "89.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010073",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রামপাল",
+      "en": "Rampal",
+      "slug": "rampal-bd40010073"
+    },
+    "code": {
+      "id": "BD40010073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9341"
+    ],
+    "geo": {
+      "lat": "22.59",
+      "lon": "89.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40010077",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শরণখোলা",
+      "en": "Sharankhola",
+      "slug": "sharankhola-bd40010077"
+    },
+    "code": {
+      "id": "BD40010077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4001",
+      "level": 2,
+      "name": {
+        "local": "বাগেরহাট",
+        "en": "Bagerhat",
+        "slug": "bagerhat-bd4001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4001",
+        "level": 2,
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9330"
+    ],
+    "geo": {
+      "lat": "22.063",
+      "lon": "89.822"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

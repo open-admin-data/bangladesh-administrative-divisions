@@ -1,0 +1,49 @@
+{
+  "id": "BD5081",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "রাজশাহী",
+    "en": "Rajshahi",
+    "slug": "rajshahi-bd5081"
+  },
+  "code": {
+    "id": "BD5081",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "6281"
+  ],
+  "geo": {
+    "lat": "24.468",
+    "lon": "88.651"
+  },
+  "metadata": {},
+  "source": {}
+}

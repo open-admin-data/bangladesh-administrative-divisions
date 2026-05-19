@@ -1,0 +1,730 @@
+[
+  {
+    "id": "BD30480002",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "অষ্টগ্রাম",
+      "en": "Austagram",
+      "slug": "austagram-bd30480002"
+    },
+    "code": {
+      "id": "BD30480002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2380"
+    ],
+    "geo": {
+      "lat": "24.324",
+      "lon": "91.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480006",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাজিতপুর",
+      "en": "Bajitpur",
+      "slug": "bajitpur-bd30480006"
+    },
+    "code": {
+      "id": "BD30480006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2336"
+    ],
+    "geo": {
+      "lat": "24.227",
+      "lon": "90.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480011",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভৈরব",
+      "en": "Bhairab",
+      "slug": "bhairab-bd30480011"
+    },
+    "code": {
+      "id": "BD30480011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2350"
+    ],
+    "geo": {
+      "lat": "24.102",
+      "lon": "90.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480027",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হোসেনপুর",
+      "en": "Hossainpur",
+      "slug": "hossainpur-bd30480027"
+    },
+    "code": {
+      "id": "BD30480027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2320"
+    ],
+    "geo": {
+      "lat": "24.448",
+      "lon": "90.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ইটনা",
+      "en": "Itna",
+      "slug": "itna-bd30480033"
+    },
+    "code": {
+      "id": "BD30480033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2390"
+    ],
+    "geo": {
+      "lat": "24.551",
+      "lon": "91.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480042",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "করিমগঞ্জ",
+      "en": "Karimganj",
+      "slug": "karimganj-bd30480042"
+    },
+    "code": {
+      "id": "BD30480042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2310"
+    ],
+    "geo": {
+      "lat": "24.454",
+      "lon": "90.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480045",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কটিয়াদী",
+      "en": "Katiadi",
+      "slug": "katiadi-bd30480045"
+    },
+    "code": {
+      "id": "BD30480045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2331"
+    ],
+    "geo": {
+      "lat": "24.295",
+      "lon": "90.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480049",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কিশোরগঞ্জ সদর",
+      "en": "Kishoreganj Sadar",
+      "slug": "kishoreganj-sadar-bd30480049"
+    },
+    "code": {
+      "id": "BD30480049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2301"
+    ],
+    "geo": {
+      "lat": "24.426",
+      "lon": "90.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480054",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কুলিয়ারচর",
+      "en": "Kuliarchar",
+      "slug": "kuliarchar-bd30480054"
+    },
+    "code": {
+      "id": "BD30480054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2341"
+    ],
+    "geo": {
+      "lat": "24.153",
+      "lon": "90.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480059",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মিঠামইন",
+      "en": "Mithamain",
+      "slug": "mithamain-bd30480059"
+    },
+    "code": {
+      "id": "BD30480059",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2371"
+    ],
+    "geo": {
+      "lat": "24.433",
+      "lon": "91.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নিকলী",
+      "en": "Nikli",
+      "slug": "nikli-bd30480076"
+    },
+    "code": {
+      "id": "BD30480076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2360"
+    ],
+    "geo": {
+      "lat": "24.338",
+      "lon": "90.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480079",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পাকুন্দিয়া",
+      "en": "Pakundia",
+      "slug": "pakundia-bd30480079"
+    },
+    "code": {
+      "id": "BD30480079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2326"
+    ],
+    "geo": {
+      "lat": "24.321",
+      "lon": "90.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30480092",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তাড়াইল",
+      "en": "Tarail",
+      "slug": "tarail-bd30480092"
+    },
+    "code": {
+      "id": "BD30480092",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3048",
+      "level": 2,
+      "name": {
+        "local": "কিশোরগঞ্জ",
+        "en": "Kishoreganj",
+        "slug": "kishoreganj-bd3048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3048",
+        "level": 2,
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3432"
+    ],
+    "geo": {
+      "lat": "24.551",
+      "lon": "90.891"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

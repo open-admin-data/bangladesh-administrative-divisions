@@ -1,0 +1,49 @@
+{
+  "id": "BD5088",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "সিরাজগঞ্জ",
+    "en": "Sirajganj",
+    "slug": "sirajganj-bd5088"
+  },
+  "code": {
+    "id": "BD5088",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "6730"
+  ],
+  "geo": {
+    "lat": "24.392",
+    "lon": "89.601"
+  },
+  "metadata": {},
+  "source": {}
+}

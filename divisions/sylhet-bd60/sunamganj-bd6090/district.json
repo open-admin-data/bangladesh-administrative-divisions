@@ -1,0 +1,49 @@
+{
+  "id": "BD6090",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "সুনামগঞ্জ",
+    "en": "Sunamganj",
+    "slug": "sunamganj-bd6090"
+  },
+  "code": {
+    "id": "BD6090",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD60",
+    "level": 1,
+    "name": {
+      "local": "সিলেট",
+      "en": "Sylhet",
+      "slug": "sylhet-bd60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD60",
+      "level": 1,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd60"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 12
+  },
+  "zip_codes": [
+    "3010"
+  ],
+  "geo": {
+    "lat": "24.94",
+    "lon": "91.346"
+  },
+  "metadata": {},
+  "source": {}
+}

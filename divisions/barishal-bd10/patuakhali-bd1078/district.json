@@ -1,0 +1,49 @@
+{
+  "id": "BD1078",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "পটুয়াখালী",
+    "en": "Patuakhali",
+    "slug": "patuakhali-bd1078"
+  },
+  "code": {
+    "id": "BD1078",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD10",
+    "level": 1,
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 8
+  },
+  "zip_codes": [
+    "8621"
+  ],
+  "geo": {
+    "lat": "22.165",
+    "lon": "90.407"
+  },
+  "metadata": {},
+  "source": {}
+}

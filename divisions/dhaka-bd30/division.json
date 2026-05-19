@@ -1,0 +1,30 @@
+{
+  "id": "BD30",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "ঢাকা",
+    "en": "Dhaka",
+    "slug": "dhaka-bd30"
+  },
+  "code": {
+    "id": "BD30",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13,
+    "upazila": 89
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.839",
+    "lon": "90.242"
+  },
+  "metadata": {},
+  "source": {}
+}

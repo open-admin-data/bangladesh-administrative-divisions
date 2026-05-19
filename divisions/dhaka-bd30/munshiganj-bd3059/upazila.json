@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD30590024",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গজারিয়া",
+      "en": "Gazaria",
+      "slug": "gazaria-bd30590024"
+    },
+    "code": {
+      "id": "BD30590024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3059",
+      "level": 2,
+      "name": {
+        "local": "মুন্সিগঞ্জ",
+        "en": "Munshiganj",
+        "slug": "munshiganj-bd3059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3059",
+        "level": 2,
+        "name": {
+          "local": "মুন্সিগঞ্জ",
+          "en": "Munshiganj",
+          "slug": "munshiganj-bd3059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1510"
+    ],
+    "geo": {
+      "lat": "23.547",
+      "lon": "90.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30590044",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লৌহজং",
+      "en": "Louhajang",
+      "slug": "louhajang-bd30590044"
+    },
+    "code": {
+      "id": "BD30590044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3059",
+      "level": 2,
+      "name": {
+        "local": "মুন্সিগঞ্জ",
+        "en": "Munshiganj",
+        "slug": "munshiganj-bd3059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3059",
+        "level": 2,
+        "name": {
+          "local": "মুন্সিগঞ্জ",
+          "en": "Munshiganj",
+          "slug": "munshiganj-bd3059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1535"
+    ],
+    "geo": {
+      "lat": "23.469",
+      "lon": "90.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30590056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মুন্সিগঞ্জ সদর",
+      "en": "Munshiganj Sadar",
+      "slug": "munshiganj-sadar-bd30590056"
+    },
+    "code": {
+      "id": "BD30590056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3059",
+      "level": 2,
+      "name": {
+        "local": "মুন্সিগঞ্জ",
+        "en": "Munshiganj",
+        "slug": "munshiganj-bd3059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3059",
+        "level": 2,
+        "name": {
+          "local": "মুন্সিগঞ্জ",
+          "en": "Munshiganj",
+          "slug": "munshiganj-bd3059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1503"
+    ],
+    "geo": {
+      "lat": "23.487",
+      "lon": "90.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30590074",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সিরাজদিখান",
+      "en": "Sirajdikhan",
+      "slug": "sirajdikhan-bd30590074"
+    },
+    "code": {
+      "id": "BD30590074",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3059",
+      "level": 2,
+      "name": {
+        "local": "মুন্সিগঞ্জ",
+        "en": "Munshiganj",
+        "slug": "munshiganj-bd3059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3059",
+        "level": 2,
+        "name": {
+          "local": "মুন্সিগঞ্জ",
+          "en": "Munshiganj",
+          "slug": "munshiganj-bd3059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1542"
+    ],
+    "geo": {
+      "lat": "23.598",
+      "lon": "90.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30590084",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শ্রীনগর",
+      "en": "Sreenagar",
+      "slug": "sreenagar-bd30590084"
+    },
+    "code": {
+      "id": "BD30590084",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3059",
+      "level": 2,
+      "name": {
+        "local": "মুন্সিগঞ্জ",
+        "en": "Munshiganj",
+        "slug": "munshiganj-bd3059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3059",
+        "level": 2,
+        "name": {
+          "local": "মুন্সিগঞ্জ",
+          "en": "Munshiganj",
+          "slug": "munshiganj-bd3059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1541"
+    ],
+    "geo": {
+      "lat": "23.546",
+      "lon": "90.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30590094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "টংগীবাড়ি",
+      "en": "Tongibari",
+      "slug": "tongibari-bd30590094"
+    },
+    "code": {
+      "id": "BD30590094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3059",
+      "level": 2,
+      "name": {
+        "local": "মুন্সিগঞ্জ",
+        "en": "Munshiganj",
+        "slug": "munshiganj-bd3059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3059",
+        "level": 2,
+        "name": {
+          "local": "মুন্সিগঞ্জ",
+          "en": "Munshiganj",
+          "slug": "munshiganj-bd3059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1523"
+    ],
+    "geo": {
+      "lat": "23.475",
+      "lon": "90.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

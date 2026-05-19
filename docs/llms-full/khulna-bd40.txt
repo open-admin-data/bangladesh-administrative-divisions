@@ -1,0 +1,295 @@
+# Khulna — Bangladesh Administrative Divisions
+
+> 10 districts, 59 upazilas
+> Code: BD40
+> Coordinates: 22.838, 89.305
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### বাগেরহাট (Bagerhat)
+
+Code: BD4001, Coordinates: 22.329, 89.744
+Upazilas: 9
+
+#### বাগেরহাট সদর (Bagerhat Sadar)
+
+Code: BD40010008, Postal: 9300, Coordinates: 22.676, 89.763
+
+#### চিতলমারী (Chitalmari)
+
+Code: BD40010014, Postal: 9361, Coordinates: 22.811, 89.865
+
+#### ফকিরহাট (Fakirhat)
+
+Code: BD40010034, Postal: 9372, Coordinates: 22.743, 89.666
+
+#### কচুয়া (Kachua)
+
+Code: BD40010038, Postal: 3630, Coordinates: 22.652, 89.874
+
+#### মোল্লাহাট (Mollahat)
+
+Code: BD40010056, Postal: 9383, Coordinates: 22.884, 89.773
+
+#### মোংলা (Mongla)
+
+Code: BD40010058, Postal: 9350, Coordinates: 22.117, 89.66
+
+#### মোড়েলগঞ্জ (Morelganj)
+
+Code: BD40010060, Postal: 9320, Coordinates: 22.483, 89.834
+
+#### রামপাল (Rampal)
+
+Code: BD40010073, Postal: 9341, Coordinates: 22.59, 89.651
+
+#### শরণখোলা (Sharankhola)
+
+Code: BD40010077, Postal: 9330, Coordinates: 22.063, 89.822
+
+### চুয়াডাঙ্গা (Chuadanga)
+
+Code: BD4018, Coordinates: 23.609, 88.849
+Upazilas: 4
+
+#### আলমডাঙ্গা (Alamdanga)
+
+Code: BD40180007, Postal: 7210, Coordinates: 23.73, 88.908
+
+#### চুয়াডাঙ্গা সদর (Chuadanga Sadar)
+
+Code: BD40180023, Postal: 7200, Coordinates: 23.589, 88.885
+
+#### দামুড়হুদা (Damurhuda)
+
+Code: BD40180031, Postal: 7222, Coordinates: 23.592, 88.74
+
+#### জীবননগর (Jibannagar)
+
+Code: BD40180055, Postal: 7230, Coordinates: 23.443, 88.85
+
+### যশোর (Jashore)
+
+Code: BD4041, Coordinates: 23.089, 89.175
+Upazilas: 8
+
+#### অভয়নগর (Abhaynagar)
+
+Code: BD40410004, Postal: 7460, Coordinates: 23.018, 89.42
+
+#### বাঘারপাড়া (Bagharpara)
+
+Code: BD40410009, Postal: 7470, Coordinates: 23.243, 89.335
+
+#### চৌগাছা (Chaugachha)
+
+Code: BD40410011, Postal: 7410, Coordinates: 23.263, 89.023
+
+#### নাটোর সদর (Jashore Sadar)
+
+Code: BD40410047, Postal: 7406, Coordinates: 23.182, 89.219
+
+#### ঝিকরগাছা (Jhikargachha)
+
+Code: BD40410023, Postal: 7420, Coordinates: 23.069, 89.054
+
+#### কেশবপুর (Keshabpur)
+
+Code: BD40410038, Postal: 7450, Coordinates: 22.88, 89.232
+
+#### মণিরামপুর (Manirampur)
+
+Code: BD40410061, Postal: 7440, Coordinates: 23.006, 89.22
+
+#### শার্শা (Sharsha)
+
+Code: BD40410090, Postal: 7432, Coordinates: 23.045, 88.941
+
+### ঝিনাইদহ (Jhenaidah)
+
+Code: BD4044, Coordinates: 23.488, 89.087
+Upazilas: 6
+
+#### হরিণাকুন্ডু (Harinakundu)
+
+Code: BD40440014, Postal: 7310, Coordinates: 23.644, 89.077
+
+#### ঝিনাইদহ সদর (Jhenaidah Sadar)
+
+Code: BD40440019, Postal: 7300, Coordinates: 23.516, 89.158
+
+#### কালীগঞ্জ (Kaliganj)
+
+Code: BD40440033, Postal: 1720, Coordinates: 23.37, 89.152
+
+#### কোটচাঁদপুর (Kotchandpur)
+
+Code: BD40440042, Postal: 7330, Coordinates: 23.445, 89.001
+
+#### মহেশপুর (Maheshpur)
+
+Code: BD40440071, Postal: 7340, Coordinates: 23.32, 88.86
+
+#### শৈলকুপা (Shailkupa)
+
+Code: BD40440080, Postal: 7300, Coordinates: 23.664, 89.243
+
+### খুলনা (Khulna)
+
+Code: BD4047, Coordinates: 22.366, 89.453
+Upazilas: 9
+
+#### বটিয়াঘাটা (Batiaghata)
+
+Code: BD40470012, Postal: 9260, Coordinates: 22.713, 89.515
+
+#### দাকোপ (Dacope)
+
+Code: BD40470017, Postal: 9350, Coordinates: 22.242, 89.526
+
+#### কাঠালিয়া (Dighalia)
+
+Code: BD40470040, Postal: 9220, Coordinates: 22.922, 89.554
+
+#### ডুমুরিয়া (Dumuria)
+
+Code: BD40470030, Postal: 9250, Coordinates: 22.806, 89.398
+
+#### কয়রা (Koyra)
+
+Code: BD40470053, Postal: 9291, Coordinates: 22.078, 89.395
+
+#### চৌগাছা (Paikgachha)
+
+Code: BD40470064, Postal: 9284, Coordinates: 22.59, 89.34
+
+#### ফুলতলা (Phultala)
+
+Code: BD40470069, Postal: 9210, Coordinates: 22.948, 89.454
+
+#### রূপসা (Rupsa)
+
+Code: BD40470075, Postal: 9100, Coordinates: 22.819, 89.636
+
+#### তেরখাদা (Terokhada)
+
+Code: BD40470094, Postal: 9230, Coordinates: 22.914, 89.655
+
+### কুষ্টিয়া (Kushtia)
+
+Code: BD4050, Coordinates: 23.926, 89.018
+Upazilas: 6
+
+#### ভেড়ামারা (Bheramara)
+
+Code: BD40500015, Postal: 7042, Coordinates: 24.056, 88.981
+
+#### দৌলতপুর (Daulatpur)
+
+Code: BD40500039, Postal: 1860, Coordinates: 24.034, 88.836
+
+#### খোকসা (Khoksa)
+
+Code: BD40500063, Postal: 7020, Coordinates: 23.811, 89.3
+
+#### কুমারখালী (Kumarkhali)
+
+Code: BD40500071, Postal: 7010, Coordinates: 23.858, 89.21
+
+#### কুষ্টিয়া সদর (Kushtia Sadar)
+
+Code: BD40500079, Postal: 7003, Coordinates: 23.824, 89.09
+
+#### মিরপুর (Mirpur)
+
+Code: BD40500094, Postal: 1216, Coordinates: 23.897, 88.986
+
+### মাগুরা (Magura)
+
+Code: BD4055, Coordinates: 23.444, 89.433
+Upazilas: 4
+
+#### মাগুরা সদর (Magura Sadar)
+
+Code: BD40550057, Postal: 7600, Coordinates: 23.452, 89.412
+
+#### মহম্মদপুর (Mohammadpur)
+
+Code: BD40550066, Postal: 1207, Coordinates: 23.4, 89.551
+
+#### শালিখা (Shalikha)
+
+Code: BD40550085, Postal: 7620, Coordinates: 23.348, 89.359
+
+#### শ্রীপুর (Sreepur)
+
+Code: BD40550095, Postal: 1743, Coordinates: 23.598, 89.424
+
+### মেহেরপুর (Meherpur)
+
+Code: BD4057, Coordinates: 23.794, 88.707
+Upazilas: 3
+
+#### গাংনী (Gangni)
+
+Code: BD40570047, Postal: 7110, Coordinates: 23.857, 88.771
+
+#### মেহেরপুর সদর (Meherpur Sadar)
+
+Code: BD40570087, Postal: 7101, Coordinates: 23.765, 88.661
+
+#### মুজিবনগর (Mujibnagar)
+
+Code: BD40570060, Postal: 7100, Coordinates: 23.668, 88.621
+
+### নড়াইল (Narail)
+
+Code: BD4065, Coordinates: 23.131, 89.578
+Upazilas: 3
+
+#### কালিয়া (Kalia)
+
+Code: BD40650028, Postal: 7520, Coordinates: 23.029, 89.642
+
+#### লোহাগড়া (Lohagara)
+
+Code: BD40650052, Postal: 4398, Coordinates: 23.204, 89.624
+
+#### নড়াইল সদর (Narail Sadar)
+
+Code: BD40650076, Postal: 7500, Coordinates: 23.155, 89.495
+
+### সাতক্ষীরা (Satkhira)
+
+Code: BD4087, Coordinates: 22.308, 89.143
+Upazilas: 7
+
+#### আশাশুনি (Ashashuni)
+
+Code: BD40870004, Postal: 9460, Coordinates: 22.519, 89.187
+
+#### দেবহাটা (Debhata)
+
+Code: BD40870025, Postal: 9430, Coordinates: 22.597, 89.013
+
+#### কলারোয়া (Kalaroa)
+
+Code: BD40870043, Postal: 9415, Coordinates: 22.88, 89.03
+
+#### কালীগঞ্জ (Kaliganj)
+
+Code: BD40870047, Postal: 1720, Coordinates: 22.447, 89.062
+
+#### সাতক্ষীরা সদর (Satkhira Sadar)
+
+Code: BD40870082, Postal: 9403, Coordinates: 22.72, 89.038
+
+#### শ্যামনগর (Shyamnagar)
+
+Code: BD40870086, Postal: 9450, Coordinates: 22.012, 89.181
+
+#### তালা (Tala)
+
+Code: BD40870090, Postal: 9420, Coordinates: 22.74, 89.211
+

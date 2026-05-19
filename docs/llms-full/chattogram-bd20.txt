@@ -1,0 +1,480 @@
+# Chattogram — Bangladesh Administrative Divisions
+
+> 11 districts, 104 upazilas
+> Code: BD20
+> Coordinates: 22.701, 91.706
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### বান্দরবান (Bandarban)
+
+Code: BD2003, Coordinates: 21.805, 92.365
+Upazilas: 7
+
+#### আলীকদম (Alikadam)
+
+Code: BD20030004, Postal: 4650, Coordinates: 21.596, 92.403
+
+#### বান্দরবান সদর (Bandarban Sadar)
+
+Code: BD20030014, Postal: 4600, Coordinates: 22.065, 92.233
+
+#### লামা (Lama)
+
+Code: BD20030051, Postal: 4640, Coordinates: 21.81, 92.212
+
+#### নাইক্ষ্যংছড়ি (Naikkhongchhari)
+
+Code: BD20030073, Postal: 4660, Coordinates: 21.471, 92.243
+
+#### রোয়াংছড়ি (Rowangchhari)
+
+Code: BD20030089, Postal: 4610, Coordinates: 22.199, 92.352
+
+#### রুমা (Ruma)
+
+Code: BD20030091, Postal: 4620, Coordinates: 22.008, 92.449
+
+#### থানচি (Thanchi)
+
+Code: BD20030095, Postal: 4641, Coordinates: 21.643, 92.533
+
+### ব্রাহ্মণবাড়ীয়া (Brahmanbaria)
+
+Code: BD2012, Coordinates: 23.953, 91.083
+Upazilas: 9
+
+#### আখাউড়া (Akhaura)
+
+Code: BD20120002, Postal: 3450, Coordinates: 23.841, 91.19
+
+#### আশুগঞ্জ (Ashuganj)
+
+Code: BD20120033, Postal: 3402, Coordinates: 24.018, 91.018
+
+#### বাঞ্ছারামপুর (Banchharampur)
+
+Code: BD20120004, Postal: 3420, Coordinates: 23.781, 90.807
+
+#### বিজয়নগর (Bijoynagar)
+
+Code: BD20120007, Postal: 3470, Coordinates: 23.992, 91.227
+
+#### ব্রাহ্মণবাড়িয়া সদর (Brahmanbaria Sadar)
+
+Code: BD20120013, Postal: 3402, Coordinates: 23.95, 91.116
+
+#### কসবা (Kasba)
+
+Code: BD20120063, Postal: 3462, Coordinates: 23.761, 91.131
+
+#### নবীনগর (Nabinagar)
+
+Code: BD20120085, Postal: 3419, Coordinates: 23.863, 90.98
+
+#### নাসিরনগর (Nasirnagar)
+
+Code: BD20120090, Postal: 3441, Coordinates: 24.182, 91.187
+
+#### সরাইল (Sarail)
+
+Code: BD20120094, Postal: 3432, Coordinates: 24.103, 91.113
+
+### চাঁদপুর (Chandpur)
+
+Code: BD2013, Coordinates: 23.261, 90.749
+Upazilas: 8
+
+#### চাঁদপুর সদর (Chandpur Sadar)
+
+Code: BD20130022, Postal: 3602, Coordinates: 23.232, 90.651
+
+#### ফরিদগঞ্জ (Faridganj)
+
+Code: BD20130045, Postal: 3651, Coordinates: 23.144, 90.762
+
+#### হাইমচর (Haimchar)
+
+Code: BD20130047, Postal: 3660, Coordinates: 23.077, 90.617
+
+#### হাজীগঞ্জ (Hajiganj)
+
+Code: BD20130049, Postal: 3611, Coordinates: 23.258, 90.837
+
+#### কচুয়া (Kachua)
+
+Code: BD20130058, Postal: 3630, Coordinates: 23.359, 90.883
+
+#### মতলব দক্ষিণ (Matlab Dakkhin)
+
+Code: BD20130076, Postal: 3517, Coordinates: 23.348, 90.747
+
+#### মতলব উত্তর (Matlab Uttar)
+
+Code: BD20130079, Postal: 3640, Coordinates: 23.41, 90.641
+
+#### শাহরাস্তি (Shahrasti)
+
+Code: BD20130095, Postal: 3623, Coordinates: 23.206, 90.957
+
+### চট্টগ্রাম (Chattogram)
+
+Code: BD2015, Coordinates: 22.447, 91.819
+Upazilas: 15
+
+#### আনোয়ারা (Anwara)
+
+Code: BD20150004, Postal: 4376, Coordinates: 22.198, 91.879
+
+#### বাঁশখালী (Banshkhali)
+
+Code: BD20150008, Postal: 4393, Coordinates: 22.017, 91.938
+
+#### বোয়ালখালী (Boalkhali)
+
+Code: BD20150012, Postal: 4366, Coordinates: 22.377, 91.966
+
+#### চন্দনাইশ (Chandanaish)
+
+Code: BD20150018, Postal: 4383, Coordinates: 22.212, 92.065
+
+#### ফটিকছড়ি (Fatikchhari)
+
+Code: BD20150033, Postal: 4352, Coordinates: 22.755, 91.749
+
+#### হাটহাজারী (Hathazari)
+
+Code: BD20150037, Postal: 4331, Coordinates: 22.526, 91.798
+
+#### কর্ণফুলী (Karnaphuli)
+
+Code: BD20150039, Postal: 4000, Coordinates: 22.287, 91.846
+
+#### লোহাগড়া (Lohagara)
+
+Code: BD20150047, Postal: 4398, Coordinates: 21.986, 92.112
+
+#### সরাইল (Mirsarai)
+
+Code: BD20150053, Postal: 4329, Coordinates: 22.804, 91.548
+
+#### পটিয়া (Patiya)
+
+Code: BD20150061, Postal: 4371, Coordinates: 22.293, 91.987
+
+#### রাঙ্গুনিয়া (Rangunia)
+
+Code: BD20150070, Postal: 4361, Coordinates: 22.466, 92.068
+
+#### রাউজান (Raozan)
+
+Code: BD20150074, Postal: 4341, Coordinates: 22.52, 91.917
+
+#### সন্দ্বীপ (Sandwip)
+
+Code: BD20150078, Postal: 4300, Coordinates: 22.511, 91.458
+
+#### সাতকানিয়া (Satkania)
+
+Code: BD20150082, Postal: 4387, Coordinates: 22.106, 92.06
+
+#### সীতাকুন্ড (Sitakunda)
+
+Code: BD20150086, Postal: 4312, Coordinates: 22.543, 91.657
+
+### কক্সবাজার (Cox&#39;s Bazar)
+
+Code: BD2022, Coordinates: 21.476, 92.063
+Upazilas: 9
+
+#### চকরিয়া (Chakaria)
+
+Code: BD20220016, Postal: 4740, Coordinates: 21.741, 92.052
+
+#### কক্সবাজার সদর (Coxs Bazar Sadar)
+
+Code: BD20220024, Postal: 4700, Coordinates: 21.466, 92.016
+
+#### ঈদগাঁও (Eidgaon)
+
+Code: BD20220032, Postal: 4702, Coordinates: 21.556, 92.059
+
+#### কুতুবদিয়া (Kutubdia)
+
+Code: BD20220045, Postal: 4720, Coordinates: 21.838, 91.863
+
+#### মহেশখালী (Maheshkhali)
+
+Code: BD20220049, Postal: 4700, Coordinates: 21.607, 91.92
+
+#### পেকুয়া (Pekua)
+
+Code: BD20220056, Postal: 4770, Coordinates: 21.816, 91.945
+
+#### রামু (Ramu)
+
+Code: BD20220066, Postal: 4730, Coordinates: 21.439, 92.12
+
+#### টেকনাফ (Teknaf)
+
+Code: BD20220090, Postal: 4761, Coordinates: 20.969, 92.237
+
+#### উখিয়া (Ukhia)
+
+Code: BD20220094, Postal: 4750, Coordinates: 21.228, 92.115
+
+### কুমিল্লা (Cumilla)
+
+Code: BD2019, Coordinates: 23.437, 91.033
+Upazilas: 17
+
+#### আদর্শ সদর (Adarsha Sadar)
+
+Code: BD20190067, Postal: 3501, Coordinates: 23.48, 91.157
+
+#### বরুড়া (Barura)
+
+Code: BD20190009, Postal: 3560, Coordinates: 23.357, 91.04
+
+#### ব্রাহ্মণপাড়া (Brahmanpara)
+
+Code: BD20190015, Postal: 3526, Coordinates: 23.647, 91.096
+
+#### বুড়িচং (Burichang)
+
+Code: BD20190018, Postal: 3520, Coordinates: 23.535, 91.117
+
+#### চান্দিনা (Chandina)
+
+Code: BD20190027, Postal: 3510, Coordinates: 23.446, 90.945
+
+#### চৌদ্দগ্রাম (Chauddagram)
+
+Code: BD20190031, Postal: 3551, Coordinates: 23.222, 91.28
+
+#### দাউদকান্দি (Daudkandi)
+
+Code: BD20190036, Postal: 3518, Coordinates: 23.503, 90.773
+
+#### দেবিদ্বার (Debidwar)
+
+Code: BD20190040, Postal: 3531, Coordinates: 23.58, 90.998
+
+#### হোমনা (Homna)
+
+Code: BD20190054, Postal: 3546, Coordinates: 23.68, 90.811
+
+#### লাকসাম (Laksam)
+
+Code: BD20190072, Postal: 3572, Coordinates: 23.231, 91.105
+
+#### লালমাই (Lalmai)
+
+Code: BD20190073, Postal: 3573, Coordinates: 23.298, 91.159
+
+#### মনোহরগঞ্জ (Manoharganj)
+
+Code: BD20190074, Postal: 3562, Coordinates: 23.138, 91.067
+
+#### মেঘনা (Meghna)
+
+Code: BD20190075, Postal: 3515, Coordinates: 23.626, 90.69
+
+#### মুরাদনগর (Muradnagar)
+
+Code: BD20190081, Postal: 3543, Coordinates: 23.678, 90.943
+
+#### নাঙ্গলকোট (Nangalkot)
+
+Code: BD20190087, Postal: 3582, Coordinates: 23.14, 91.209
+
+#### সদর দক্ষিণ (Sadar Dakkhin)
+
+Code: BD20190033, Postal: 3500, Coordinates: 23.388, 91.202
+
+#### তিতাস (Titas)
+
+Code: BD20190094, Postal: 3547, Coordinates: 23.591, 90.796
+
+### ফেনী (Feni)
+
+Code: BD2030, Coordinates: 22.995, 91.412
+Upazilas: 6
+
+#### ছাগলনাইয়া (Chhagalnaiya)
+
+Code: BD20300014, Postal: 3910, Coordinates: 23.02, 91.507
+
+#### দাগনভূঞা (Daganbhuiyan)
+
+Code: BD20300025, Postal: 3923, Coordinates: 22.972, 91.3
+
+#### ফেনী সদর (Feni Sadar)
+
+Code: BD20300029, Postal: 3901, Coordinates: 22.991, 91.416
+
+#### ফুলগাজী (Fulgazi)
+
+Code: BD20300041, Postal: 3950, Coordinates: 23.118, 91.442
+
+#### পরশুরাম (Parashuram)
+
+Code: BD20300051, Postal: 3940, Coordinates: 23.202, 91.438
+
+#### সোনাগাজী (Sonagazi)
+
+Code: BD20300094, Postal: 3932, Coordinates: 22.854, 91.397
+
+### খাগড়াছড়ি (Khagrachhari)
+
+Code: BD2046, Coordinates: 23.172, 91.956
+Upazilas: 9
+
+#### দিঘীনালা (Dighinala)
+
+Code: BD20460043, Postal: 4420, Coordinates: 23.416, 92.059
+
+#### গুইমারা (Guimara)
+
+Code: BD20460047, Postal: 4440, Coordinates: 22.958, 91.923
+
+#### খাগড়াছড়ি সদর (Khagrachhari Sadar)
+
+Code: BD20460049, Postal: 4400, Coordinates: 23.158, 91.998
+
+#### লক্ষ্মীছড়ি (Lakkhichhari)
+
+Code: BD20460061, Postal: 4470, Coordinates: 22.784, 91.931
+
+#### মহালছড়ি (Mahalchhari)
+
+Code: BD20460065, Postal: 4430, Coordinates: 22.984, 92.049
+
+#### ফটিকছড়ি (Manikchhari)
+
+Code: BD20460067, Postal: 4460, Coordinates: 22.852, 91.827
+
+#### মাটিরাঙ্গা (Matiranga)
+
+Code: BD20460070, Postal: 4450, Coordinates: 23.163, 91.855
+
+#### পানছড়ি (Panchhari)
+
+Code: BD20460077, Postal: 4410, Coordinates: 23.342, 91.925
+
+#### রামগড় (Ramgarh)
+
+Code: BD20460080, Postal: 3721, Coordinates: 22.954, 91.776
+
+### লক্ষ্মীপুর (Lakshmipur)
+
+Code: BD2051, Coordinates: 22.851, 90.854
+Upazilas: 5
+
+#### কমলনগর (Kamalnagar)
+
+Code: BD20510033, Postal: 3700, Coordinates: 22.757, 90.854
+
+#### লক্ষ্মীপুর সদর (Lakshmipur Sadar)
+
+Code: BD20510043, Postal: 3700, Coordinates: 22.911, 90.844
+
+#### রায়পুর (Raipur)
+
+Code: BD20510058, Postal: 9240, Coordinates: 23.005, 90.732
+
+#### রামগঞ্জ (Ramganj)
+
+Code: BD20510065, Postal: 3721, Coordinates: 23.097, 90.873
+
+#### রামগতি (Ramgati)
+
+Code: BD20510073, Postal: 3721, Coordinates: 22.625, 90.922
+
+### নোয়াখালী (Noakhali)
+
+Code: BD2075, Coordinates: 22.658, 91.129
+Upazilas: 9
+
+#### বেগমগঞ্জ (Begumganj)
+
+Code: BD20750007, Postal: 3831, Coordinates: 22.931, 91.094
+
+#### চাটখিল (Chatkhil)
+
+Code: BD20750010, Postal: 3879, Coordinates: 23.053, 90.964
+
+#### কোম্পানীগঞ্জ (Companiganj)
+
+Code: BD20750021, Postal: 3140, Coordinates: 22.759, 91.301
+
+#### পটিয়া (Hatiya)
+
+Code: BD20750036, Postal: 3891, Coordinates: 22.348, 91.091
+
+#### কবিরহাট (Kabirhat)
+
+Code: BD20750047, Postal: 3807, Coordinates: 22.811, 91.199
+
+#### নোয়াখালী সদর (Noakhali Sadar)
+
+Code: BD20750087, Postal: 3811, Coordinates: 22.808, 91.049
+
+#### সেনবাগ (Senbag)
+
+Code: BD20750080, Postal: 3862, Coordinates: 22.991, 91.213
+
+#### সোনাইমুড়ী (Sonaimuri)
+
+Code: BD20750083, Postal: 3827, Coordinates: 23.026, 91.078
+
+#### সুবর্ণচর (Subarnachar)
+
+Code: BD20750085, Postal: 3812, Coordinates: 22.619, 91.156
+
+### রাঙ্গামাটি (Rangamati)
+
+Code: BD2084, Coordinates: 22.825, 92.281
+Upazilas: 10
+
+#### বাঘাইছড়ি (Baghaichhari)
+
+Code: BD20840007, Postal: 4550, Coordinates: 23.383, 92.237
+
+#### বরকল (Barkal)
+
+Code: BD20840021, Postal: 4570, Coordinates: 22.831, 92.346
+
+#### বিলাইছড়ি (Belaichhari)
+
+Code: BD20840029, Postal: 4550, Coordinates: 22.257, 92.483
+
+#### জুরাছড়ি (Jurachhari)
+
+Code: BD20840047, Postal: 4560, Coordinates: 22.559, 92.455
+
+#### কাপ্তাই (Kaptai)
+
+Code: BD20840036, Postal: 4531, Coordinates: 22.462, 92.202
+
+#### কাউখালী (Kawkhali)
+
+Code: BD20840025, Postal: 4510, Coordinates: 22.623, 92.012
+
+#### লংগদু (Langadu)
+
+Code: BD20840058, Postal: 4580, Coordinates: 22.97, 92.217
+
+#### নানিয়ারচর (Naniarchar)
+
+Code: BD20840075, Postal: 2341, Coordinates: 22.834, 92.073
+
+#### রাজস্থলী (Rajasthali)
+
+Code: BD20840078, Postal: 4540, Coordinates: 22.372, 92.245
+
+#### রাঙ্গামাটি সদর (Rangamati Sadar)
+
+Code: BD20840087, Postal: 4500, Coordinates: 22.645, 92.201
+

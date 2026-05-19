@@ -1,0 +1,49 @@
+{
+  "id": "BD5069",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "নাটোর",
+    "en": "Natore",
+    "slug": "natore-bd5069"
+  },
+  "code": {
+    "id": "BD5069",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 7
+  },
+  "zip_codes": [
+    "6422"
+  ],
+  "geo": {
+    "lat": "24.381",
+    "lon": "89.087"
+  },
+  "metadata": {},
+  "source": {}
+}

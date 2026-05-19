@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.upazila,zip_codes,geo.lat,geo.lon
+BD4539,জামালপুর,Jamalpur,jamalpur-bd4539,BD4539,7,2030,24.977,89.847
+BD4561,ময়মনসিংহ,Mymensingh,mymensingh-bd4561,BD4561,13,2240,24.699,90.43
+BD4572,নেত্রকোনা,Netrakona,netrakona-bd4572,BD4572,10,2400,24.871,90.845
+BD4589,শেরপুর,Sherpur,sherpur-bd4589,BD4589,5,2140,25.083,90.075

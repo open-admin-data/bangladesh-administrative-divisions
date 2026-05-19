@@ -1,0 +1,730 @@
+[
+  {
+    "id": "BD45610013",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভালুকা",
+      "en": "Bhaluka",
+      "slug": "bhaluka-bd45610013"
+    },
+    "code": {
+      "id": "BD45610013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2240"
+    ],
+    "geo": {
+      "lat": "24.382",
+      "lon": "90.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610016",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ধোবাউড়া",
+      "en": "Dhobaura",
+      "slug": "dhobaura-bd45610016"
+    },
+    "code": {
+      "id": "BD45610016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2416"
+    ],
+    "geo": {
+      "lat": "25.101",
+      "lon": "90.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610020",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফুলবাড়ীয়া",
+      "en": "Fulbaria",
+      "slug": "fulbaria-bd45610020"
+    },
+    "code": {
+      "id": "BD45610020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2216"
+    ],
+    "geo": {
+      "lat": "24.587",
+      "lon": "90.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610081",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফুলপুর",
+      "en": "Fulpur",
+      "slug": "fulpur-bd45610081"
+    },
+    "code": {
+      "id": "BD45610081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2251"
+    ],
+    "geo": {
+      "lat": "24.953",
+      "lon": "90.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610022",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গফরগাঁও",
+      "en": "Gafargaon",
+      "slug": "gafargaon-bd45610022"
+    },
+    "code": {
+      "id": "BD45610022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2230"
+    ],
+    "geo": {
+      "lat": "24.394",
+      "lon": "90.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610023",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গৌরীপুর",
+      "en": "Gouripur",
+      "slug": "gouripur-bd45610023"
+    },
+    "code": {
+      "id": "BD45610023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2270"
+    ],
+    "geo": {
+      "lat": "24.757",
+      "lon": "90.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610024",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হালুয়াঘাট",
+      "en": "Haluaghat",
+      "slug": "haluaghat-bd45610024"
+    },
+    "code": {
+      "id": "BD45610024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2261"
+    ],
+    "geo": {
+      "lat": "25.084",
+      "lon": "90.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610031",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঈশ্বরগঞ্জ",
+      "en": "Ishwarganj",
+      "slug": "ishwarganj-bd45610031"
+    },
+    "code": {
+      "id": "BD45610031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2282"
+    ],
+    "geo": {
+      "lat": "24.645",
+      "lon": "90.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610065",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মুক্তাগাছা",
+      "en": "Muktagachha",
+      "slug": "muktagachha-bd45610065"
+    },
+    "code": {
+      "id": "BD45610065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2210"
+    ],
+    "geo": {
+      "lat": "24.744",
+      "lon": "90.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610052",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ময়মনসিংহ সদর",
+      "en": "Mymensingh Sadar",
+      "slug": "mymensingh-sadar-bd45610052"
+    },
+    "code": {
+      "id": "BD45610052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2202"
+    ],
+    "geo": {
+      "lat": "24.846",
+      "lon": "90.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610072",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নান্দাইল",
+      "en": "Nandail",
+      "slug": "nandail-bd45610072"
+    },
+    "code": {
+      "id": "BD45610072",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2291"
+    ],
+    "geo": {
+      "lat": "24.549",
+      "lon": "90.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610088",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তারাকান্দা",
+      "en": "Tarakanda",
+      "slug": "tarakanda-bd45610088"
+    },
+    "code": {
+      "id": "BD45610088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2252"
+    ],
+    "geo": {
+      "lat": "24.864",
+      "lon": "90.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45610094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ত্রিশাল",
+      "en": "Trishal",
+      "slug": "trishal-bd45610094"
+    },
+    "code": {
+      "id": "BD45610094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4561",
+      "level": 2,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd4561"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4561",
+        "level": 2,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2221"
+    ],
+    "geo": {
+      "lat": "24.564",
+      "lon": "90.41"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

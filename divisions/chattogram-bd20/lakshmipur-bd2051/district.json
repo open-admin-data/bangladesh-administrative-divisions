@@ -1,0 +1,49 @@
+{
+  "id": "BD2051",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "লক্ষ্মীপুর",
+    "en": "Lakshmipur",
+    "slug": "lakshmipur-bd2051"
+  },
+  "code": {
+    "id": "BD2051",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "3730"
+  ],
+  "geo": {
+    "lat": "22.851",
+    "lon": "90.854"
+  },
+  "metadata": {},
+  "source": {}
+}

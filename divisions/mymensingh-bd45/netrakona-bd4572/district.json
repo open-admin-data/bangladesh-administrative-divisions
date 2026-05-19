@@ -1,0 +1,49 @@
+{
+  "id": "BD4572",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "নেত্রকোনা",
+    "en": "Netrakona",
+    "slug": "netrakona-bd4572"
+  },
+  "code": {
+    "id": "BD4572",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD45",
+    "level": 1,
+    "name": {
+      "local": "ময়মনসিংহ",
+      "en": "Mymensingh",
+      "slug": "mymensingh-bd45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 10
+  },
+  "zip_codes": [
+    "2400"
+  ],
+  "geo": {
+    "lat": "24.871",
+    "lon": "90.845"
+  },
+  "metadata": {},
+  "source": {}
+}

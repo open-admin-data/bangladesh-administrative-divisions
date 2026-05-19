@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.upazila,zip_codes,geo.lat,geo.lon
+BD5010,বগুড়া,Bogura,bogura-bd5010,BD5010,12,5890,24.824,89.38
+BD5070,চাঁপাইনবাবগঞ্জ,Chapainababganj,chapainababganj-bd5070,BD5070,5,6300,24.716,88.264
+BD5038,জয়পুরহাট,Joypurhat,joypurhat-bd5038,BD5038,5,5940,25.093,89.084
+BD5064,নওগাঁ,Naogaon,naogaon-bd5064,BD5064,11,6596,24.9,88.752
+BD5069,নাটোর,Natore,natore-bd5069,BD5069,7,6422,24.381,89.087
+BD5076,পাবনা,Pabna,pabna-bd5076,BD5076,9,6650,24.053,89.386
+BD5081,রাজশাহী,Rajshahi,rajshahi-bd5081,BD5081,9,6281,24.468,88.651
+BD5088,সিরাজগঞ্জ,Sirajganj,sirajganj-bd5088,BD5088,9,6730,24.392,89.601

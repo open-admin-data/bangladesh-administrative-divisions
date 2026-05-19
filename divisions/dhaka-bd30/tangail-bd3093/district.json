@@ -1,0 +1,49 @@
+{
+  "id": "BD3093",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "টাঙ্গাইল",
+    "en": "Tangail",
+    "slug": "tangail-bd3093"
+  },
+  "code": {
+    "id": "BD3093",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD30",
+    "level": 1,
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 12
+  },
+  "zip_codes": [
+    "1920"
+  ],
+  "geo": {
+    "lat": "24.358",
+    "lon": "90"
+  },
+  "metadata": {},
+  "source": {}
+}

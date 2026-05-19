@@ -1,0 +1,49 @@
+{
+  "id": "BD2012",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "ব্রাহ্মণবাড়ীয়া",
+    "en": "Brahmanbaria",
+    "slug": "brahmanbaria-bd2012"
+  },
+  "code": {
+    "id": "BD2012",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "3450"
+  ],
+  "geo": {
+    "lat": "23.953",
+    "lon": "91.083"
+  },
+  "metadata": {},
+  "source": {}
+}

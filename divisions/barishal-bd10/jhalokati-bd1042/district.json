@@ -1,0 +1,49 @@
+{
+  "id": "BD1042",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "ঝালকাঠি",
+    "en": "Jhalokati",
+    "slug": "jhalokati-bd1042"
+  },
+  "code": {
+    "id": "BD1042",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD10",
+    "level": 1,
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 4
+  },
+  "zip_codes": [
+    "8402"
+  ],
+  "geo": {
+    "lat": "22.572",
+    "lon": "90.182"
+  },
+  "metadata": {},
+  "source": {}
+}

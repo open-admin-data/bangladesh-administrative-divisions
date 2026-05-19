@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD50760005",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আটঘরিয়া",
+      "en": "Atgharia",
+      "slug": "atgharia-bd50760005"
+    },
+    "code": {
+      "id": "BD50760005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6610"
+    ],
+    "geo": {
+      "lat": "24.107",
+      "lon": "89.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760016",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বেড়া",
+      "en": "Bera",
+      "slug": "bera-bd50760016"
+    },
+    "code": {
+      "id": "BD50760016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6680"
+    ],
+    "geo": {
+      "lat": "23.943",
+      "lon": "89.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760019",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভাঙ্গুড়া",
+      "en": "Bhangura",
+      "slug": "bhangura-bd50760019"
+    },
+    "code": {
+      "id": "BD50760019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6640"
+    ],
+    "geo": {
+      "lat": "24.239",
+      "lon": "89.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760022",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চাটমোহর",
+      "en": "Chatmohar",
+      "slug": "chatmohar-bd50760022"
+    },
+    "code": {
+      "id": "BD50760022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6630"
+    ],
+    "geo": {
+      "lat": "24.224",
+      "lon": "89.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফরিদপুর",
+      "en": "Faridpur",
+      "slug": "faridpur-bd50760033"
+    },
+    "code": {
+      "id": "BD50760033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6650"
+    ],
+    "geo": {
+      "lat": "24.158",
+      "lon": "89.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760039",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঈশ্বরদী",
+      "en": "Ishwardi",
+      "slug": "ishwardi-bd50760039"
+    },
+    "code": {
+      "id": "BD50760039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6621"
+    ],
+    "geo": {
+      "lat": "24.08",
+      "lon": "89.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760055",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পাবনা সদর",
+      "en": "Pabna Sadar",
+      "slug": "pabna-sadar-bd50760055"
+    },
+    "code": {
+      "id": "BD50760055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6602"
+    ],
+    "geo": {
+      "lat": "23.995",
+      "lon": "89.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760072",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাঁথিয়া",
+      "en": "Santhia",
+      "slug": "santhia-bd50760072"
+    },
+    "code": {
+      "id": "BD50760072",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6680"
+    ],
+    "geo": {
+      "lat": "24.043",
+      "lon": "89.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50760083",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সুজানগর",
+      "en": "Sujanagar",
+      "slug": "sujanagar-bd50760083"
+    },
+    "code": {
+      "id": "BD50760083",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5076",
+      "level": 2,
+      "name": {
+        "local": "পাবনা",
+        "en": "Pabna",
+        "slug": "pabna-bd5076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5076",
+        "level": 2,
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6661"
+    ],
+    "geo": {
+      "lat": "23.898",
+      "lon": "89.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

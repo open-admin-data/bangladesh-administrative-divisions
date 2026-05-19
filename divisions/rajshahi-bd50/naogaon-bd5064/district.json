@@ -1,0 +1,49 @@
+{
+  "id": "BD5064",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "নওগাঁ",
+    "en": "Naogaon",
+    "slug": "naogaon-bd5064"
+  },
+  "code": {
+    "id": "BD5064",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 11
+  },
+  "zip_codes": [
+    "6596"
+  ],
+  "geo": {
+    "lat": "24.9",
+    "lon": "88.752"
+  },
+  "metadata": {},
+  "source": {}
+}

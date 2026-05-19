@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD5527",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "দিনাজপুর",
+      "en": "Dinajpur",
+      "slug": "dinajpur-bd5527"
+    },
+    "code": {
+      "id": "BD5527",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 13
+    },
+    "zip_codes": [
+      "5270"
+    ],
+    "geo": {
+      "lat": "25.63",
+      "lon": "88.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5532",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "গাইবান্ধা",
+      "en": "Gaibandha",
+      "slug": "gaibandha-bd5532"
+    },
+    "code": {
+      "id": "BD5532",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "5750"
+    ],
+    "geo": {
+      "lat": "25.298",
+      "lon": "89.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5549",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "কুড়িগ্রাম",
+      "en": "Kurigram",
+      "slug": "kurigram-bd5549"
+    },
+    "code": {
+      "id": "BD5549",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "5670"
+    ],
+    "geo": {
+      "lat": "25.79",
+      "lon": "89.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5552",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "লালমনিরহাট",
+      "en": "Lalmonirhat",
+      "slug": "lalmonirhat-bd5552"
+    },
+    "code": {
+      "id": "BD5552",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5510"
+    ],
+    "geo": {
+      "lat": "26.063",
+      "lon": "89.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5573",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নীলফামারী",
+      "en": "Nilphamari",
+      "slug": "nilphamari-bd5573"
+    },
+    "code": {
+      "id": "BD5573",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "5350"
+    ],
+    "geo": {
+      "lat": "26.026",
+      "lon": "88.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5577",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পঞ্চগড়",
+      "en": "Panchagarh",
+      "slug": "panchagarh-bd5577"
+    },
+    "code": {
+      "id": "BD5577",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5010"
+    ],
+    "geo": {
+      "lat": "26.285",
+      "lon": "88.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5585",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "রংপুর",
+      "en": "Rangpur",
+      "slug": "rangpur-bd5585"
+    },
+    "code": {
+      "id": "BD5585",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 8
+    },
+    "zip_codes": [
+      "5430"
+    ],
+    "geo": {
+      "lat": "25.651",
+      "lon": "89.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5594",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ঠাকুরগাঁও",
+      "en": "Thakurgaon",
+      "slug": "thakurgaon-bd5594"
+    },
+    "code": {
+      "id": "BD5594",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5140"
+    ],
+    "geo": {
+      "lat": "25.99",
+      "lon": "88.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

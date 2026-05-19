@@ -1,0 +1,49 @@
+{
+  "id": "BD5076",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "পাবনা",
+    "en": "Pabna",
+    "slug": "pabna-bd5076"
+  },
+  "code": {
+    "id": "BD5076",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD50",
+    "level": 1,
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "6650"
+  ],
+  "geo": {
+    "lat": "24.053",
+    "lon": "89.386"
+  },
+  "metadata": {},
+  "source": {}
+}

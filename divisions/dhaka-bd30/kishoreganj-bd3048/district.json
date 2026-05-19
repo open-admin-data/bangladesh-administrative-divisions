@@ -1,0 +1,49 @@
+{
+  "id": "BD3048",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "কিশোরগঞ্জ",
+    "en": "Kishoreganj",
+    "slug": "kishoreganj-bd3048"
+  },
+  "code": {
+    "id": "BD3048",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD30",
+    "level": 1,
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 13
+  },
+  "zip_codes": [
+    "2336"
+  ],
+  "geo": {
+    "lat": "24.378",
+    "lon": "90.943"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,68 @@
+# Bangladesh Administrative Divisions
+
+> Open dataset of Bangladesh's administrative hierarchy:
+> 8 divisions, 64 districts, 495 upazilas.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total divisions: 8
+- Total districts: 64
+- Total upazilas: 495
+- Coordinates: included (all levels)
+- Last updated: 2026-05-19
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All divisions (JSON)](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/data/all-division.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/data/all-district.json)
+- [All upazilas (JSON)](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/data/all-upazila.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/data/schema.json)
+
+## Browse by Division
+
+- [Barishal](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/barishal-bd10/) — 6 districts, 42 upazilas
+- [Chattogram](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/chattogram-bd20/) — 11 districts, 104 upazilas
+- [Dhaka](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/dhaka-bd30/) — 13 districts, 89 upazilas
+- [Khulna](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/khulna-bd40/) — 10 districts, 59 upazilas
+- [Mymensingh](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/mymensingh-bd45/) — 4 districts, 35 upazilas
+- [Rajshahi](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/rajshahi-bd50/) — 8 districts, 67 upazilas
+- [Rangpur](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/rangpur-bd55/) — 8 districts, 58 upazilas
+- [Sylhet](https://github.com/open-admin-data/bangladesh-administrative-divisions/tree/main/divisions/sylhet-bd60/) — 4 districts, 41 upazilas
+
+## Per-Division Full Data
+
+- [Barishal](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/barishal-bd10.txt)
+- [Chattogram](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/chattogram-bd20.txt)
+- [Dhaka](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/dhaka-bd30.txt)
+- [Khulna](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/khulna-bd40.txt)
+- [Mymensingh](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/mymensingh-bd45.txt)
+- [Rajshahi](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/rajshahi-bd50.txt)
+- [Rangpur](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/rangpur-bd55.txt)
+- [Sylhet](https://raw.githubusercontent.com/open-admin-data/bangladesh-administrative-divisions/main/docs/llms-full/sylhet-bd60.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (division), 2 (district), 3 (upazila)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Bangladesh Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/bangladesh-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD45390007",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বকশীগঞ্জ",
+      "en": "Bakshiganj",
+      "slug": "bakshiganj-bd45390007"
+    },
+    "code": {
+      "id": "BD45390007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4539",
+      "level": 2,
+      "name": {
+        "local": "জামালপুর",
+        "en": "Jamalpur",
+        "slug": "jamalpur-bd4539"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4539",
+        "level": 2,
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2140"
+    ],
+    "geo": {
+      "lat": "25.214",
+      "lon": "89.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45390015",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দেওয়ানগঞ্জ",
+      "en": "Dewanganj",
+      "slug": "dewanganj-bd45390015"
+    },
+    "code": {
+      "id": "BD45390015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4539",
+      "level": 2,
+      "name": {
+        "local": "জামালপুর",
+        "en": "Jamalpur",
+        "slug": "jamalpur-bd4539"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4539",
+        "level": 2,
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2030"
+    ],
+    "geo": {
+      "lat": "25.268",
+      "lon": "89.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45390029",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ইসলামপুর",
+      "en": "Islampur",
+      "slug": "islampur-bd45390029"
+    },
+    "code": {
+      "id": "BD45390029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4539",
+      "level": 2,
+      "name": {
+        "local": "জামালপুর",
+        "en": "Jamalpur",
+        "slug": "jamalpur-bd4539"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4539",
+        "level": 2,
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2021"
+    ],
+    "geo": {
+      "lat": "25.076",
+      "lon": "89.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45390036",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জামালপুর সদর",
+      "en": "Jamalpur Sadar",
+      "slug": "jamalpur-sadar-bd45390036"
+    },
+    "code": {
+      "id": "BD45390036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4539",
+      "level": 2,
+      "name": {
+        "local": "জামালপুর",
+        "en": "Jamalpur",
+        "slug": "jamalpur-bd4539"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4539",
+        "level": 2,
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2000"
+    ],
+    "geo": {
+      "lat": "24.843",
+      "lon": "90.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45390058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মাদারগঞ্জ",
+      "en": "Madarganj",
+      "slug": "madarganj-bd45390058"
+    },
+    "code": {
+      "id": "BD45390058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4539",
+      "level": 2,
+      "name": {
+        "local": "জামালপুর",
+        "en": "Jamalpur",
+        "slug": "jamalpur-bd4539"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4539",
+        "level": 2,
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5430"
+    ],
+    "geo": {
+      "lat": "24.885",
+      "lon": "89.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45390061",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মেলান্দহ",
+      "en": "Melandaha",
+      "slug": "melandaha-bd45390061"
+    },
+    "code": {
+      "id": "BD45390061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4539",
+      "level": 2,
+      "name": {
+        "local": "জামালপুর",
+        "en": "Jamalpur",
+        "slug": "jamalpur-bd4539"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4539",
+        "level": 2,
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2011"
+    ],
+    "geo": {
+      "lat": "24.956",
+      "lon": "89.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD45390085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সরিষাবাড়ী",
+      "en": "Sarishabari",
+      "slug": "sarishabari-bd45390085"
+    },
+    "code": {
+      "id": "BD45390085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4539",
+      "level": 2,
+      "name": {
+        "local": "জামালপুর",
+        "en": "Jamalpur",
+        "slug": "jamalpur-bd4539"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      },
+      {
+        "id": "BD4539",
+        "level": 2,
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2052"
+    ],
+    "geo": {
+      "lat": "24.722",
+      "lon": "89.831"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

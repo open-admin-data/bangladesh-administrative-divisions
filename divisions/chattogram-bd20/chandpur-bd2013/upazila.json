@@ -1,0 +1,450 @@
+[
+  {
+    "id": "BD20130022",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চাঁদপুর সদর",
+      "en": "Chandpur Sadar",
+      "slug": "chandpur-sadar-bd20130022"
+    },
+    "code": {
+      "id": "BD20130022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3602"
+    ],
+    "geo": {
+      "lat": "23.232",
+      "lon": "90.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20130045",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফরিদগঞ্জ",
+      "en": "Faridganj",
+      "slug": "faridganj-bd20130045"
+    },
+    "code": {
+      "id": "BD20130045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3651"
+    ],
+    "geo": {
+      "lat": "23.144",
+      "lon": "90.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20130047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হাইমচর",
+      "en": "Haimchar",
+      "slug": "haimchar-bd20130047"
+    },
+    "code": {
+      "id": "BD20130047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3660"
+    ],
+    "geo": {
+      "lat": "23.077",
+      "lon": "90.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20130049",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হাজীগঞ্জ",
+      "en": "Hajiganj",
+      "slug": "hajiganj-bd20130049"
+    },
+    "code": {
+      "id": "BD20130049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3611"
+    ],
+    "geo": {
+      "lat": "23.258",
+      "lon": "90.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20130058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কচুয়া",
+      "en": "Kachua",
+      "slug": "kachua-bd20130058"
+    },
+    "code": {
+      "id": "BD20130058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3630"
+    ],
+    "geo": {
+      "lat": "23.359",
+      "lon": "90.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20130076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মতলব দক্ষিণ",
+      "en": "Matlab Dakkhin",
+      "slug": "matlab-dakkhin-bd20130076"
+    },
+    "code": {
+      "id": "BD20130076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3517"
+    ],
+    "geo": {
+      "lat": "23.348",
+      "lon": "90.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20130079",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মতলব উত্তর",
+      "en": "Matlab Uttar",
+      "slug": "matlab-uttar-bd20130079"
+    },
+    "code": {
+      "id": "BD20130079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3640"
+    ],
+    "geo": {
+      "lat": "23.41",
+      "lon": "90.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20130095",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শাহরাস্তি",
+      "en": "Shahrasti",
+      "slug": "shahrasti-bd20130095"
+    },
+    "code": {
+      "id": "BD20130095",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2013",
+      "level": 2,
+      "name": {
+        "local": "চাঁদপুর",
+        "en": "Chandpur",
+        "slug": "chandpur-bd2013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2013",
+        "level": 2,
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3623"
+    ],
+    "geo": {
+      "lat": "23.206",
+      "lon": "90.957"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

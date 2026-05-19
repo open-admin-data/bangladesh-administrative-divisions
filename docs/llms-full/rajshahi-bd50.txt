@@ -1,0 +1,317 @@
+# Rajshahi — Bangladesh Administrative Divisions
+
+> 8 districts, 67 upazilas
+> Code: BD50
+> Coordinates: 24.589, 89.046
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### বগুড়া (Bogura)
+
+Code: BD5010, Coordinates: 24.824, 89.38
+Upazilas: 12
+
+#### আদমদিঘি (Adamdighi)
+
+Code: BD50100006, Postal: 5890, Coordinates: 24.8, 89.06
+
+#### মাগুরা সদর (Bogura Sadar)
+
+Code: BD50100020, Postal: 7600, Coordinates: 24.895, 89.356
+
+#### ধুনট (Dhunat)
+
+Code: BD50100027, Postal: 5850, Coordinates: 24.683, 89.55
+
+#### দুপচাঁচিয়া (Dupchachia)
+
+Code: BD50100033, Postal: 5880, Coordinates: 24.882, 89.14
+
+#### গাবতলী (Gabtali)
+
+Code: BD50100040, Postal: 5820, Coordinates: 24.887, 89.465
+
+#### কাহালু (Kahaloo)
+
+Code: BD50100054, Postal: 5870, Coordinates: 24.833, 89.251
+
+#### নন্দিগ্রাম (Nandigram)
+
+Code: BD50100067, Postal: 5860, Coordinates: 24.681, 89.227
+
+#### সারিয়াকান্দি (Sariakandi)
+
+Code: BD50100081, Postal: 5831, Coordinates: 24.879, 89.617
+
+#### শাজাহানপুর (Shajahanpur)
+
+Code: BD50100085, Postal: 5801, Coordinates: 24.76, 89.376
+
+#### শেরপুর (Sherpur)
+
+Code: BD50100088, Postal: 5841, Coordinates: 24.629, 89.423
+
+#### শিবগঞ্জ (Shibganj)
+
+Code: BD50100094, Postal: 5810, Coordinates: 25.017, 89.306
+
+#### সোনাতলা (Sonatala)
+
+Code: BD50100095, Postal: 5826, Coordinates: 24.997, 89.514
+
+### চাঁপাইনবাবগঞ্জ (Chapainababganj)
+
+Code: BD5070, Coordinates: 24.716, 88.264
+Upazilas: 5
+
+#### ভোলাহাট (Bholahat)
+
+Code: BD50700018, Postal: 6330, Coordinates: 24.897, 88.209
+
+#### চাঁপাইনবাবগঞ্জ সদর (Chapainawabganj Sadar)
+
+Code: BD50700066, Postal: 6303, Coordinates: 24.565, 88.258
+
+#### গোমস্তাপুর (Gomastapur)
+
+Code: BD50700037, Postal: 6310, Coordinates: 24.859, 88.355
+
+#### নাচোল (Nachole)
+
+Code: BD50700056, Postal: 6311, Coordinates: 24.727, 88.396
+
+#### শিবগঞ্জ (Shibganj)
+
+Code: BD50700088, Postal: 5810, Coordinates: 24.705, 88.155
+
+### জয়পুরহাট (Joypurhat)
+
+Code: BD5038, Coordinates: 25.093, 89.084
+Upazilas: 5
+
+#### আক্কেলপুর (Akkelpur)
+
+Code: BD50380013, Postal: 5940, Coordinates: 24.933, 89.042
+
+#### জয়পুরহাট সদর (Joypurhat Sadar)
+
+Code: BD50380047, Postal: 5900, Coordinates: 25.108, 89.021
+
+#### কালাই (Kalai)
+
+Code: BD50380058, Postal: 5930, Coordinates: 25.078, 89.199
+
+#### ক্ষেতলাল (Khetlal)
+
+Code: BD50380061, Postal: 5920, Coordinates: 25.023, 89.118
+
+#### পাঁচবিবি (Panchbibi)
+
+Code: BD50380074, Postal: 5910, Coordinates: 25.205, 89.072
+
+### নওগাঁ (Naogaon)
+
+Code: BD5064, Coordinates: 24.9, 88.752
+Upazilas: 11
+
+#### আত্রাই (Atrai)
+
+Code: BD50640003, Postal: 6596, Coordinates: 24.625, 88.989
+
+#### বদলগাছী (Badalgachhi)
+
+Code: BD50640006, Postal: 6570, Coordinates: 24.967, 88.943
+
+#### ধামইরহাট (Dhamoirhat)
+
+Code: BD50640028, Postal: 6520, Coordinates: 25.131, 88.824
+
+#### মহাদেবপুর (Mahadebpur)
+
+Code: BD50640050, Postal: 6530, Coordinates: 24.922, 88.764
+
+#### মান্দা (Manda)
+
+Code: BD50640047, Postal: 1410, Coordinates: 24.746, 88.712
+
+#### নওগাঁ সদর (Naogaon Sadar)
+
+Code: BD50640060, Postal: 6500, Coordinates: 24.812, 88.898
+
+#### নিয়ামতপুর (Niamatpur)
+
+Code: BD50640069, Postal: 6520, Coordinates: 24.83, 88.55
+
+#### পত্নিতলা (Patnitala)
+
+Code: BD50640075, Postal: 6540, Coordinates: 25.078, 88.715
+
+#### পোরশা (Porsha)
+
+Code: BD50640079, Postal: 6550, Coordinates: 24.995, 88.517
+
+#### রাণীনগর (Raninagar)
+
+Code: BD50640085, Postal: 6591, Coordinates: 24.712, 89.02
+
+#### সাপাহার (Sapahar)
+
+Code: BD50640086, Postal: 6561, Coordinates: 25.119, 88.531
+
+### নাটোর (Natore)
+
+Code: BD5069, Coordinates: 24.381, 89.087
+Upazilas: 7
+
+#### বাগাতিপাড়া (Bagatipara)
+
+Code: BD50690009, Postal: 6410, Coordinates: 24.313, 88.948
+
+#### বড়াইগ্রাম (Baraigram)
+
+Code: BD50690015, Postal: 6430, Coordinates: 24.273, 89.15
+
+#### গুরুদাসপুর (Gurudaspur)
+
+Code: BD50690041, Postal: 6440, Coordinates: 24.374, 89.205
+
+#### লালপুর (Lalpur)
+
+Code: BD50690044, Postal: 6422, Coordinates: 24.2, 88.986
+
+#### নলডাঙ্গা (Naldanga)
+
+Code: BD50690055, Postal: 7351, Coordinates: 24.506, 88.976
+
+#### নাটোর সদর (Natore Sadar)
+
+Code: BD50690063, Postal: 6402, Coordinates: 24.397, 88.99
+
+#### সিংড়া (Singra)
+
+Code: BD50690091, Postal: 6450, Coordinates: 24.524, 89.184
+
+### পাবনা (Pabna)
+
+Code: BD5076, Coordinates: 24.053, 89.386
+Upazilas: 9
+
+#### আটঘরিয়া (Atgharia)
+
+Code: BD50760005, Postal: 6610, Coordinates: 24.107, 89.283
+
+#### বেড়া (Bera)
+
+Code: BD50760016, Postal: 6680, Coordinates: 23.943, 89.657
+
+#### ভাঙ্গুড়া (Bhangura)
+
+Code: BD50760019, Postal: 6640, Coordinates: 24.239, 89.396
+
+#### চাটমোহর (Chatmohar)
+
+Code: BD50760022, Postal: 6630, Coordinates: 24.224, 89.303
+
+#### ফরিদপুর (Faridpur)
+
+Code: BD50760033, Postal: 6650, Coordinates: 24.158, 89.449
+
+#### ঈশ্বরদী (Ishwardi)
+
+Code: BD50760039, Postal: 6621, Coordinates: 24.08, 89.094
+
+#### পাবনা সদর (Pabna Sadar)
+
+Code: BD50760055, Postal: 6602, Coordinates: 23.995, 89.281
+
+#### সাঁথিয়া (Santhia)
+
+Code: BD50760072, Postal: 6680, Coordinates: 24.043, 89.516
+
+#### সুজানগর (Sujanagar)
+
+Code: BD50760083, Postal: 6661, Coordinates: 23.898, 89.514
+
+### রাজশাহী (Rajshahi)
+
+Code: BD5081, Coordinates: 24.468, 88.651
+Upazilas: 9
+
+#### বাঘা (Bagha)
+
+Code: BD50810010, Postal: 6281, Coordinates: 24.206, 88.834
+
+#### বাগমারা (Bagmara)
+
+Code: BD50810012, Postal: 6251, Coordinates: 24.594, 88.809
+
+#### চারঘাট (Charghat)
+
+Code: BD50810025, Postal: 6270, Coordinates: 24.301, 88.775
+
+#### দুর্গাপুর (Durgapur)
+
+Code: BD50810031, Postal: 6240, Coordinates: 24.468, 88.761
+
+#### গোদাগাড়ী (Godagari)
+
+Code: BD50810034, Postal: 6290, Coordinates: 24.483, 88.415
+
+#### লালমোহন (Mohanpur)
+
+Code: BD50810053, Postal: 6321, Coordinates: 24.555, 88.641
+
+#### পবা (Paba)
+
+Code: BD50810072, Postal: 6210, Coordinates: 24.338, 88.591
+
+#### পুঠিয়া (Puthia)
+
+Code: BD50810082, Postal: 6670, Coordinates: 24.411, 88.827
+
+#### তানোর (Tanore)
+
+Code: BD50810094, Postal: 6230, Coordinates: 24.62, 88.531
+
+### সিরাজগঞ্জ (Sirajganj)
+
+Code: BD5088, Coordinates: 24.392, 89.601
+Upazilas: 9
+
+#### বেলকুচি (Belkuchi)
+
+Code: BD50880011, Postal: 6740, Coordinates: 24.298, 89.701
+
+#### চৌহালি (Chouhali)
+
+Code: BD50880027, Postal: 1930, Coordinates: 24.139, 89.757
+
+#### কামারখন্দ (Kamarkhanda)
+
+Code: BD50880044, Postal: 6730, Coordinates: 24.378, 89.642
+
+#### কাজীপুর (Kazipur)
+
+Code: BD50880050, Postal: 6712, Coordinates: 24.672, 89.689
+
+#### রায়গঞ্জ (Rayganj)
+
+Code: BD50880061, Postal: 6721, Coordinates: 24.492, 89.515
+
+#### শাহজাদপুর (Shahjadpur)
+
+Code: BD50880067, Postal: 6772, Coordinates: 24.163, 89.631
+
+#### সিরাজগঞ্জ সদর (Sirajganj Sadar)
+
+Code: BD50880078, Postal: 6701, Coordinates: 24.494, 89.69
+
+#### তাড়াশ (Tarash)
+
+Code: BD50880089, Postal: 6780, Coordinates: 24.445, 89.358
+
+#### উল্লাপাড়া (Ullapara)
+
+Code: BD50880094, Postal: 6762, Coordinates: 24.328, 89.518
+

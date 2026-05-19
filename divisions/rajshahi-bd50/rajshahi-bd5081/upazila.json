@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD50810010",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাঘা",
+      "en": "Bagha",
+      "slug": "bagha-bd50810010"
+    },
+    "code": {
+      "id": "BD50810010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6281"
+    ],
+    "geo": {
+      "lat": "24.206",
+      "lon": "88.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810012",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাগমারা",
+      "en": "Bagmara",
+      "slug": "bagmara-bd50810012"
+    },
+    "code": {
+      "id": "BD50810012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6251"
+    ],
+    "geo": {
+      "lat": "24.594",
+      "lon": "88.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চারঘাট",
+      "en": "Charghat",
+      "slug": "charghat-bd50810025"
+    },
+    "code": {
+      "id": "BD50810025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6270"
+    ],
+    "geo": {
+      "lat": "24.301",
+      "lon": "88.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810031",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দুর্গাপুর",
+      "en": "Durgapur",
+      "slug": "durgapur-bd50810031"
+    },
+    "code": {
+      "id": "BD50810031",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6240"
+    ],
+    "geo": {
+      "lat": "24.468",
+      "lon": "88.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810034",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোদাগাড়ী",
+      "en": "Godagari",
+      "slug": "godagari-bd50810034"
+    },
+    "code": {
+      "id": "BD50810034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6290"
+    ],
+    "geo": {
+      "lat": "24.483",
+      "lon": "88.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810053",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লালমোহন",
+      "en": "Mohanpur",
+      "slug": "mohanpur-bd50810053"
+    },
+    "code": {
+      "id": "BD50810053",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6321"
+    ],
+    "geo": {
+      "lat": "24.555",
+      "lon": "88.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810072",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পবা",
+      "en": "Paba",
+      "slug": "paba-bd50810072"
+    },
+    "code": {
+      "id": "BD50810072",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6210"
+    ],
+    "geo": {
+      "lat": "24.338",
+      "lon": "88.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810082",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পুঠিয়া",
+      "en": "Puthia",
+      "slug": "puthia-bd50810082"
+    },
+    "code": {
+      "id": "BD50810082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6670"
+    ],
+    "geo": {
+      "lat": "24.411",
+      "lon": "88.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50810094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তানোর",
+      "en": "Tanore",
+      "slug": "tanore-bd50810094"
+    },
+    "code": {
+      "id": "BD50810094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5081",
+      "level": 2,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd5081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5081",
+        "level": 2,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6230"
+    ],
+    "geo": {
+      "lat": "24.62",
+      "lon": "88.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

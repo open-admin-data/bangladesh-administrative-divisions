@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD40870004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আশাশুনি",
+      "en": "Ashashuni",
+      "slug": "ashashuni-bd40870004"
+    },
+    "code": {
+      "id": "BD40870004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4087",
+      "level": 2,
+      "name": {
+        "local": "সাতক্ষীরা",
+        "en": "Satkhira",
+        "slug": "satkhira-bd4087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4087",
+        "level": 2,
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9460"
+    ],
+    "geo": {
+      "lat": "22.519",
+      "lon": "89.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40870025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দেবহাটা",
+      "en": "Debhata",
+      "slug": "debhata-bd40870025"
+    },
+    "code": {
+      "id": "BD40870025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4087",
+      "level": 2,
+      "name": {
+        "local": "সাতক্ষীরা",
+        "en": "Satkhira",
+        "slug": "satkhira-bd4087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4087",
+        "level": 2,
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9430"
+    ],
+    "geo": {
+      "lat": "22.597",
+      "lon": "89.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40870043",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কলারোয়া",
+      "en": "Kalaroa",
+      "slug": "kalaroa-bd40870043"
+    },
+    "code": {
+      "id": "BD40870043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4087",
+      "level": 2,
+      "name": {
+        "local": "সাতক্ষীরা",
+        "en": "Satkhira",
+        "slug": "satkhira-bd4087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4087",
+        "level": 2,
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9415"
+    ],
+    "geo": {
+      "lat": "22.88",
+      "lon": "89.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40870047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালীগঞ্জ",
+      "en": "Kaliganj",
+      "slug": "kaliganj-bd40870047"
+    },
+    "code": {
+      "id": "BD40870047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4087",
+      "level": 2,
+      "name": {
+        "local": "সাতক্ষীরা",
+        "en": "Satkhira",
+        "slug": "satkhira-bd4087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4087",
+        "level": 2,
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1720"
+    ],
+    "geo": {
+      "lat": "22.447",
+      "lon": "89.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40870082",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাতক্ষীরা সদর",
+      "en": "Satkhira Sadar",
+      "slug": "satkhira-sadar-bd40870082"
+    },
+    "code": {
+      "id": "BD40870082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4087",
+      "level": 2,
+      "name": {
+        "local": "সাতক্ষীরা",
+        "en": "Satkhira",
+        "slug": "satkhira-bd4087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4087",
+        "level": 2,
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9403"
+    ],
+    "geo": {
+      "lat": "22.72",
+      "lon": "89.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40870086",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শ্যামনগর",
+      "en": "Shyamnagar",
+      "slug": "shyamnagar-bd40870086"
+    },
+    "code": {
+      "id": "BD40870086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4087",
+      "level": 2,
+      "name": {
+        "local": "সাতক্ষীরা",
+        "en": "Satkhira",
+        "slug": "satkhira-bd4087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4087",
+        "level": 2,
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9450"
+    ],
+    "geo": {
+      "lat": "22.012",
+      "lon": "89.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40870090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "তালা",
+      "en": "Tala",
+      "slug": "tala-bd40870090"
+    },
+    "code": {
+      "id": "BD40870090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4087",
+      "level": 2,
+      "name": {
+        "local": "সাতক্ষীরা",
+        "en": "Satkhira",
+        "slug": "satkhira-bd4087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4087",
+        "level": 2,
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "9420"
+    ],
+    "geo": {
+      "lat": "22.74",
+      "lon": "89.211"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

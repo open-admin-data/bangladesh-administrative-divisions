@@ -1,0 +1,49 @@
+{
+  "id": "BD2022",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "কক্সবাজার",
+    "en": "Cox's Bazar",
+    "slug": "coxs-bazar-bd2022"
+  },
+  "code": {
+    "id": "BD2022",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 9
+  },
+  "zip_codes": [
+    "4742"
+  ],
+  "geo": {
+    "lat": "21.476",
+    "lon": "92.063"
+  },
+  "metadata": {},
+  "source": {}
+}

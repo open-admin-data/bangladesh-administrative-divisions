@@ -1,0 +1,198 @@
+[
+  {
+    "id": "BD4539",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "জামালপুর",
+      "en": "Jamalpur",
+      "slug": "jamalpur-bd4539"
+    },
+    "code": {
+      "id": "BD4539",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "2030"
+    ],
+    "geo": {
+      "lat": "24.977",
+      "lon": "89.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4561",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ময়মনসিংহ",
+      "en": "Mymensingh",
+      "slug": "mymensingh-bd4561"
+    },
+    "code": {
+      "id": "BD4561",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 13
+    },
+    "zip_codes": [
+      "2240"
+    ],
+    "geo": {
+      "lat": "24.699",
+      "lon": "90.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4572",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নেত্রকোনা",
+      "en": "Netrakona",
+      "slug": "netrakona-bd4572"
+    },
+    "code": {
+      "id": "BD4572",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 10
+    },
+    "zip_codes": [
+      "2400"
+    ],
+    "geo": {
+      "lat": "24.871",
+      "lon": "90.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4589",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "শেরপুর",
+      "en": "Sherpur",
+      "slug": "sherpur-bd4589"
+    },
+    "code": {
+      "id": "BD4589",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "2140"
+    ],
+    "geo": {
+      "lat": "25.083",
+      "lon": "90.075"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

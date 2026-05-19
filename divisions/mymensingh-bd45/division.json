@@ -1,0 +1,30 @@
+{
+  "id": "BD45",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "ময়মনসিংহ",
+    "en": "Mymensingh",
+    "slug": "mymensingh-bd45"
+  },
+  "code": {
+    "id": "BD45",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "upazila": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.848",
+    "lon": "90.382"
+  },
+  "metadata": {},
+  "source": {}
+}

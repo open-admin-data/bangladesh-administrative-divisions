@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.upazila,zip_codes,geo.lat,geo.lon
+BD1004,বরগুনা,Barguna,barguna-bd1004,BD1004,6,8710,22.128,90.11
+BD1006,বরিশাল,Barishal,barishal-bd1006,BD1006,10,8240,22.819,90.369
+BD1009,ভোলা,Bhola,bhola-bd1009,BD1009,7,8300,22.31,90.764
+BD1042,ঝালকাঠি,Jhalokati,jhalokati-bd1042,BD1042,4,8402,22.572,90.182
+BD1078,পটুয়াখালী,Patuakhali,patuakhali-bd1078,BD1078,8,8621,22.165,90.407
+BD1079,পিরোজপুর,Pirojpur,pirojpur-bd1079,BD1079,7,8530,22.532,89.992

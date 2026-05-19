@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD30820007",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বালিয়াকান্দি",
+      "en": "Baliakandi",
+      "slug": "baliakandi-bd30820007"
+    },
+    "code": {
+      "id": "BD30820007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3082",
+      "level": 2,
+      "name": {
+        "local": "রাজবাড়ী",
+        "en": "Rajbari",
+        "slug": "rajbari-bd3082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3082",
+        "level": 2,
+        "name": {
+          "local": "রাজবাড়ী",
+          "en": "Rajbari",
+          "slug": "rajbari-bd3082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7730"
+    ],
+    "geo": {
+      "lat": "23.651",
+      "lon": "89.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30820029",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোয়ালন্দ",
+      "en": "Goalanda",
+      "slug": "goalanda-bd30820029"
+    },
+    "code": {
+      "id": "BD30820029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3082",
+      "level": 2,
+      "name": {
+        "local": "রাজবাড়ী",
+        "en": "Rajbari",
+        "slug": "rajbari-bd3082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3082",
+        "level": 2,
+        "name": {
+          "local": "রাজবাড়ী",
+          "en": "Rajbari",
+          "slug": "rajbari-bd3082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "2011"
+    ],
+    "geo": {
+      "lat": "23.756",
+      "lon": "89.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30820047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালুখালী",
+      "en": "Kalukhali",
+      "slug": "kalukhali-bd30820047"
+    },
+    "code": {
+      "id": "BD30820047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3082",
+      "level": 2,
+      "name": {
+        "local": "রাজবাড়ী",
+        "en": "Rajbari",
+        "slug": "rajbari-bd3082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3082",
+        "level": 2,
+        "name": {
+          "local": "রাজবাড়ী",
+          "en": "Rajbari",
+          "slug": "rajbari-bd3082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "8513"
+    ],
+    "geo": {
+      "lat": "23.742",
+      "lon": "89.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30820073",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পাংশা",
+      "en": "Pangsha",
+      "slug": "pangsha-bd30820073"
+    },
+    "code": {
+      "id": "BD30820073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3082",
+      "level": 2,
+      "name": {
+        "local": "রাজবাড়ী",
+        "en": "Rajbari",
+        "slug": "rajbari-bd3082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3082",
+        "level": 2,
+        "name": {
+          "local": "রাজবাড়ী",
+          "en": "Rajbari",
+          "slug": "rajbari-bd3082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7723"
+    ],
+    "geo": {
+      "lat": "23.789",
+      "lon": "89.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30820076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাজবাড়ী সদর",
+      "en": "Rajbari Sadar",
+      "slug": "rajbari-sadar-bd30820076"
+    },
+    "code": {
+      "id": "BD30820076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3082",
+      "level": 2,
+      "name": {
+        "local": "রাজবাড়ী",
+        "en": "Rajbari",
+        "slug": "rajbari-bd3082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3082",
+        "level": 2,
+        "name": {
+          "local": "রাজবাড়ী",
+          "en": "Rajbari",
+          "slug": "rajbari-bd3082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7710"
+    ],
+    "geo": {
+      "lat": "23.717",
+      "lon": "89.656"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

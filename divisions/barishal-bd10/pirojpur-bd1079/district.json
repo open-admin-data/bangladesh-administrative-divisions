@@ -1,0 +1,49 @@
+{
+  "id": "BD1079",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "পিরোজপুর",
+    "en": "Pirojpur",
+    "slug": "pirojpur-bd1079"
+  },
+  "code": {
+    "id": "BD1079",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD10",
+    "level": 1,
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 7
+  },
+  "zip_codes": [
+    "8530"
+  ],
+  "geo": {
+    "lat": "22.532",
+    "lon": "89.992"
+  },
+  "metadata": {},
+  "source": {}
+}

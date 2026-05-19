@@ -1,0 +1,169 @@
+# Mymensingh — Bangladesh Administrative Divisions
+
+> 4 districts, 35 upazilas
+> Code: BD45
+> Coordinates: 24.848, 90.382
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### জামালপুর (Jamalpur)
+
+Code: BD4539, Coordinates: 24.977, 89.847
+Upazilas: 7
+
+#### বকশীগঞ্জ (Bakshiganj)
+
+Code: BD45390007, Postal: 2140, Coordinates: 25.214, 89.852
+
+#### দেওয়ানগঞ্জ (Dewanganj)
+
+Code: BD45390015, Postal: 2030, Coordinates: 25.268, 89.766
+
+#### ইসলামপুর (Islampur)
+
+Code: BD45390029, Postal: 2021, Coordinates: 25.076, 89.763
+
+#### জামালপুর সদর (Jamalpur Sadar)
+
+Code: BD45390036, Postal: 2000, Coordinates: 24.843, 90.015
+
+#### মাদারগঞ্জ (Madarganj)
+
+Code: BD45390058, Postal: 5430, Coordinates: 24.885, 89.742
+
+#### মেলান্দহ (Melandaha)
+
+Code: BD45390061, Postal: 2011, Coordinates: 24.956, 89.828
+
+#### সরিষাবাড়ী (Sarishabari)
+
+Code: BD45390085, Postal: 2052, Coordinates: 24.722, 89.831
+
+### ময়মনসিংহ (Mymensingh)
+
+Code: BD4561, Coordinates: 24.699, 90.43
+Upazilas: 13
+
+#### ভালুকা (Bhaluka)
+
+Code: BD45610013, Postal: 2240, Coordinates: 24.382, 90.354
+
+#### ধোবাউড়া (Dhobaura)
+
+Code: BD45610016, Postal: 2416, Coordinates: 25.101, 90.526
+
+#### ফুলবাড়ীয়া (Fulbaria)
+
+Code: BD45610020, Postal: 2216, Coordinates: 24.587, 90.256
+
+#### ফুলপুর (Fulpur)
+
+Code: BD45610081, Postal: 2251, Coordinates: 24.953, 90.353
+
+#### গফরগাঁও (Gafargaon)
+
+Code: BD45610022, Postal: 2230, Coordinates: 24.394, 90.55
+
+#### গৌরীপুর (Gouripur)
+
+Code: BD45610023, Postal: 2270, Coordinates: 24.757, 90.586
+
+#### হালুয়াঘাট (Haluaghat)
+
+Code: BD45610024, Postal: 2261, Coordinates: 25.084, 90.352
+
+#### ঈশ্বরগঞ্জ (Ishwarganj)
+
+Code: BD45610031, Postal: 2282, Coordinates: 24.645, 90.6
+
+#### মুক্তাগাছা (Muktagachha)
+
+Code: BD45610065, Postal: 2210, Coordinates: 24.744, 90.206
+
+#### ময়মনসিংহ সদর (Mymensingh Sadar)
+
+Code: BD45610052, Postal: 2202, Coordinates: 24.846, 90.264
+
+#### নান্দাইল (Nandail)
+
+Code: BD45610072, Postal: 2291, Coordinates: 24.549, 90.677
+
+#### তারাকান্দা (Tarakanda)
+
+Code: BD45610088, Postal: 2252, Coordinates: 24.864, 90.463
+
+#### ত্রিশাল (Trishal)
+
+Code: BD45610094, Postal: 2221, Coordinates: 24.564, 90.41
+
+### নেত্রকোনা (Netrakona)
+
+Code: BD4572, Coordinates: 24.871, 90.845
+Upazilas: 10
+
+#### আটপাড়া (Atpara)
+
+Code: BD45720004, Postal: 2470, Coordinates: 24.794, 90.877
+
+#### বারহাট্টা (Barhatta)
+
+Code: BD45720009, Postal: 2440, Coordinates: 24.922, 90.885
+
+#### দুর্গাপুর (Durgapur)
+
+Code: BD45720018, Postal: 6240, Coordinates: 25.089, 90.683
+
+#### কলমাকান্দা (Kalmakanda)
+
+Code: BD45720040, Postal: 2430, Coordinates: 25.078, 90.858
+
+#### কেন্দুয়া (Kendua)
+
+Code: BD45720047, Postal: 2480, Coordinates: 24.678, 90.802
+
+#### খালিয়াজুরী (Khaliajuri)
+
+Code: BD45720038, Postal: 2460, Coordinates: 24.705, 91.122
+
+#### মদন (Madan)
+
+Code: BD45720056, Postal: 2490, Coordinates: 24.678, 90.967
+
+#### মোহনগঞ্জ (Mohanganj)
+
+Code: BD45720063, Postal: 2446, Coordinates: 24.828, 91.023
+
+#### নেত্রকোণা সদর (Netrakona Sadar)
+
+Code: BD45720074, Postal: 2401, Coordinates: 24.887, 90.738
+
+#### পূর্বধলা (Purbadhala)
+
+Code: BD45720083, Postal: 2412, Coordinates: 24.934, 90.603
+
+### শেরপুর (Sherpur)
+
+Code: BD4589, Coordinates: 25.083, 90.075
+Upazilas: 5
+
+#### ঝিনাইগাতী (Jhenaigati)
+
+Code: BD45890037, Postal: 2120, Coordinates: 25.182, 90.054
+
+#### নকলা (Nakla)
+
+Code: BD45890067, Postal: 2151, Coordinates: 24.958, 90.185
+
+#### নালিতাবাড়ী (Nalitabari)
+
+Code: BD45890070, Postal: 2111, Coordinates: 25.117, 90.184
+
+#### শেরপুর সদর (Sherpur Sadar)
+
+Code: BD45890088, Postal: 7101, Coordinates: 24.991, 90.022
+
+#### শ্রীবরদী (Sreebardi)
+
+Code: BD45890090, Postal: 2130, Coordinates: 25.165, 89.957
+

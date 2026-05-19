@@ -1,0 +1,450 @@
+[
+  {
+    "id": "BD40410004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "অভয়নগর",
+      "en": "Abhaynagar",
+      "slug": "abhaynagar-bd40410004"
+    },
+    "code": {
+      "id": "BD40410004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7460"
+    ],
+    "geo": {
+      "lat": "23.018",
+      "lon": "89.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40410009",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাঘারপাড়া",
+      "en": "Bagharpara",
+      "slug": "bagharpara-bd40410009"
+    },
+    "code": {
+      "id": "BD40410009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7470"
+    ],
+    "geo": {
+      "lat": "23.243",
+      "lon": "89.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40410011",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চৌগাছা",
+      "en": "Chaugachha",
+      "slug": "chaugachha-bd40410011"
+    },
+    "code": {
+      "id": "BD40410011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7410"
+    ],
+    "geo": {
+      "lat": "23.263",
+      "lon": "89.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40410047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাটোর সদর",
+      "en": "Jashore Sadar",
+      "slug": "jashore-sadar-bd40410047"
+    },
+    "code": {
+      "id": "BD40410047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7406"
+    ],
+    "geo": {
+      "lat": "23.182",
+      "lon": "89.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40410023",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঝিকরগাছা",
+      "en": "Jhikargachha",
+      "slug": "jhikargachha-bd40410023"
+    },
+    "code": {
+      "id": "BD40410023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7420"
+    ],
+    "geo": {
+      "lat": "23.069",
+      "lon": "89.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40410038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কেশবপুর",
+      "en": "Keshabpur",
+      "slug": "keshabpur-bd40410038"
+    },
+    "code": {
+      "id": "BD40410038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7450"
+    ],
+    "geo": {
+      "lat": "22.88",
+      "lon": "89.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40410061",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মণিরামপুর",
+      "en": "Manirampur",
+      "slug": "manirampur-bd40410061"
+    },
+    "code": {
+      "id": "BD40410061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7440"
+    ],
+    "geo": {
+      "lat": "23.006",
+      "lon": "89.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40410090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শার্শা",
+      "en": "Sharsha",
+      "slug": "sharsha-bd40410090"
+    },
+    "code": {
+      "id": "BD40410090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4041",
+      "level": 2,
+      "name": {
+        "local": "যশোর",
+        "en": "Jashore",
+        "slug": "jashore-bd4041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4041",
+        "level": 2,
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7432"
+    ],
+    "geo": {
+      "lat": "23.045",
+      "lon": "88.941"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

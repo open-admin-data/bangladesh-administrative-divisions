@@ -1,0 +1,49 @@
+{
+  "id": "BD3026",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "ঢাকা",
+    "en": "Dhaka",
+    "slug": "dhaka-bd3026"
+  },
+  "code": {
+    "id": "BD3026",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD30",
+    "level": 1,
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 5
+  },
+  "zip_codes": [
+    "1360"
+  ],
+  "geo": {
+    "lat": "23.788",
+    "lon": "90.251"
+  },
+  "metadata": {},
+  "source": {}
+}

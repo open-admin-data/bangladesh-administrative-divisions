@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD55940008",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বালিয়াডাঙ্গী",
+      "en": "Baliadangi",
+      "slug": "baliadangi-bd55940008"
+    },
+    "code": {
+      "id": "BD55940008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5594",
+      "level": 2,
+      "name": {
+        "local": "ঠাকুরগাঁও",
+        "en": "Thakurgaon",
+        "slug": "thakurgaon-bd5594"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5594",
+        "level": 2,
+        "name": {
+          "local": "ঠাকুরগাঁও",
+          "en": "Thakurgaon",
+          "slug": "thakurgaon-bd5594"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5140"
+    ],
+    "geo": {
+      "lat": "26.108",
+      "lon": "88.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55940051",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হরিপুর",
+      "en": "Haripur",
+      "slug": "haripur-bd55940051"
+    },
+    "code": {
+      "id": "BD55940051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5594",
+      "level": 2,
+      "name": {
+        "local": "ঠাকুরগাঁও",
+        "en": "Thakurgaon",
+        "slug": "thakurgaon-bd5594"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5594",
+        "level": 2,
+        "name": {
+          "local": "ঠাকুরগাঁও",
+          "en": "Thakurgaon",
+          "slug": "thakurgaon-bd5594"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1741"
+    ],
+    "geo": {
+      "lat": "25.879",
+      "lon": "88.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55940082",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পীরগঞ্জ",
+      "en": "Pirganj",
+      "slug": "pirganj-bd55940082"
+    },
+    "code": {
+      "id": "BD55940082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5594",
+      "level": 2,
+      "name": {
+        "local": "ঠাকুরগাঁও",
+        "en": "Thakurgaon",
+        "slug": "thakurgaon-bd5594"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5594",
+        "level": 2,
+        "name": {
+          "local": "ঠাকুরগাঁও",
+          "en": "Thakurgaon",
+          "slug": "thakurgaon-bd5594"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5110"
+    ],
+    "geo": {
+      "lat": "25.842",
+      "lon": "88.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55940086",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাণীশংকৈল",
+      "en": "Ranishankail",
+      "slug": "ranishankail-bd55940086"
+    },
+    "code": {
+      "id": "BD55940086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5594",
+      "level": 2,
+      "name": {
+        "local": "ঠাকুরগাঁও",
+        "en": "Thakurgaon",
+        "slug": "thakurgaon-bd5594"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5594",
+        "level": 2,
+        "name": {
+          "local": "ঠাকুরগাঁও",
+          "en": "Thakurgaon",
+          "slug": "thakurgaon-bd5594"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5120"
+    ],
+    "geo": {
+      "lat": "25.941",
+      "lon": "88.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55940094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঠাকুরগাঁও সদর",
+      "en": "Thakurgaon Sadar",
+      "slug": "thakurgaon-sadar-bd55940094"
+    },
+    "code": {
+      "id": "BD55940094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5594",
+      "level": 2,
+      "name": {
+        "local": "ঠাকুরগাঁও",
+        "en": "Thakurgaon",
+        "slug": "thakurgaon-bd5594"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5594",
+        "level": 2,
+        "name": {
+          "local": "ঠাকুরগাঁও",
+          "en": "Thakurgaon",
+          "slug": "thakurgaon-bd5594"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5103"
+    ],
+    "geo": {
+      "lat": "26.072",
+      "lon": "88.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

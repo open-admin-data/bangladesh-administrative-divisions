@@ -1,0 +1,49 @@
+{
+  "id": "BD4018",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "চুয়াডাঙ্গা",
+    "en": "Chuadanga",
+    "slug": "chuadanga-bd4018"
+  },
+  "code": {
+    "id": "BD4018",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD40",
+    "level": 1,
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 4
+  },
+  "zip_codes": [
+    "7210"
+  ],
+  "geo": {
+    "lat": "23.609",
+    "lon": "88.849"
+  },
+  "metadata": {},
+  "source": {}
+}

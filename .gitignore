@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+*.log
+desktop.ini
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+/.claude

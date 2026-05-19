@@ -1,0 +1,49 @@
+{
+  "id": "BD4041",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "যশোর",
+    "en": "Jashore",
+    "slug": "jashore-bd4041"
+  },
+  "code": {
+    "id": "BD4041",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD40",
+    "level": 1,
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 8
+  },
+  "zip_codes": [
+    "7470"
+  ],
+  "geo": {
+    "lat": "23.089",
+    "lon": "89.175"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,639 @@
+[
+  {
+    "id": "BD3026",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd3026"
+    },
+    "code": {
+      "id": "BD3026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "1360"
+    ],
+    "geo": {
+      "lat": "23.788",
+      "lon": "90.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3029",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ফরিদপুর",
+      "en": "Faridpur",
+      "slug": "faridpur-bd3029"
+    },
+    "code": {
+      "id": "BD3029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "7870"
+    ],
+    "geo": {
+      "lat": "23.478",
+      "lon": "89.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3033",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "গাজীপুর",
+      "en": "Gazipur",
+      "slug": "gazipur-bd3033"
+    },
+    "code": {
+      "id": "BD3033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "1703"
+    ],
+    "geo": {
+      "lat": "24.099",
+      "lon": "90.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3035",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "গোপালগঞ্জ",
+      "en": "Gopalganj",
+      "slug": "gopalganj-bd3035"
+    },
+    "code": {
+      "id": "BD3035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "8102"
+    ],
+    "geo": {
+      "lat": "23.105",
+      "lon": "89.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3048",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "কিশোরগঞ্জ",
+      "en": "Kishoreganj",
+      "slug": "kishoreganj-bd3048"
+    },
+    "code": {
+      "id": "BD3048",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 13
+    },
+    "zip_codes": [
+      "2336"
+    ],
+    "geo": {
+      "lat": "24.378",
+      "lon": "90.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3054",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মাদারীপুর",
+      "en": "Madaripur",
+      "slug": "madaripur-bd3054"
+    },
+    "code": {
+      "id": "BD3054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "7932"
+    ],
+    "geo": {
+      "lat": "23.222",
+      "lon": "90.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3056",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মানিকগঞ্জ",
+      "en": "Manikganj",
+      "slug": "manikganj-bd3056"
+    },
+    "code": {
+      "id": "BD3056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "1860"
+    ],
+    "geo": {
+      "lat": "23.841",
+      "lon": "89.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3059",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মুন্সিগঞ্জ",
+      "en": "Munshiganj",
+      "slug": "munshiganj-bd3059"
+    },
+    "code": {
+      "id": "BD3059",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "1510"
+    ],
+    "geo": {
+      "lat": "23.526",
+      "lon": "90.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3067",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নারায়ণগঞ্জ",
+      "en": "Narayanganj",
+      "slug": "narayanganj-bd3067"
+    },
+    "code": {
+      "id": "BD3067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "1450"
+    ],
+    "geo": {
+      "lat": "23.724",
+      "lon": "90.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3068",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নরসিংদী",
+      "en": "Narsingdi",
+      "slug": "narsingdi-bd3068"
+    },
+    "code": {
+      "id": "BD3068",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "1640"
+    ],
+    "geo": {
+      "lat": "24.003",
+      "lon": "90.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3082",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "রাজবাড়ী",
+      "en": "Rajbari",
+      "slug": "rajbari-bd3082"
+    },
+    "code": {
+      "id": "BD3082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "7730"
+    ],
+    "geo": {
+      "lat": "23.729",
+      "lon": "89.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3086",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "শরিয়তপুর",
+      "en": "Shariatpur",
+      "slug": "shariatpur-bd3086"
+    },
+    "code": {
+      "id": "BD3086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "8030"
+    ],
+    "geo": {
+      "lat": "23.245",
+      "lon": "90.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3093",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "টাঙ্গাইল",
+      "en": "Tangail",
+      "slug": "tangail-bd3093"
+    },
+    "code": {
+      "id": "BD3093",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 12
+    },
+    "zip_codes": [
+      "1920"
+    ],
+    "geo": {
+      "lat": "24.358",
+      "lon": "90"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

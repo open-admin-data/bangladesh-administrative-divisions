@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD50380013",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আক্কেলপুর",
+      "en": "Akkelpur",
+      "slug": "akkelpur-bd50380013"
+    },
+    "code": {
+      "id": "BD50380013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5038",
+      "level": 2,
+      "name": {
+        "local": "জয়পুরহাট",
+        "en": "Joypurhat",
+        "slug": "joypurhat-bd5038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5038",
+        "level": 2,
+        "name": {
+          "local": "জয়পুরহাট",
+          "en": "Joypurhat",
+          "slug": "joypurhat-bd5038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5940"
+    ],
+    "geo": {
+      "lat": "24.933",
+      "lon": "89.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50380047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জয়পুরহাট সদর",
+      "en": "Joypurhat Sadar",
+      "slug": "joypurhat-sadar-bd50380047"
+    },
+    "code": {
+      "id": "BD50380047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5038",
+      "level": 2,
+      "name": {
+        "local": "জয়পুরহাট",
+        "en": "Joypurhat",
+        "slug": "joypurhat-bd5038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5038",
+        "level": 2,
+        "name": {
+          "local": "জয়পুরহাট",
+          "en": "Joypurhat",
+          "slug": "joypurhat-bd5038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5900"
+    ],
+    "geo": {
+      "lat": "25.108",
+      "lon": "89.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50380058",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালাই",
+      "en": "Kalai",
+      "slug": "kalai-bd50380058"
+    },
+    "code": {
+      "id": "BD50380058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5038",
+      "level": 2,
+      "name": {
+        "local": "জয়পুরহাট",
+        "en": "Joypurhat",
+        "slug": "joypurhat-bd5038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5038",
+        "level": 2,
+        "name": {
+          "local": "জয়পুরহাট",
+          "en": "Joypurhat",
+          "slug": "joypurhat-bd5038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5930"
+    ],
+    "geo": {
+      "lat": "25.078",
+      "lon": "89.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50380061",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ক্ষেতলাল",
+      "en": "Khetlal",
+      "slug": "khetlal-bd50380061"
+    },
+    "code": {
+      "id": "BD50380061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5038",
+      "level": 2,
+      "name": {
+        "local": "জয়পুরহাট",
+        "en": "Joypurhat",
+        "slug": "joypurhat-bd5038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5038",
+        "level": 2,
+        "name": {
+          "local": "জয়পুরহাট",
+          "en": "Joypurhat",
+          "slug": "joypurhat-bd5038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5920"
+    ],
+    "geo": {
+      "lat": "25.023",
+      "lon": "89.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50380074",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পাঁচবিবি",
+      "en": "Panchbibi",
+      "slug": "panchbibi-bd50380074"
+    },
+    "code": {
+      "id": "BD50380074",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5038",
+      "level": 2,
+      "name": {
+        "local": "জয়পুরহাট",
+        "en": "Joypurhat",
+        "slug": "joypurhat-bd5038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5038",
+        "level": 2,
+        "name": {
+          "local": "জয়পুরহাট",
+          "en": "Joypurhat",
+          "slug": "joypurhat-bd5038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5910"
+    ],
+    "geo": {
+      "lat": "25.205",
+      "lon": "89.072"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

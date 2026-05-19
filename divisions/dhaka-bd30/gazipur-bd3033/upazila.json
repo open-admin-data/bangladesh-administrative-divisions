@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BD30330030",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গাজীপুর সদর",
+      "en": "Gazipur Sadar",
+      "slug": "gazipur-sadar-bd30330030"
+    },
+    "code": {
+      "id": "BD30330030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3033",
+      "level": 2,
+      "name": {
+        "local": "গাজীপুর",
+        "en": "Gazipur",
+        "slug": "gazipur-bd3033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3033",
+        "level": 2,
+        "name": {
+          "local": "গাজীপুর",
+          "en": "Gazipur",
+          "slug": "gazipur-bd3033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703"
+    ],
+    "geo": {
+      "lat": "24.085",
+      "lon": "90.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30330032",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালিয়াকৈর",
+      "en": "Kaliakair",
+      "slug": "kaliakair-bd30330032"
+    },
+    "code": {
+      "id": "BD30330032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3033",
+      "level": 2,
+      "name": {
+        "local": "গাজীপুর",
+        "en": "Gazipur",
+        "slug": "gazipur-bd3033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3033",
+        "level": 2,
+        "name": {
+          "local": "গাজীপুর",
+          "en": "Gazipur",
+          "slug": "gazipur-bd3033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1750"
+    ],
+    "geo": {
+      "lat": "24.102",
+      "lon": "90.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30330034",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালীগঞ্জ",
+      "en": "Kaliganj",
+      "slug": "kaliganj-bd30330034"
+    },
+    "code": {
+      "id": "BD30330034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3033",
+      "level": 2,
+      "name": {
+        "local": "গাজীপুর",
+        "en": "Gazipur",
+        "slug": "gazipur-bd3033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3033",
+        "level": 2,
+        "name": {
+          "local": "গাজীপুর",
+          "en": "Gazipur",
+          "slug": "gazipur-bd3033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1720"
+    ],
+    "geo": {
+      "lat": "23.965",
+      "lon": "90.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30330036",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কাপাসিয়া",
+      "en": "Kapasia",
+      "slug": "kapasia-bd30330036"
+    },
+    "code": {
+      "id": "BD30330036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3033",
+      "level": 2,
+      "name": {
+        "local": "গাজীপুর",
+        "en": "Gazipur",
+        "slug": "gazipur-bd3033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3033",
+        "level": 2,
+        "name": {
+          "local": "গাজীপুর",
+          "en": "Gazipur",
+          "slug": "gazipur-bd3033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1730"
+    ],
+    "geo": {
+      "lat": "24.148",
+      "lon": "90.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30330086",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শ্রীপুর",
+      "en": "Sreepur",
+      "slug": "sreepur-bd30330086"
+    },
+    "code": {
+      "id": "BD30330086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3033",
+      "level": 2,
+      "name": {
+        "local": "গাজীপুর",
+        "en": "Gazipur",
+        "slug": "gazipur-bd3033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3033",
+        "level": 2,
+        "name": {
+          "local": "গাজীপুর",
+          "en": "Gazipur",
+          "slug": "gazipur-bd3033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1743"
+    ],
+    "geo": {
+      "lat": "24.206",
+      "lon": "90.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

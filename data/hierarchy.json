@@ -1,0 +1,6950 @@
+[
+  {
+    "id": "BD10",
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd10"
+    },
+    "code": {
+      "id": "BD10",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD1004",
+        "name": {
+          "local": "বরগুনা",
+          "en": "Barguna",
+          "slug": "barguna-bd1004"
+        },
+        "code": {
+          "id": "BD1004",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD10040009",
+            "name": {
+              "local": "আমতলী",
+              "en": "Amtali",
+              "slug": "amtali-bd10040009"
+            },
+            "code": {
+              "id": "BD10040009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10040019",
+            "name": {
+              "local": "বামনা",
+              "en": "Bamna",
+              "slug": "bamna-bd10040019"
+            },
+            "code": {
+              "id": "BD10040019",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10040028",
+            "name": {
+              "local": "বরগুনা সদর",
+              "en": "Barguna Sadar",
+              "slug": "barguna-sadar-bd10040028"
+            },
+            "code": {
+              "id": "BD10040028",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10040047",
+            "name": {
+              "local": "বেতাগী",
+              "en": "Betagi",
+              "slug": "betagi-bd10040047"
+            },
+            "code": {
+              "id": "BD10040047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10040085",
+            "name": {
+              "local": "চারঘাট",
+              "en": "Patharghata",
+              "slug": "patharghata-bd10040085"
+            },
+            "code": {
+              "id": "BD10040085",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10040090",
+            "name": {
+              "local": "তালতলি",
+              "en": "Taltali",
+              "slug": "taltali-bd10040090"
+            },
+            "code": {
+              "id": "BD10040090",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD1006",
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd1006"
+        },
+        "code": {
+          "id": "BD1006",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD10060002",
+            "name": {
+              "local": "আগৈলঝাড়া",
+              "en": "Agailjhara",
+              "slug": "agailjhara-bd10060002"
+            },
+            "code": {
+              "id": "BD10060002",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060003",
+            "name": {
+              "local": "বাবুগঞ্জ",
+              "en": "Babuganj",
+              "slug": "babuganj-bd10060003"
+            },
+            "code": {
+              "id": "BD10060003",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060007",
+            "name": {
+              "local": "বাকেরগঞ্জ",
+              "en": "Bakerganj",
+              "slug": "bakerganj-bd10060007"
+            },
+            "code": {
+              "id": "BD10060007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060010",
+            "name": {
+              "local": "বানারীপাড়া",
+              "en": "Banaripara",
+              "slug": "banaripara-bd10060010"
+            },
+            "code": {
+              "id": "BD10060010",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060051",
+            "name": {
+              "local": "বরিশাল সদর (কোতোয়ালি)",
+              "en": "Barishal Sadar (Kotwali)",
+              "slug": "barishal-sadar-kotwali-bd10060051"
+            },
+            "code": {
+              "id": "BD10060051",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060032",
+            "name": {
+              "local": "গৌরনদী",
+              "en": "Gaurnadi",
+              "slug": "gaurnadi-bd10060032"
+            },
+            "code": {
+              "id": "BD10060032",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060036",
+            "name": {
+              "local": "হিজলা",
+              "en": "Hijla",
+              "slug": "hijla-bd10060036"
+            },
+            "code": {
+              "id": "BD10060036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060062",
+            "name": {
+              "local": "মেহেন্দিগঞ্জ",
+              "en": "Mehendiganj",
+              "slug": "mehendiganj-bd10060062"
+            },
+            "code": {
+              "id": "BD10060062",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060069",
+            "name": {
+              "local": "মুলাদী",
+              "en": "Muladi",
+              "slug": "muladi-bd10060069"
+            },
+            "code": {
+              "id": "BD10060069",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10060094",
+            "name": {
+              "local": "মিরপুর",
+              "en": "Ujirpur",
+              "slug": "ujirpur-bd10060094"
+            },
+            "code": {
+              "id": "BD10060094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD1009",
+        "name": {
+          "local": "ভোলা",
+          "en": "Bhola",
+          "slug": "bhola-bd1009"
+        },
+        "code": {
+          "id": "BD1009",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD10090018",
+            "name": {
+              "local": "ভোলা সদর",
+              "en": "Bhola Sadar",
+              "slug": "bhola-sadar-bd10090018"
+            },
+            "code": {
+              "id": "BD10090018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10090021",
+            "name": {
+              "local": "বোরহানউদ্দিন",
+              "en": "Borhanuddin",
+              "slug": "borhanuddin-bd10090021"
+            },
+            "code": {
+              "id": "BD10090021",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10090025",
+            "name": {
+              "local": "চরফ্যাশন",
+              "en": "Charfasson",
+              "slug": "charfasson-bd10090025"
+            },
+            "code": {
+              "id": "BD10090025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10090029",
+            "name": {
+              "local": "দৌলতখান",
+              "en": "Daulatkhan",
+              "slug": "daulatkhan-bd10090029"
+            },
+            "code": {
+              "id": "BD10090029",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10090054",
+            "name": {
+              "local": "লালমোহন",
+              "en": "Lalmohan",
+              "slug": "lalmohan-bd10090054"
+            },
+            "code": {
+              "id": "BD10090054",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10090065",
+            "name": {
+              "local": "মনপুরা",
+              "en": "Monpura",
+              "slug": "monpura-bd10090065"
+            },
+            "code": {
+              "id": "BD10090065",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10090091",
+            "name": {
+              "local": "তজুমদ্দিন",
+              "en": "Tazumuddin",
+              "slug": "tazumuddin-bd10090091"
+            },
+            "code": {
+              "id": "BD10090091",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD1042",
+        "name": {
+          "local": "ঝালকাঠি",
+          "en": "Jhalokati",
+          "slug": "jhalokati-bd1042"
+        },
+        "code": {
+          "id": "BD1042",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD10420040",
+            "name": {
+              "local": "ঝালকাঠি সদর",
+              "en": "Jhalokathi Sadar",
+              "slug": "jhalokathi-sadar-bd10420040"
+            },
+            "code": {
+              "id": "BD10420040",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10420043",
+            "name": {
+              "local": "কাঠালিয়া",
+              "en": "Kanthalia",
+              "slug": "kanthalia-bd10420043"
+            },
+            "code": {
+              "id": "BD10420043",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10420073",
+            "name": {
+              "local": "নলছিটি",
+              "en": "Nalchhity",
+              "slug": "nalchhity-bd10420073"
+            },
+            "code": {
+              "id": "BD10420073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10420084",
+            "name": {
+              "local": "রাজাপুর",
+              "en": "Rajapur",
+              "slug": "rajapur-bd10420084"
+            },
+            "code": {
+              "id": "BD10420084",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD1078",
+        "name": {
+          "local": "পটুয়াখালী",
+          "en": "Patuakhali",
+          "slug": "patuakhali-bd1078"
+        },
+        "code": {
+          "id": "BD1078",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD10780038",
+            "name": {
+              "local": "বাউফল",
+              "en": "Bauphal",
+              "slug": "bauphal-bd10780038"
+            },
+            "code": {
+              "id": "BD10780038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10780052",
+            "name": {
+              "local": "দশমিনা",
+              "en": "Dashmina",
+              "slug": "dashmina-bd10780052"
+            },
+            "code": {
+              "id": "BD10780052",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10780055",
+            "name": {
+              "local": "দুমকি",
+              "en": "Dumki",
+              "slug": "dumki-bd10780055"
+            },
+            "code": {
+              "id": "BD10780055",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10780057",
+            "name": {
+              "local": "গলাচিপা",
+              "en": "Galachipa",
+              "slug": "galachipa-bd10780057"
+            },
+            "code": {
+              "id": "BD10780057",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10780066",
+            "name": {
+              "local": "কলাপাড়া",
+              "en": "Kalapara",
+              "slug": "kalapara-bd10780066"
+            },
+            "code": {
+              "id": "BD10780066",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10780076",
+            "name": {
+              "local": "মির্জাগঞ্জ",
+              "en": "Mirzaganj",
+              "slug": "mirzaganj-bd10780076"
+            },
+            "code": {
+              "id": "BD10780076",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10780095",
+            "name": {
+              "local": "পটুয়াখালী সদর",
+              "en": "Patuakhali Sadar",
+              "slug": "patuakhali-sadar-bd10780095"
+            },
+            "code": {
+              "id": "BD10780095",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10780097",
+            "name": {
+              "local": "রাঙ্গাবালী",
+              "en": "Rangabali",
+              "slug": "rangabali-bd10780097"
+            },
+            "code": {
+              "id": "BD10780097",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD1079",
+        "name": {
+          "local": "পিরোজপুর",
+          "en": "Pirojpur",
+          "slug": "pirojpur-bd1079"
+        },
+        "code": {
+          "id": "BD1079",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD10790014",
+            "name": {
+              "local": "ভান্ডারিয়া",
+              "en": "Bhandaria",
+              "slug": "bhandaria-bd10790014"
+            },
+            "code": {
+              "id": "BD10790014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10790090",
+            "name": {
+              "local": "ইন্দুরকানী",
+              "en": "Indurkani",
+              "slug": "indurkani-bd10790090"
+            },
+            "code": {
+              "id": "BD10790090",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10790047",
+            "name": {
+              "local": "কাউখালী",
+              "en": "Kawkhali",
+              "slug": "kawkhali-bd10790047"
+            },
+            "code": {
+              "id": "BD10790047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10790058",
+            "name": {
+              "local": "মঠবাড়ীয়া",
+              "en": "Mathbaria",
+              "slug": "mathbaria-bd10790058"
+            },
+            "code": {
+              "id": "BD10790058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10790076",
+            "name": {
+              "local": "নাজিরপুর",
+              "en": "Nazirpur",
+              "slug": "nazirpur-bd10790076"
+            },
+            "code": {
+              "id": "BD10790076",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10790087",
+            "name": {
+              "local": "নেছারাবাদ (স্বরূপকাঠি)",
+              "en": "Nesarabad (Swarupkathi)",
+              "slug": "nesarabad-swarupkathi-bd10790087"
+            },
+            "code": {
+              "id": "BD10790087",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD10790080",
+            "name": {
+              "local": "পিরোজপুর সদর",
+              "en": "Pirojpur Sadar",
+              "slug": "pirojpur-sadar-bd10790080"
+            },
+            "code": {
+              "id": "BD10790080",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BD20",
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    },
+    "code": {
+      "id": "BD20",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD2003",
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        },
+        "code": {
+          "id": "BD2003",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20030004",
+            "name": {
+              "local": "আলীকদম",
+              "en": "Alikadam",
+              "slug": "alikadam-bd20030004"
+            },
+            "code": {
+              "id": "BD20030004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20030014",
+            "name": {
+              "local": "বান্দরবান সদর",
+              "en": "Bandarban Sadar",
+              "slug": "bandarban-sadar-bd20030014"
+            },
+            "code": {
+              "id": "BD20030014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20030051",
+            "name": {
+              "local": "লামা",
+              "en": "Lama",
+              "slug": "lama-bd20030051"
+            },
+            "code": {
+              "id": "BD20030051",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20030073",
+            "name": {
+              "local": "নাইক্ষ্যংছড়ি",
+              "en": "Naikkhongchhari",
+              "slug": "naikkhongchhari-bd20030073"
+            },
+            "code": {
+              "id": "BD20030073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20030089",
+            "name": {
+              "local": "রোয়াংছড়ি",
+              "en": "Rowangchhari",
+              "slug": "rowangchhari-bd20030089"
+            },
+            "code": {
+              "id": "BD20030089",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20030091",
+            "name": {
+              "local": "রুমা",
+              "en": "Ruma",
+              "slug": "ruma-bd20030091"
+            },
+            "code": {
+              "id": "BD20030091",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20030095",
+            "name": {
+              "local": "থানচি",
+              "en": "Thanchi",
+              "slug": "thanchi-bd20030095"
+            },
+            "code": {
+              "id": "BD20030095",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2012",
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        },
+        "code": {
+          "id": "BD2012",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20120002",
+            "name": {
+              "local": "আখাউড়া",
+              "en": "Akhaura",
+              "slug": "akhaura-bd20120002"
+            },
+            "code": {
+              "id": "BD20120002",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120033",
+            "name": {
+              "local": "আশুগঞ্জ",
+              "en": "Ashuganj",
+              "slug": "ashuganj-bd20120033"
+            },
+            "code": {
+              "id": "BD20120033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120004",
+            "name": {
+              "local": "বাঞ্ছারামপুর",
+              "en": "Banchharampur",
+              "slug": "banchharampur-bd20120004"
+            },
+            "code": {
+              "id": "BD20120004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120007",
+            "name": {
+              "local": "বিজয়নগর",
+              "en": "Bijoynagar",
+              "slug": "bijoynagar-bd20120007"
+            },
+            "code": {
+              "id": "BD20120007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120013",
+            "name": {
+              "local": "ব্রাহ্মণবাড়িয়া সদর",
+              "en": "Brahmanbaria Sadar",
+              "slug": "brahmanbaria-sadar-bd20120013"
+            },
+            "code": {
+              "id": "BD20120013",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120063",
+            "name": {
+              "local": "কসবা",
+              "en": "Kasba",
+              "slug": "kasba-bd20120063"
+            },
+            "code": {
+              "id": "BD20120063",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120085",
+            "name": {
+              "local": "নবীনগর",
+              "en": "Nabinagar",
+              "slug": "nabinagar-bd20120085"
+            },
+            "code": {
+              "id": "BD20120085",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120090",
+            "name": {
+              "local": "নাসিরনগর",
+              "en": "Nasirnagar",
+              "slug": "nasirnagar-bd20120090"
+            },
+            "code": {
+              "id": "BD20120090",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20120094",
+            "name": {
+              "local": "সরাইল",
+              "en": "Sarail",
+              "slug": "sarail-bd20120094"
+            },
+            "code": {
+              "id": "BD20120094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2013",
+        "name": {
+          "local": "চাঁদপুর",
+          "en": "Chandpur",
+          "slug": "chandpur-bd2013"
+        },
+        "code": {
+          "id": "BD2013",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20130022",
+            "name": {
+              "local": "চাঁদপুর সদর",
+              "en": "Chandpur Sadar",
+              "slug": "chandpur-sadar-bd20130022"
+            },
+            "code": {
+              "id": "BD20130022",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20130045",
+            "name": {
+              "local": "ফরিদগঞ্জ",
+              "en": "Faridganj",
+              "slug": "faridganj-bd20130045"
+            },
+            "code": {
+              "id": "BD20130045",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20130047",
+            "name": {
+              "local": "হাইমচর",
+              "en": "Haimchar",
+              "slug": "haimchar-bd20130047"
+            },
+            "code": {
+              "id": "BD20130047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20130049",
+            "name": {
+              "local": "হাজীগঞ্জ",
+              "en": "Hajiganj",
+              "slug": "hajiganj-bd20130049"
+            },
+            "code": {
+              "id": "BD20130049",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20130058",
+            "name": {
+              "local": "কচুয়া",
+              "en": "Kachua",
+              "slug": "kachua-bd20130058"
+            },
+            "code": {
+              "id": "BD20130058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20130076",
+            "name": {
+              "local": "মতলব দক্ষিণ",
+              "en": "Matlab Dakkhin",
+              "slug": "matlab-dakkhin-bd20130076"
+            },
+            "code": {
+              "id": "BD20130076",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20130079",
+            "name": {
+              "local": "মতলব উত্তর",
+              "en": "Matlab Uttar",
+              "slug": "matlab-uttar-bd20130079"
+            },
+            "code": {
+              "id": "BD20130079",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20130095",
+            "name": {
+              "local": "শাহরাস্তি",
+              "en": "Shahrasti",
+              "slug": "shahrasti-bd20130095"
+            },
+            "code": {
+              "id": "BD20130095",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2015",
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        },
+        "code": {
+          "id": "BD2015",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20150004",
+            "name": {
+              "local": "আনোয়ারা",
+              "en": "Anwara",
+              "slug": "anwara-bd20150004"
+            },
+            "code": {
+              "id": "BD20150004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150008",
+            "name": {
+              "local": "বাঁশখালী",
+              "en": "Banshkhali",
+              "slug": "banshkhali-bd20150008"
+            },
+            "code": {
+              "id": "BD20150008",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150012",
+            "name": {
+              "local": "বোয়ালখালী",
+              "en": "Boalkhali",
+              "slug": "boalkhali-bd20150012"
+            },
+            "code": {
+              "id": "BD20150012",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150018",
+            "name": {
+              "local": "চন্দনাইশ",
+              "en": "Chandanaish",
+              "slug": "chandanaish-bd20150018"
+            },
+            "code": {
+              "id": "BD20150018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150033",
+            "name": {
+              "local": "ফটিকছড়ি",
+              "en": "Fatikchhari",
+              "slug": "fatikchhari-bd20150033"
+            },
+            "code": {
+              "id": "BD20150033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150037",
+            "name": {
+              "local": "হাটহাজারী",
+              "en": "Hathazari",
+              "slug": "hathazari-bd20150037"
+            },
+            "code": {
+              "id": "BD20150037",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150039",
+            "name": {
+              "local": "কর্ণফুলী",
+              "en": "Karnaphuli",
+              "slug": "karnaphuli-bd20150039"
+            },
+            "code": {
+              "id": "BD20150039",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150047",
+            "name": {
+              "local": "লোহাগড়া",
+              "en": "Lohagara",
+              "slug": "lohagara-bd20150047"
+            },
+            "code": {
+              "id": "BD20150047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150053",
+            "name": {
+              "local": "সরাইল",
+              "en": "Mirsarai",
+              "slug": "mirsarai-bd20150053"
+            },
+            "code": {
+              "id": "BD20150053",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150061",
+            "name": {
+              "local": "পটিয়া",
+              "en": "Patiya",
+              "slug": "patiya-bd20150061"
+            },
+            "code": {
+              "id": "BD20150061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150070",
+            "name": {
+              "local": "রাঙ্গুনিয়া",
+              "en": "Rangunia",
+              "slug": "rangunia-bd20150070"
+            },
+            "code": {
+              "id": "BD20150070",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150074",
+            "name": {
+              "local": "রাউজান",
+              "en": "Raozan",
+              "slug": "raozan-bd20150074"
+            },
+            "code": {
+              "id": "BD20150074",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150078",
+            "name": {
+              "local": "সন্দ্বীপ",
+              "en": "Sandwip",
+              "slug": "sandwip-bd20150078"
+            },
+            "code": {
+              "id": "BD20150078",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150082",
+            "name": {
+              "local": "সাতকানিয়া",
+              "en": "Satkania",
+              "slug": "satkania-bd20150082"
+            },
+            "code": {
+              "id": "BD20150082",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20150086",
+            "name": {
+              "local": "সীতাকুন্ড",
+              "en": "Sitakunda",
+              "slug": "sitakunda-bd20150086"
+            },
+            "code": {
+              "id": "BD20150086",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2019",
+        "name": {
+          "local": "কুমিল্লা",
+          "en": "Cumilla",
+          "slug": "cumilla-bd2019"
+        },
+        "code": {
+          "id": "BD2019",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20190067",
+            "name": {
+              "local": "আদর্শ সদর",
+              "en": "Adarsha Sadar",
+              "slug": "adarsha-sadar-bd20190067"
+            },
+            "code": {
+              "id": "BD20190067",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190009",
+            "name": {
+              "local": "বরুড়া",
+              "en": "Barura",
+              "slug": "barura-bd20190009"
+            },
+            "code": {
+              "id": "BD20190009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190015",
+            "name": {
+              "local": "ব্রাহ্মণপাড়া",
+              "en": "Brahmanpara",
+              "slug": "brahmanpara-bd20190015"
+            },
+            "code": {
+              "id": "BD20190015",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190018",
+            "name": {
+              "local": "বুড়িচং",
+              "en": "Burichang",
+              "slug": "burichang-bd20190018"
+            },
+            "code": {
+              "id": "BD20190018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190027",
+            "name": {
+              "local": "চান্দিনা",
+              "en": "Chandina",
+              "slug": "chandina-bd20190027"
+            },
+            "code": {
+              "id": "BD20190027",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190031",
+            "name": {
+              "local": "চৌদ্দগ্রাম",
+              "en": "Chauddagram",
+              "slug": "chauddagram-bd20190031"
+            },
+            "code": {
+              "id": "BD20190031",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190036",
+            "name": {
+              "local": "দাউদকান্দি",
+              "en": "Daudkandi",
+              "slug": "daudkandi-bd20190036"
+            },
+            "code": {
+              "id": "BD20190036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190040",
+            "name": {
+              "local": "দেবিদ্বার",
+              "en": "Debidwar",
+              "slug": "debidwar-bd20190040"
+            },
+            "code": {
+              "id": "BD20190040",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190054",
+            "name": {
+              "local": "হোমনা",
+              "en": "Homna",
+              "slug": "homna-bd20190054"
+            },
+            "code": {
+              "id": "BD20190054",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190072",
+            "name": {
+              "local": "লাকসাম",
+              "en": "Laksam",
+              "slug": "laksam-bd20190072"
+            },
+            "code": {
+              "id": "BD20190072",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190073",
+            "name": {
+              "local": "লালমাই",
+              "en": "Lalmai",
+              "slug": "lalmai-bd20190073"
+            },
+            "code": {
+              "id": "BD20190073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190074",
+            "name": {
+              "local": "মনোহরগঞ্জ",
+              "en": "Manoharganj",
+              "slug": "manoharganj-bd20190074"
+            },
+            "code": {
+              "id": "BD20190074",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190075",
+            "name": {
+              "local": "মেঘনা",
+              "en": "Meghna",
+              "slug": "meghna-bd20190075"
+            },
+            "code": {
+              "id": "BD20190075",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190081",
+            "name": {
+              "local": "মুরাদনগর",
+              "en": "Muradnagar",
+              "slug": "muradnagar-bd20190081"
+            },
+            "code": {
+              "id": "BD20190081",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190087",
+            "name": {
+              "local": "নাঙ্গলকোট",
+              "en": "Nangalkot",
+              "slug": "nangalkot-bd20190087"
+            },
+            "code": {
+              "id": "BD20190087",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190033",
+            "name": {
+              "local": "সদর দক্ষিণ",
+              "en": "Sadar Dakkhin",
+              "slug": "sadar-dakkhin-bd20190033"
+            },
+            "code": {
+              "id": "BD20190033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20190094",
+            "name": {
+              "local": "তিতাস",
+              "en": "Titas",
+              "slug": "titas-bd20190094"
+            },
+            "code": {
+              "id": "BD20190094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2022",
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        },
+        "code": {
+          "id": "BD2022",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20220016",
+            "name": {
+              "local": "চকরিয়া",
+              "en": "Chakaria",
+              "slug": "chakaria-bd20220016"
+            },
+            "code": {
+              "id": "BD20220016",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220024",
+            "name": {
+              "local": "কক্সবাজার সদর",
+              "en": "Coxs Bazar Sadar",
+              "slug": "coxs-bazar-sadar-bd20220024"
+            },
+            "code": {
+              "id": "BD20220024",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220032",
+            "name": {
+              "local": "ঈদগাঁও",
+              "en": "Eidgaon",
+              "slug": "eidgaon-bd20220032"
+            },
+            "code": {
+              "id": "BD20220032",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220045",
+            "name": {
+              "local": "কুতুবদিয়া",
+              "en": "Kutubdia",
+              "slug": "kutubdia-bd20220045"
+            },
+            "code": {
+              "id": "BD20220045",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220049",
+            "name": {
+              "local": "মহেশখালী",
+              "en": "Maheshkhali",
+              "slug": "maheshkhali-bd20220049"
+            },
+            "code": {
+              "id": "BD20220049",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220056",
+            "name": {
+              "local": "পেকুয়া",
+              "en": "Pekua",
+              "slug": "pekua-bd20220056"
+            },
+            "code": {
+              "id": "BD20220056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220066",
+            "name": {
+              "local": "রামু",
+              "en": "Ramu",
+              "slug": "ramu-bd20220066"
+            },
+            "code": {
+              "id": "BD20220066",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220090",
+            "name": {
+              "local": "টেকনাফ",
+              "en": "Teknaf",
+              "slug": "teknaf-bd20220090"
+            },
+            "code": {
+              "id": "BD20220090",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20220094",
+            "name": {
+              "local": "উখিয়া",
+              "en": "Ukhia",
+              "slug": "ukhia-bd20220094"
+            },
+            "code": {
+              "id": "BD20220094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2030",
+        "name": {
+          "local": "ফেনী",
+          "en": "Feni",
+          "slug": "feni-bd2030"
+        },
+        "code": {
+          "id": "BD2030",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20300014",
+            "name": {
+              "local": "ছাগলনাইয়া",
+              "en": "Chhagalnaiya",
+              "slug": "chhagalnaiya-bd20300014"
+            },
+            "code": {
+              "id": "BD20300014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20300025",
+            "name": {
+              "local": "দাগনভূঞা",
+              "en": "Daganbhuiyan",
+              "slug": "daganbhuiyan-bd20300025"
+            },
+            "code": {
+              "id": "BD20300025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20300029",
+            "name": {
+              "local": "ফেনী সদর",
+              "en": "Feni Sadar",
+              "slug": "feni-sadar-bd20300029"
+            },
+            "code": {
+              "id": "BD20300029",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20300041",
+            "name": {
+              "local": "ফুলগাজী",
+              "en": "Fulgazi",
+              "slug": "fulgazi-bd20300041"
+            },
+            "code": {
+              "id": "BD20300041",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20300051",
+            "name": {
+              "local": "পরশুরাম",
+              "en": "Parashuram",
+              "slug": "parashuram-bd20300051"
+            },
+            "code": {
+              "id": "BD20300051",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20300094",
+            "name": {
+              "local": "সোনাগাজী",
+              "en": "Sonagazi",
+              "slug": "sonagazi-bd20300094"
+            },
+            "code": {
+              "id": "BD20300094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2046",
+        "name": {
+          "local": "খাগড়াছড়ি",
+          "en": "Khagrachhari",
+          "slug": "khagrachhari-bd2046"
+        },
+        "code": {
+          "id": "BD2046",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20460043",
+            "name": {
+              "local": "দিঘীনালা",
+              "en": "Dighinala",
+              "slug": "dighinala-bd20460043"
+            },
+            "code": {
+              "id": "BD20460043",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460047",
+            "name": {
+              "local": "গুইমারা",
+              "en": "Guimara",
+              "slug": "guimara-bd20460047"
+            },
+            "code": {
+              "id": "BD20460047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460049",
+            "name": {
+              "local": "খাগড়াছড়ি সদর",
+              "en": "Khagrachhari Sadar",
+              "slug": "khagrachhari-sadar-bd20460049"
+            },
+            "code": {
+              "id": "BD20460049",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460061",
+            "name": {
+              "local": "লক্ষ্মীছড়ি",
+              "en": "Lakkhichhari",
+              "slug": "lakkhichhari-bd20460061"
+            },
+            "code": {
+              "id": "BD20460061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460065",
+            "name": {
+              "local": "মহালছড়ি",
+              "en": "Mahalchhari",
+              "slug": "mahalchhari-bd20460065"
+            },
+            "code": {
+              "id": "BD20460065",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460067",
+            "name": {
+              "local": "ফটিকছড়ি",
+              "en": "Manikchhari",
+              "slug": "manikchhari-bd20460067"
+            },
+            "code": {
+              "id": "BD20460067",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460070",
+            "name": {
+              "local": "মাটিরাঙ্গা",
+              "en": "Matiranga",
+              "slug": "matiranga-bd20460070"
+            },
+            "code": {
+              "id": "BD20460070",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460077",
+            "name": {
+              "local": "পানছড়ি",
+              "en": "Panchhari",
+              "slug": "panchhari-bd20460077"
+            },
+            "code": {
+              "id": "BD20460077",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20460080",
+            "name": {
+              "local": "রামগড়",
+              "en": "Ramgarh",
+              "slug": "ramgarh-bd20460080"
+            },
+            "code": {
+              "id": "BD20460080",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2051",
+        "name": {
+          "local": "লক্ষ্মীপুর",
+          "en": "Lakshmipur",
+          "slug": "lakshmipur-bd2051"
+        },
+        "code": {
+          "id": "BD2051",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20510033",
+            "name": {
+              "local": "কমলনগর",
+              "en": "Kamalnagar",
+              "slug": "kamalnagar-bd20510033"
+            },
+            "code": {
+              "id": "BD20510033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20510043",
+            "name": {
+              "local": "লক্ষ্মীপুর সদর",
+              "en": "Lakshmipur Sadar",
+              "slug": "lakshmipur-sadar-bd20510043"
+            },
+            "code": {
+              "id": "BD20510043",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20510058",
+            "name": {
+              "local": "রায়পুর",
+              "en": "Raipur",
+              "slug": "raipur-bd20510058"
+            },
+            "code": {
+              "id": "BD20510058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20510065",
+            "name": {
+              "local": "রামগঞ্জ",
+              "en": "Ramganj",
+              "slug": "ramganj-bd20510065"
+            },
+            "code": {
+              "id": "BD20510065",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20510073",
+            "name": {
+              "local": "রামগতি",
+              "en": "Ramgati",
+              "slug": "ramgati-bd20510073"
+            },
+            "code": {
+              "id": "BD20510073",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2075",
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        },
+        "code": {
+          "id": "BD2075",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20750007",
+            "name": {
+              "local": "বেগমগঞ্জ",
+              "en": "Begumganj",
+              "slug": "begumganj-bd20750007"
+            },
+            "code": {
+              "id": "BD20750007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750010",
+            "name": {
+              "local": "চাটখিল",
+              "en": "Chatkhil",
+              "slug": "chatkhil-bd20750010"
+            },
+            "code": {
+              "id": "BD20750010",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750021",
+            "name": {
+              "local": "কোম্পানীগঞ্জ",
+              "en": "Companiganj",
+              "slug": "companiganj-bd20750021"
+            },
+            "code": {
+              "id": "BD20750021",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750036",
+            "name": {
+              "local": "পটিয়া",
+              "en": "Hatiya",
+              "slug": "hatiya-bd20750036"
+            },
+            "code": {
+              "id": "BD20750036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750047",
+            "name": {
+              "local": "কবিরহাট",
+              "en": "Kabirhat",
+              "slug": "kabirhat-bd20750047"
+            },
+            "code": {
+              "id": "BD20750047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750087",
+            "name": {
+              "local": "নোয়াখালী সদর",
+              "en": "Noakhali Sadar",
+              "slug": "noakhali-sadar-bd20750087"
+            },
+            "code": {
+              "id": "BD20750087",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750080",
+            "name": {
+              "local": "সেনবাগ",
+              "en": "Senbag",
+              "slug": "senbag-bd20750080"
+            },
+            "code": {
+              "id": "BD20750080",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750083",
+            "name": {
+              "local": "সোনাইমুড়ী",
+              "en": "Sonaimuri",
+              "slug": "sonaimuri-bd20750083"
+            },
+            "code": {
+              "id": "BD20750083",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20750085",
+            "name": {
+              "local": "সুবর্ণচর",
+              "en": "Subarnachar",
+              "slug": "subarnachar-bd20750085"
+            },
+            "code": {
+              "id": "BD20750085",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD2084",
+        "name": {
+          "local": "রাঙ্গামাটি",
+          "en": "Rangamati",
+          "slug": "rangamati-bd2084"
+        },
+        "code": {
+          "id": "BD2084",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD20840007",
+            "name": {
+              "local": "বাঘাইছড়ি",
+              "en": "Baghaichhari",
+              "slug": "baghaichhari-bd20840007"
+            },
+            "code": {
+              "id": "BD20840007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840021",
+            "name": {
+              "local": "বরকল",
+              "en": "Barkal",
+              "slug": "barkal-bd20840021"
+            },
+            "code": {
+              "id": "BD20840021",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840029",
+            "name": {
+              "local": "বিলাইছড়ি",
+              "en": "Belaichhari",
+              "slug": "belaichhari-bd20840029"
+            },
+            "code": {
+              "id": "BD20840029",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840047",
+            "name": {
+              "local": "জুরাছড়ি",
+              "en": "Jurachhari",
+              "slug": "jurachhari-bd20840047"
+            },
+            "code": {
+              "id": "BD20840047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840036",
+            "name": {
+              "local": "কাপ্তাই",
+              "en": "Kaptai",
+              "slug": "kaptai-bd20840036"
+            },
+            "code": {
+              "id": "BD20840036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840025",
+            "name": {
+              "local": "কাউখালী",
+              "en": "Kawkhali",
+              "slug": "kawkhali-bd20840025"
+            },
+            "code": {
+              "id": "BD20840025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840058",
+            "name": {
+              "local": "লংগদু",
+              "en": "Langadu",
+              "slug": "langadu-bd20840058"
+            },
+            "code": {
+              "id": "BD20840058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840075",
+            "name": {
+              "local": "নানিয়ারচর",
+              "en": "Naniarchar",
+              "slug": "naniarchar-bd20840075"
+            },
+            "code": {
+              "id": "BD20840075",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840078",
+            "name": {
+              "local": "রাজস্থলী",
+              "en": "Rajasthali",
+              "slug": "rajasthali-bd20840078"
+            },
+            "code": {
+              "id": "BD20840078",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD20840087",
+            "name": {
+              "local": "রাঙ্গামাটি সদর",
+              "en": "Rangamati Sadar",
+              "slug": "rangamati-sadar-bd20840087"
+            },
+            "code": {
+              "id": "BD20840087",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BD30",
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd30"
+    },
+    "code": {
+      "id": "BD30",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD3026",
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd3026"
+        },
+        "code": {
+          "id": "BD3026",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30260014",
+            "name": {
+              "local": "ধামরাই",
+              "en": "Dhamrai",
+              "slug": "dhamrai-bd30260014"
+            },
+            "code": {
+              "id": "BD30260014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30260018",
+            "name": {
+              "local": "দোহার",
+              "en": "Dohar",
+              "slug": "dohar-bd30260018"
+            },
+            "code": {
+              "id": "BD30260018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30260038",
+            "name": {
+              "local": "কেরাণীগঞ্জ",
+              "en": "Keraniganj",
+              "slug": "keraniganj-bd30260038"
+            },
+            "code": {
+              "id": "BD30260038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30260062",
+            "name": {
+              "local": "নবাবগঞ্জ",
+              "en": "Nawabganj",
+              "slug": "nawabganj-bd30260062"
+            },
+            "code": {
+              "id": "BD30260062",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30260072",
+            "name": {
+              "local": "সাভার",
+              "en": "Savar",
+              "slug": "savar-bd30260072"
+            },
+            "code": {
+              "id": "BD30260072",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3029",
+        "name": {
+          "local": "ফরিদপুর",
+          "en": "Faridpur",
+          "slug": "faridpur-bd3029"
+        },
+        "code": {
+          "id": "BD3029",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30290003",
+            "name": {
+              "local": "আলফাডাঙ্গা",
+              "en": "Alfadanga",
+              "slug": "alfadanga-bd30290003"
+            },
+            "code": {
+              "id": "BD30290003",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290010",
+            "name": {
+              "local": "ভাঙ্গা",
+              "en": "Bhanga",
+              "slug": "bhanga-bd30290010"
+            },
+            "code": {
+              "id": "BD30290010",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290018",
+            "name": {
+              "local": "বোয়ালমারী",
+              "en": "Boalmari",
+              "slug": "boalmari-bd30290018"
+            },
+            "code": {
+              "id": "BD30290018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290021",
+            "name": {
+              "local": "চরভদ্রাসন",
+              "en": "Char Bhadrasan",
+              "slug": "char-bhadrasan-bd30290021"
+            },
+            "code": {
+              "id": "BD30290021",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290047",
+            "name": {
+              "local": "ফরিদপুর সদর",
+              "en": "Faridpur Sadar",
+              "slug": "faridpur-sadar-bd30290047"
+            },
+            "code": {
+              "id": "BD30290047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290056",
+            "name": {
+              "local": "মধুখালী",
+              "en": "Madhukhali",
+              "slug": "madhukhali-bd30290056"
+            },
+            "code": {
+              "id": "BD30290056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290062",
+            "name": {
+              "local": "নগরকান্দা",
+              "en": "Nagarkanda",
+              "slug": "nagarkanda-bd30290062"
+            },
+            "code": {
+              "id": "BD30290062",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290084",
+            "name": {
+              "local": "সদরপুর",
+              "en": "Sadarpur",
+              "slug": "sadarpur-bd30290084"
+            },
+            "code": {
+              "id": "BD30290084",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30290090",
+            "name": {
+              "local": "সালথা",
+              "en": "Saltha",
+              "slug": "saltha-bd30290090"
+            },
+            "code": {
+              "id": "BD30290090",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3033",
+        "name": {
+          "local": "গাজীপুর",
+          "en": "Gazipur",
+          "slug": "gazipur-bd3033"
+        },
+        "code": {
+          "id": "BD3033",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30330030",
+            "name": {
+              "local": "গাজীপুর সদর",
+              "en": "Gazipur Sadar",
+              "slug": "gazipur-sadar-bd30330030"
+            },
+            "code": {
+              "id": "BD30330030",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30330032",
+            "name": {
+              "local": "কালিয়াকৈর",
+              "en": "Kaliakair",
+              "slug": "kaliakair-bd30330032"
+            },
+            "code": {
+              "id": "BD30330032",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30330034",
+            "name": {
+              "local": "কালীগঞ্জ",
+              "en": "Kaliganj",
+              "slug": "kaliganj-bd30330034"
+            },
+            "code": {
+              "id": "BD30330034",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30330036",
+            "name": {
+              "local": "কাপাসিয়া",
+              "en": "Kapasia",
+              "slug": "kapasia-bd30330036"
+            },
+            "code": {
+              "id": "BD30330036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30330086",
+            "name": {
+              "local": "শ্রীপুর",
+              "en": "Sreepur",
+              "slug": "sreepur-bd30330086"
+            },
+            "code": {
+              "id": "BD30330086",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3035",
+        "name": {
+          "local": "গোপালগঞ্জ",
+          "en": "Gopalganj",
+          "slug": "gopalganj-bd3035"
+        },
+        "code": {
+          "id": "BD3035",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30350032",
+            "name": {
+              "local": "গোপালগঞ্জ সদর",
+              "en": "Gopalganj Sadar",
+              "slug": "gopalganj-sadar-bd30350032"
+            },
+            "code": {
+              "id": "BD30350032",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30350043",
+            "name": {
+              "local": "কাশিয়ানী",
+              "en": "Kashiani",
+              "slug": "kashiani-bd30350043"
+            },
+            "code": {
+              "id": "BD30350043",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30350051",
+            "name": {
+              "local": "কোটালীপাড়া",
+              "en": "Kotalipara",
+              "slug": "kotalipara-bd30350051"
+            },
+            "code": {
+              "id": "BD30350051",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30350058",
+            "name": {
+              "local": "মুকসুদপুর",
+              "en": "Muksudpur",
+              "slug": "muksudpur-bd30350058"
+            },
+            "code": {
+              "id": "BD30350058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30350091",
+            "name": {
+              "local": "টুংগীপাড়া",
+              "en": "Tungipara",
+              "slug": "tungipara-bd30350091"
+            },
+            "code": {
+              "id": "BD30350091",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3048",
+        "name": {
+          "local": "কিশোরগঞ্জ",
+          "en": "Kishoreganj",
+          "slug": "kishoreganj-bd3048"
+        },
+        "code": {
+          "id": "BD3048",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30480002",
+            "name": {
+              "local": "অষ্টগ্রাম",
+              "en": "Austagram",
+              "slug": "austagram-bd30480002"
+            },
+            "code": {
+              "id": "BD30480002",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480006",
+            "name": {
+              "local": "বাজিতপুর",
+              "en": "Bajitpur",
+              "slug": "bajitpur-bd30480006"
+            },
+            "code": {
+              "id": "BD30480006",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480011",
+            "name": {
+              "local": "ভৈরব",
+              "en": "Bhairab",
+              "slug": "bhairab-bd30480011"
+            },
+            "code": {
+              "id": "BD30480011",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480027",
+            "name": {
+              "local": "হোসেনপুর",
+              "en": "Hossainpur",
+              "slug": "hossainpur-bd30480027"
+            },
+            "code": {
+              "id": "BD30480027",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480033",
+            "name": {
+              "local": "ইটনা",
+              "en": "Itna",
+              "slug": "itna-bd30480033"
+            },
+            "code": {
+              "id": "BD30480033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480042",
+            "name": {
+              "local": "করিমগঞ্জ",
+              "en": "Karimganj",
+              "slug": "karimganj-bd30480042"
+            },
+            "code": {
+              "id": "BD30480042",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480045",
+            "name": {
+              "local": "কটিয়াদী",
+              "en": "Katiadi",
+              "slug": "katiadi-bd30480045"
+            },
+            "code": {
+              "id": "BD30480045",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480049",
+            "name": {
+              "local": "কিশোরগঞ্জ সদর",
+              "en": "Kishoreganj Sadar",
+              "slug": "kishoreganj-sadar-bd30480049"
+            },
+            "code": {
+              "id": "BD30480049",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480054",
+            "name": {
+              "local": "কুলিয়ারচর",
+              "en": "Kuliarchar",
+              "slug": "kuliarchar-bd30480054"
+            },
+            "code": {
+              "id": "BD30480054",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480059",
+            "name": {
+              "local": "মিঠামইন",
+              "en": "Mithamain",
+              "slug": "mithamain-bd30480059"
+            },
+            "code": {
+              "id": "BD30480059",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480076",
+            "name": {
+              "local": "নিকলী",
+              "en": "Nikli",
+              "slug": "nikli-bd30480076"
+            },
+            "code": {
+              "id": "BD30480076",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480079",
+            "name": {
+              "local": "পাকুন্দিয়া",
+              "en": "Pakundia",
+              "slug": "pakundia-bd30480079"
+            },
+            "code": {
+              "id": "BD30480079",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30480092",
+            "name": {
+              "local": "তাড়াইল",
+              "en": "Tarail",
+              "slug": "tarail-bd30480092"
+            },
+            "code": {
+              "id": "BD30480092",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3054",
+        "name": {
+          "local": "মাদারীপুর",
+          "en": "Madaripur",
+          "slug": "madaripur-bd3054"
+        },
+        "code": {
+          "id": "BD3054",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30540018",
+            "name": {
+              "local": "ডাসার",
+              "en": "Dasar",
+              "slug": "dasar-bd30540018"
+            },
+            "code": {
+              "id": "BD30540018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30540040",
+            "name": {
+              "local": "কালকিনি",
+              "en": "Kalkini",
+              "slug": "kalkini-bd30540040"
+            },
+            "code": {
+              "id": "BD30540040",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30540054",
+            "name": {
+              "local": "মাদারীপুর সদর",
+              "en": "Madaripur Sadar",
+              "slug": "madaripur-sadar-bd30540054"
+            },
+            "code": {
+              "id": "BD30540054",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30540080",
+            "name": {
+              "local": "রাজৈর",
+              "en": "Rajoir",
+              "slug": "rajoir-bd30540080"
+            },
+            "code": {
+              "id": "BD30540080",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30540087",
+            "name": {
+              "local": "শিবচর",
+              "en": "Shibchar",
+              "slug": "shibchar-bd30540087"
+            },
+            "code": {
+              "id": "BD30540087",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3056",
+        "name": {
+          "local": "মানিকগঞ্জ",
+          "en": "Manikganj",
+          "slug": "manikganj-bd3056"
+        },
+        "code": {
+          "id": "BD3056",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30560010",
+            "name": {
+              "local": "দৌলতপুর",
+              "en": "Daulatpur",
+              "slug": "daulatpur-bd30560010"
+            },
+            "code": {
+              "id": "BD30560010",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30560022",
+            "name": {
+              "local": "ঘিওর",
+              "en": "Ghior",
+              "slug": "ghior-bd30560022"
+            },
+            "code": {
+              "id": "BD30560022",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30560028",
+            "name": {
+              "local": "হরিরামপুর",
+              "en": "Harirampur",
+              "slug": "harirampur-bd30560028"
+            },
+            "code": {
+              "id": "BD30560028",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30560046",
+            "name": {
+              "local": "মানিকগঞ্জ সদর",
+              "en": "Manikganj Sadar",
+              "slug": "manikganj-sadar-bd30560046"
+            },
+            "code": {
+              "id": "BD30560046",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30560070",
+            "name": {
+              "local": "সাটুরিয়া",
+              "en": "Saturia",
+              "slug": "saturia-bd30560070"
+            },
+            "code": {
+              "id": "BD30560070",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30560078",
+            "name": {
+              "local": "শিবালয়",
+              "en": "Shibalay",
+              "slug": "shibalay-bd30560078"
+            },
+            "code": {
+              "id": "BD30560078",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30560082",
+            "name": {
+              "local": "সিংগাইর",
+              "en": "Singair",
+              "slug": "singair-bd30560082"
+            },
+            "code": {
+              "id": "BD30560082",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3059",
+        "name": {
+          "local": "মুন্সিগঞ্জ",
+          "en": "Munshiganj",
+          "slug": "munshiganj-bd3059"
+        },
+        "code": {
+          "id": "BD3059",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30590024",
+            "name": {
+              "local": "গজারিয়া",
+              "en": "Gazaria",
+              "slug": "gazaria-bd30590024"
+            },
+            "code": {
+              "id": "BD30590024",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30590044",
+            "name": {
+              "local": "লৌহজং",
+              "en": "Louhajang",
+              "slug": "louhajang-bd30590044"
+            },
+            "code": {
+              "id": "BD30590044",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30590056",
+            "name": {
+              "local": "মুন্সিগঞ্জ সদর",
+              "en": "Munshiganj Sadar",
+              "slug": "munshiganj-sadar-bd30590056"
+            },
+            "code": {
+              "id": "BD30590056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30590074",
+            "name": {
+              "local": "সিরাজদিখান",
+              "en": "Sirajdikhan",
+              "slug": "sirajdikhan-bd30590074"
+            },
+            "code": {
+              "id": "BD30590074",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30590084",
+            "name": {
+              "local": "শ্রীনগর",
+              "en": "Sreenagar",
+              "slug": "sreenagar-bd30590084"
+            },
+            "code": {
+              "id": "BD30590084",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30590094",
+            "name": {
+              "local": "টংগীবাড়ি",
+              "en": "Tongibari",
+              "slug": "tongibari-bd30590094"
+            },
+            "code": {
+              "id": "BD30590094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3067",
+        "name": {
+          "local": "নারায়ণগঞ্জ",
+          "en": "Narayanganj",
+          "slug": "narayanganj-bd3067"
+        },
+        "code": {
+          "id": "BD3067",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30670002",
+            "name": {
+              "local": "আড়াইহাজার",
+              "en": "Araihazar",
+              "slug": "araihazar-bd30670002"
+            },
+            "code": {
+              "id": "BD30670002",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30670006",
+            "name": {
+              "local": "বন্দর",
+              "en": "Bandar",
+              "slug": "bandar-bd30670006"
+            },
+            "code": {
+              "id": "BD30670006",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30670058",
+            "name": {
+              "local": "নারায়নগঞ্জ সদর",
+              "en": "Narayanganj Sadar",
+              "slug": "narayanganj-sadar-bd30670058"
+            },
+            "code": {
+              "id": "BD30670058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30670068",
+            "name": {
+              "local": "রূপগঞ্জ",
+              "en": "Rupganj",
+              "slug": "rupganj-bd30670068"
+            },
+            "code": {
+              "id": "BD30670068",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30670004",
+            "name": {
+              "local": "সোনারগাঁ",
+              "en": "Sonargaon",
+              "slug": "sonargaon-bd30670004"
+            },
+            "code": {
+              "id": "BD30670004",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3068",
+        "name": {
+          "local": "নরসিংদী",
+          "en": "Narsingdi",
+          "slug": "narsingdi-bd3068"
+        },
+        "code": {
+          "id": "BD3068",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30680007",
+            "name": {
+              "local": "বেলাবো",
+              "en": "Belabo",
+              "slug": "belabo-bd30680007"
+            },
+            "code": {
+              "id": "BD30680007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30680052",
+            "name": {
+              "local": "মনোহরদী",
+              "en": "Manohardi",
+              "slug": "manohardi-bd30680052"
+            },
+            "code": {
+              "id": "BD30680052",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30680060",
+            "name": {
+              "local": "নরসিংদী সদর",
+              "en": "Narsingdi Sadar",
+              "slug": "narsingdi-sadar-bd30680060"
+            },
+            "code": {
+              "id": "BD30680060",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30680063",
+            "name": {
+              "local": "পলাশ",
+              "en": "Palash",
+              "slug": "palash-bd30680063"
+            },
+            "code": {
+              "id": "BD30680063",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30680064",
+            "name": {
+              "local": "রায়পুরা",
+              "en": "Raipura",
+              "slug": "raipura-bd30680064"
+            },
+            "code": {
+              "id": "BD30680064",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30680076",
+            "name": {
+              "local": "শিবপুর",
+              "en": "Shibpur",
+              "slug": "shibpur-bd30680076"
+            },
+            "code": {
+              "id": "BD30680076",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3082",
+        "name": {
+          "local": "রাজবাড়ী",
+          "en": "Rajbari",
+          "slug": "rajbari-bd3082"
+        },
+        "code": {
+          "id": "BD3082",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30820007",
+            "name": {
+              "local": "বালিয়াকান্দি",
+              "en": "Baliakandi",
+              "slug": "baliakandi-bd30820007"
+            },
+            "code": {
+              "id": "BD30820007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30820029",
+            "name": {
+              "local": "গোয়ালন্দ",
+              "en": "Goalanda",
+              "slug": "goalanda-bd30820029"
+            },
+            "code": {
+              "id": "BD30820029",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30820047",
+            "name": {
+              "local": "কালুখালী",
+              "en": "Kalukhali",
+              "slug": "kalukhali-bd30820047"
+            },
+            "code": {
+              "id": "BD30820047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30820073",
+            "name": {
+              "local": "পাংশা",
+              "en": "Pangsha",
+              "slug": "pangsha-bd30820073"
+            },
+            "code": {
+              "id": "BD30820073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30820076",
+            "name": {
+              "local": "রাজবাড়ী সদর",
+              "en": "Rajbari Sadar",
+              "slug": "rajbari-sadar-bd30820076"
+            },
+            "code": {
+              "id": "BD30820076",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3086",
+        "name": {
+          "local": "শরিয়তপুর",
+          "en": "Shariatpur",
+          "slug": "shariatpur-bd3086"
+        },
+        "code": {
+          "id": "BD3086",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30860014",
+            "name": {
+              "local": "ভেদরগঞ্জ",
+              "en": "Bhedarganj",
+              "slug": "bhedarganj-bd30860014"
+            },
+            "code": {
+              "id": "BD30860014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30860025",
+            "name": {
+              "local": "ডামুড্যা",
+              "en": "Damudya",
+              "slug": "damudya-bd30860025"
+            },
+            "code": {
+              "id": "BD30860025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30860036",
+            "name": {
+              "local": "গোসাইরহাট",
+              "en": "Gosairhat",
+              "slug": "gosairhat-bd30860036"
+            },
+            "code": {
+              "id": "BD30860036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30860065",
+            "name": {
+              "local": "নড়িয়া",
+              "en": "Naria",
+              "slug": "naria-bd30860065"
+            },
+            "code": {
+              "id": "BD30860065",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30860069",
+            "name": {
+              "local": "শরিয়তপুর সদর",
+              "en": "Shariatpur Sadar",
+              "slug": "shariatpur-sadar-bd30860069"
+            },
+            "code": {
+              "id": "BD30860069",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30860094",
+            "name": {
+              "local": "জাজিরা",
+              "en": "Zajira",
+              "slug": "zajira-bd30860094"
+            },
+            "code": {
+              "id": "BD30860094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD3093",
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        },
+        "code": {
+          "id": "BD3093",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD30930009",
+            "name": {
+              "local": "বাসাইল",
+              "en": "Basail",
+              "slug": "basail-bd30930009"
+            },
+            "code": {
+              "id": "BD30930009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930019",
+            "name": {
+              "local": "ভূঞাপুর",
+              "en": "Bhuanpur",
+              "slug": "bhuanpur-bd30930019"
+            },
+            "code": {
+              "id": "BD30930019",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930023",
+            "name": {
+              "local": "দেলদুয়ার",
+              "en": "Delduar",
+              "slug": "delduar-bd30930023"
+            },
+            "code": {
+              "id": "BD30930023",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930025",
+            "name": {
+              "local": "ধনবাড়ী",
+              "en": "Dhanbari",
+              "slug": "dhanbari-bd30930025"
+            },
+            "code": {
+              "id": "BD30930025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930028",
+            "name": {
+              "local": "ঘাটাইল",
+              "en": "Ghatail",
+              "slug": "ghatail-bd30930028"
+            },
+            "code": {
+              "id": "BD30930028",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930038",
+            "name": {
+              "local": "গোপালপুর",
+              "en": "Gopalpur",
+              "slug": "gopalpur-bd30930038"
+            },
+            "code": {
+              "id": "BD30930038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930047",
+            "name": {
+              "local": "কালিহাতী",
+              "en": "Kalihati",
+              "slug": "kalihati-bd30930047"
+            },
+            "code": {
+              "id": "BD30930047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930057",
+            "name": {
+              "local": "মধুপুর",
+              "en": "Madhupur",
+              "slug": "madhupur-bd30930057"
+            },
+            "code": {
+              "id": "BD30930057",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930066",
+            "name": {
+              "local": "মির্জাপুর",
+              "en": "Mirzapur",
+              "slug": "mirzapur-bd30930066"
+            },
+            "code": {
+              "id": "BD30930066",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930076",
+            "name": {
+              "local": "নাগরপুর",
+              "en": "Nagarpur",
+              "slug": "nagarpur-bd30930076"
+            },
+            "code": {
+              "id": "BD30930076",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930085",
+            "name": {
+              "local": "সখিপুর",
+              "en": "Sakhipur",
+              "slug": "sakhipur-bd30930085"
+            },
+            "code": {
+              "id": "BD30930085",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD30930095",
+            "name": {
+              "local": "টাঙ্গাইল সদর",
+              "en": "Tangail Sadar",
+              "slug": "tangail-sadar-bd30930095"
+            },
+            "code": {
+              "id": "BD30930095",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BD40",
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    },
+    "code": {
+      "id": "BD40",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD4001",
+        "name": {
+          "local": "বাগেরহাট",
+          "en": "Bagerhat",
+          "slug": "bagerhat-bd4001"
+        },
+        "code": {
+          "id": "BD4001",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40010008",
+            "name": {
+              "local": "বাগেরহাট সদর",
+              "en": "Bagerhat Sadar",
+              "slug": "bagerhat-sadar-bd40010008"
+            },
+            "code": {
+              "id": "BD40010008",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010014",
+            "name": {
+              "local": "চিতলমারী",
+              "en": "Chitalmari",
+              "slug": "chitalmari-bd40010014"
+            },
+            "code": {
+              "id": "BD40010014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010034",
+            "name": {
+              "local": "ফকিরহাট",
+              "en": "Fakirhat",
+              "slug": "fakirhat-bd40010034"
+            },
+            "code": {
+              "id": "BD40010034",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010038",
+            "name": {
+              "local": "কচুয়া",
+              "en": "Kachua",
+              "slug": "kachua-bd40010038"
+            },
+            "code": {
+              "id": "BD40010038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010056",
+            "name": {
+              "local": "মোল্লাহাট",
+              "en": "Mollahat",
+              "slug": "mollahat-bd40010056"
+            },
+            "code": {
+              "id": "BD40010056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010058",
+            "name": {
+              "local": "মোংলা",
+              "en": "Mongla",
+              "slug": "mongla-bd40010058"
+            },
+            "code": {
+              "id": "BD40010058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010060",
+            "name": {
+              "local": "মোড়েলগঞ্জ",
+              "en": "Morelganj",
+              "slug": "morelganj-bd40010060"
+            },
+            "code": {
+              "id": "BD40010060",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010073",
+            "name": {
+              "local": "রামপাল",
+              "en": "Rampal",
+              "slug": "rampal-bd40010073"
+            },
+            "code": {
+              "id": "BD40010073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40010077",
+            "name": {
+              "local": "শরণখোলা",
+              "en": "Sharankhola",
+              "slug": "sharankhola-bd40010077"
+            },
+            "code": {
+              "id": "BD40010077",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4018",
+        "name": {
+          "local": "চুয়াডাঙ্গা",
+          "en": "Chuadanga",
+          "slug": "chuadanga-bd4018"
+        },
+        "code": {
+          "id": "BD4018",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40180007",
+            "name": {
+              "local": "আলমডাঙ্গা",
+              "en": "Alamdanga",
+              "slug": "alamdanga-bd40180007"
+            },
+            "code": {
+              "id": "BD40180007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40180023",
+            "name": {
+              "local": "চুয়াডাঙ্গা সদর",
+              "en": "Chuadanga Sadar",
+              "slug": "chuadanga-sadar-bd40180023"
+            },
+            "code": {
+              "id": "BD40180023",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40180031",
+            "name": {
+              "local": "দামুড়হুদা",
+              "en": "Damurhuda",
+              "slug": "damurhuda-bd40180031"
+            },
+            "code": {
+              "id": "BD40180031",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40180055",
+            "name": {
+              "local": "জীবননগর",
+              "en": "Jibannagar",
+              "slug": "jibannagar-bd40180055"
+            },
+            "code": {
+              "id": "BD40180055",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4041",
+        "name": {
+          "local": "যশোর",
+          "en": "Jashore",
+          "slug": "jashore-bd4041"
+        },
+        "code": {
+          "id": "BD4041",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40410004",
+            "name": {
+              "local": "অভয়নগর",
+              "en": "Abhaynagar",
+              "slug": "abhaynagar-bd40410004"
+            },
+            "code": {
+              "id": "BD40410004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40410009",
+            "name": {
+              "local": "বাঘারপাড়া",
+              "en": "Bagharpara",
+              "slug": "bagharpara-bd40410009"
+            },
+            "code": {
+              "id": "BD40410009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40410011",
+            "name": {
+              "local": "চৌগাছা",
+              "en": "Chaugachha",
+              "slug": "chaugachha-bd40410011"
+            },
+            "code": {
+              "id": "BD40410011",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40410047",
+            "name": {
+              "local": "নাটোর সদর",
+              "en": "Jashore Sadar",
+              "slug": "jashore-sadar-bd40410047"
+            },
+            "code": {
+              "id": "BD40410047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40410023",
+            "name": {
+              "local": "ঝিকরগাছা",
+              "en": "Jhikargachha",
+              "slug": "jhikargachha-bd40410023"
+            },
+            "code": {
+              "id": "BD40410023",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40410038",
+            "name": {
+              "local": "কেশবপুর",
+              "en": "Keshabpur",
+              "slug": "keshabpur-bd40410038"
+            },
+            "code": {
+              "id": "BD40410038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40410061",
+            "name": {
+              "local": "মণিরামপুর",
+              "en": "Manirampur",
+              "slug": "manirampur-bd40410061"
+            },
+            "code": {
+              "id": "BD40410061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40410090",
+            "name": {
+              "local": "শার্শা",
+              "en": "Sharsha",
+              "slug": "sharsha-bd40410090"
+            },
+            "code": {
+              "id": "BD40410090",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4044",
+        "name": {
+          "local": "ঝিনাইদহ",
+          "en": "Jhenaidah",
+          "slug": "jhenaidah-bd4044"
+        },
+        "code": {
+          "id": "BD4044",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40440014",
+            "name": {
+              "local": "হরিণাকুন্ডু",
+              "en": "Harinakundu",
+              "slug": "harinakundu-bd40440014"
+            },
+            "code": {
+              "id": "BD40440014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40440019",
+            "name": {
+              "local": "ঝিনাইদহ সদর",
+              "en": "Jhenaidah Sadar",
+              "slug": "jhenaidah-sadar-bd40440019"
+            },
+            "code": {
+              "id": "BD40440019",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40440033",
+            "name": {
+              "local": "কালীগঞ্জ",
+              "en": "Kaliganj",
+              "slug": "kaliganj-bd40440033"
+            },
+            "code": {
+              "id": "BD40440033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40440042",
+            "name": {
+              "local": "কোটচাঁদপুর",
+              "en": "Kotchandpur",
+              "slug": "kotchandpur-bd40440042"
+            },
+            "code": {
+              "id": "BD40440042",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40440071",
+            "name": {
+              "local": "মহেশপুর",
+              "en": "Maheshpur",
+              "slug": "maheshpur-bd40440071"
+            },
+            "code": {
+              "id": "BD40440071",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40440080",
+            "name": {
+              "local": "শৈলকুপা",
+              "en": "Shailkupa",
+              "slug": "shailkupa-bd40440080"
+            },
+            "code": {
+              "id": "BD40440080",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4047",
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd4047"
+        },
+        "code": {
+          "id": "BD4047",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40470012",
+            "name": {
+              "local": "বটিয়াঘাটা",
+              "en": "Batiaghata",
+              "slug": "batiaghata-bd40470012"
+            },
+            "code": {
+              "id": "BD40470012",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470017",
+            "name": {
+              "local": "দাকোপ",
+              "en": "Dacope",
+              "slug": "dacope-bd40470017"
+            },
+            "code": {
+              "id": "BD40470017",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470040",
+            "name": {
+              "local": "কাঠালিয়া",
+              "en": "Dighalia",
+              "slug": "dighalia-bd40470040"
+            },
+            "code": {
+              "id": "BD40470040",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470030",
+            "name": {
+              "local": "ডুমুরিয়া",
+              "en": "Dumuria",
+              "slug": "dumuria-bd40470030"
+            },
+            "code": {
+              "id": "BD40470030",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470053",
+            "name": {
+              "local": "কয়রা",
+              "en": "Koyra",
+              "slug": "koyra-bd40470053"
+            },
+            "code": {
+              "id": "BD40470053",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470064",
+            "name": {
+              "local": "চৌগাছা",
+              "en": "Paikgachha",
+              "slug": "paikgachha-bd40470064"
+            },
+            "code": {
+              "id": "BD40470064",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470069",
+            "name": {
+              "local": "ফুলতলা",
+              "en": "Phultala",
+              "slug": "phultala-bd40470069"
+            },
+            "code": {
+              "id": "BD40470069",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470075",
+            "name": {
+              "local": "রূপসা",
+              "en": "Rupsa",
+              "slug": "rupsa-bd40470075"
+            },
+            "code": {
+              "id": "BD40470075",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40470094",
+            "name": {
+              "local": "তেরখাদা",
+              "en": "Terokhada",
+              "slug": "terokhada-bd40470094"
+            },
+            "code": {
+              "id": "BD40470094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4050",
+        "name": {
+          "local": "কুষ্টিয়া",
+          "en": "Kushtia",
+          "slug": "kushtia-bd4050"
+        },
+        "code": {
+          "id": "BD4050",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40500015",
+            "name": {
+              "local": "ভেড়ামারা",
+              "en": "Bheramara",
+              "slug": "bheramara-bd40500015"
+            },
+            "code": {
+              "id": "BD40500015",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40500039",
+            "name": {
+              "local": "দৌলতপুর",
+              "en": "Daulatpur",
+              "slug": "daulatpur-bd40500039"
+            },
+            "code": {
+              "id": "BD40500039",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40500063",
+            "name": {
+              "local": "খোকসা",
+              "en": "Khoksa",
+              "slug": "khoksa-bd40500063"
+            },
+            "code": {
+              "id": "BD40500063",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40500071",
+            "name": {
+              "local": "কুমারখালী",
+              "en": "Kumarkhali",
+              "slug": "kumarkhali-bd40500071"
+            },
+            "code": {
+              "id": "BD40500071",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40500079",
+            "name": {
+              "local": "কুষ্টিয়া সদর",
+              "en": "Kushtia Sadar",
+              "slug": "kushtia-sadar-bd40500079"
+            },
+            "code": {
+              "id": "BD40500079",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40500094",
+            "name": {
+              "local": "মিরপুর",
+              "en": "Mirpur",
+              "slug": "mirpur-bd40500094"
+            },
+            "code": {
+              "id": "BD40500094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4055",
+        "name": {
+          "local": "মাগুরা",
+          "en": "Magura",
+          "slug": "magura-bd4055"
+        },
+        "code": {
+          "id": "BD4055",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40550057",
+            "name": {
+              "local": "মাগুরা সদর",
+              "en": "Magura Sadar",
+              "slug": "magura-sadar-bd40550057"
+            },
+            "code": {
+              "id": "BD40550057",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40550066",
+            "name": {
+              "local": "মহম্মদপুর",
+              "en": "Mohammadpur",
+              "slug": "mohammadpur-bd40550066"
+            },
+            "code": {
+              "id": "BD40550066",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40550085",
+            "name": {
+              "local": "শালিখা",
+              "en": "Shalikha",
+              "slug": "shalikha-bd40550085"
+            },
+            "code": {
+              "id": "BD40550085",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40550095",
+            "name": {
+              "local": "শ্রীপুর",
+              "en": "Sreepur",
+              "slug": "sreepur-bd40550095"
+            },
+            "code": {
+              "id": "BD40550095",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4057",
+        "name": {
+          "local": "মেহেরপুর",
+          "en": "Meherpur",
+          "slug": "meherpur-bd4057"
+        },
+        "code": {
+          "id": "BD4057",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40570047",
+            "name": {
+              "local": "গাংনী",
+              "en": "Gangni",
+              "slug": "gangni-bd40570047"
+            },
+            "code": {
+              "id": "BD40570047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40570087",
+            "name": {
+              "local": "মেহেরপুর সদর",
+              "en": "Meherpur Sadar",
+              "slug": "meherpur-sadar-bd40570087"
+            },
+            "code": {
+              "id": "BD40570087",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40570060",
+            "name": {
+              "local": "মুজিবনগর",
+              "en": "Mujibnagar",
+              "slug": "mujibnagar-bd40570060"
+            },
+            "code": {
+              "id": "BD40570060",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4065",
+        "name": {
+          "local": "নড়াইল",
+          "en": "Narail",
+          "slug": "narail-bd4065"
+        },
+        "code": {
+          "id": "BD4065",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40650028",
+            "name": {
+              "local": "কালিয়া",
+              "en": "Kalia",
+              "slug": "kalia-bd40650028"
+            },
+            "code": {
+              "id": "BD40650028",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40650052",
+            "name": {
+              "local": "লোহাগড়া",
+              "en": "Lohagara",
+              "slug": "lohagara-bd40650052"
+            },
+            "code": {
+              "id": "BD40650052",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40650076",
+            "name": {
+              "local": "নড়াইল সদর",
+              "en": "Narail Sadar",
+              "slug": "narail-sadar-bd40650076"
+            },
+            "code": {
+              "id": "BD40650076",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4087",
+        "name": {
+          "local": "সাতক্ষীরা",
+          "en": "Satkhira",
+          "slug": "satkhira-bd4087"
+        },
+        "code": {
+          "id": "BD4087",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD40870004",
+            "name": {
+              "local": "আশাশুনি",
+              "en": "Ashashuni",
+              "slug": "ashashuni-bd40870004"
+            },
+            "code": {
+              "id": "BD40870004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40870025",
+            "name": {
+              "local": "দেবহাটা",
+              "en": "Debhata",
+              "slug": "debhata-bd40870025"
+            },
+            "code": {
+              "id": "BD40870025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40870043",
+            "name": {
+              "local": "কলারোয়া",
+              "en": "Kalaroa",
+              "slug": "kalaroa-bd40870043"
+            },
+            "code": {
+              "id": "BD40870043",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40870047",
+            "name": {
+              "local": "কালীগঞ্জ",
+              "en": "Kaliganj",
+              "slug": "kaliganj-bd40870047"
+            },
+            "code": {
+              "id": "BD40870047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40870082",
+            "name": {
+              "local": "সাতক্ষীরা সদর",
+              "en": "Satkhira Sadar",
+              "slug": "satkhira-sadar-bd40870082"
+            },
+            "code": {
+              "id": "BD40870082",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40870086",
+            "name": {
+              "local": "শ্যামনগর",
+              "en": "Shyamnagar",
+              "slug": "shyamnagar-bd40870086"
+            },
+            "code": {
+              "id": "BD40870086",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD40870090",
+            "name": {
+              "local": "তালা",
+              "en": "Tala",
+              "slug": "tala-bd40870090"
+            },
+            "code": {
+              "id": "BD40870090",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BD45",
+    "name": {
+      "local": "ময়মনসিংহ",
+      "en": "Mymensingh",
+      "slug": "mymensingh-bd45"
+    },
+    "code": {
+      "id": "BD45",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD4539",
+        "name": {
+          "local": "জামালপুর",
+          "en": "Jamalpur",
+          "slug": "jamalpur-bd4539"
+        },
+        "code": {
+          "id": "BD4539",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD45390007",
+            "name": {
+              "local": "বকশীগঞ্জ",
+              "en": "Bakshiganj",
+              "slug": "bakshiganj-bd45390007"
+            },
+            "code": {
+              "id": "BD45390007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45390015",
+            "name": {
+              "local": "দেওয়ানগঞ্জ",
+              "en": "Dewanganj",
+              "slug": "dewanganj-bd45390015"
+            },
+            "code": {
+              "id": "BD45390015",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45390029",
+            "name": {
+              "local": "ইসলামপুর",
+              "en": "Islampur",
+              "slug": "islampur-bd45390029"
+            },
+            "code": {
+              "id": "BD45390029",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45390036",
+            "name": {
+              "local": "জামালপুর সদর",
+              "en": "Jamalpur Sadar",
+              "slug": "jamalpur-sadar-bd45390036"
+            },
+            "code": {
+              "id": "BD45390036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45390058",
+            "name": {
+              "local": "মাদারগঞ্জ",
+              "en": "Madarganj",
+              "slug": "madarganj-bd45390058"
+            },
+            "code": {
+              "id": "BD45390058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45390061",
+            "name": {
+              "local": "মেলান্দহ",
+              "en": "Melandaha",
+              "slug": "melandaha-bd45390061"
+            },
+            "code": {
+              "id": "BD45390061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45390085",
+            "name": {
+              "local": "সরিষাবাড়ী",
+              "en": "Sarishabari",
+              "slug": "sarishabari-bd45390085"
+            },
+            "code": {
+              "id": "BD45390085",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4561",
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd4561"
+        },
+        "code": {
+          "id": "BD4561",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD45610013",
+            "name": {
+              "local": "ভালুকা",
+              "en": "Bhaluka",
+              "slug": "bhaluka-bd45610013"
+            },
+            "code": {
+              "id": "BD45610013",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610016",
+            "name": {
+              "local": "ধোবাউড়া",
+              "en": "Dhobaura",
+              "slug": "dhobaura-bd45610016"
+            },
+            "code": {
+              "id": "BD45610016",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610020",
+            "name": {
+              "local": "ফুলবাড়ীয়া",
+              "en": "Fulbaria",
+              "slug": "fulbaria-bd45610020"
+            },
+            "code": {
+              "id": "BD45610020",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610081",
+            "name": {
+              "local": "ফুলপুর",
+              "en": "Fulpur",
+              "slug": "fulpur-bd45610081"
+            },
+            "code": {
+              "id": "BD45610081",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610022",
+            "name": {
+              "local": "গফরগাঁও",
+              "en": "Gafargaon",
+              "slug": "gafargaon-bd45610022"
+            },
+            "code": {
+              "id": "BD45610022",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610023",
+            "name": {
+              "local": "গৌরীপুর",
+              "en": "Gouripur",
+              "slug": "gouripur-bd45610023"
+            },
+            "code": {
+              "id": "BD45610023",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610024",
+            "name": {
+              "local": "হালুয়াঘাট",
+              "en": "Haluaghat",
+              "slug": "haluaghat-bd45610024"
+            },
+            "code": {
+              "id": "BD45610024",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610031",
+            "name": {
+              "local": "ঈশ্বরগঞ্জ",
+              "en": "Ishwarganj",
+              "slug": "ishwarganj-bd45610031"
+            },
+            "code": {
+              "id": "BD45610031",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610065",
+            "name": {
+              "local": "মুক্তাগাছা",
+              "en": "Muktagachha",
+              "slug": "muktagachha-bd45610065"
+            },
+            "code": {
+              "id": "BD45610065",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610052",
+            "name": {
+              "local": "ময়মনসিংহ সদর",
+              "en": "Mymensingh Sadar",
+              "slug": "mymensingh-sadar-bd45610052"
+            },
+            "code": {
+              "id": "BD45610052",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610072",
+            "name": {
+              "local": "নান্দাইল",
+              "en": "Nandail",
+              "slug": "nandail-bd45610072"
+            },
+            "code": {
+              "id": "BD45610072",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610088",
+            "name": {
+              "local": "তারাকান্দা",
+              "en": "Tarakanda",
+              "slug": "tarakanda-bd45610088"
+            },
+            "code": {
+              "id": "BD45610088",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45610094",
+            "name": {
+              "local": "ত্রিশাল",
+              "en": "Trishal",
+              "slug": "trishal-bd45610094"
+            },
+            "code": {
+              "id": "BD45610094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4572",
+        "name": {
+          "local": "নেত্রকোনা",
+          "en": "Netrakona",
+          "slug": "netrakona-bd4572"
+        },
+        "code": {
+          "id": "BD4572",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD45720004",
+            "name": {
+              "local": "আটপাড়া",
+              "en": "Atpara",
+              "slug": "atpara-bd45720004"
+            },
+            "code": {
+              "id": "BD45720004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720009",
+            "name": {
+              "local": "বারহাট্টা",
+              "en": "Barhatta",
+              "slug": "barhatta-bd45720009"
+            },
+            "code": {
+              "id": "BD45720009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720018",
+            "name": {
+              "local": "দুর্গাপুর",
+              "en": "Durgapur",
+              "slug": "durgapur-bd45720018"
+            },
+            "code": {
+              "id": "BD45720018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720040",
+            "name": {
+              "local": "কলমাকান্দা",
+              "en": "Kalmakanda",
+              "slug": "kalmakanda-bd45720040"
+            },
+            "code": {
+              "id": "BD45720040",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720047",
+            "name": {
+              "local": "কেন্দুয়া",
+              "en": "Kendua",
+              "slug": "kendua-bd45720047"
+            },
+            "code": {
+              "id": "BD45720047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720038",
+            "name": {
+              "local": "খালিয়াজুরী",
+              "en": "Khaliajuri",
+              "slug": "khaliajuri-bd45720038"
+            },
+            "code": {
+              "id": "BD45720038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720056",
+            "name": {
+              "local": "মদন",
+              "en": "Madan",
+              "slug": "madan-bd45720056"
+            },
+            "code": {
+              "id": "BD45720056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720063",
+            "name": {
+              "local": "মোহনগঞ্জ",
+              "en": "Mohanganj",
+              "slug": "mohanganj-bd45720063"
+            },
+            "code": {
+              "id": "BD45720063",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720074",
+            "name": {
+              "local": "নেত্রকোণা সদর",
+              "en": "Netrakona Sadar",
+              "slug": "netrakona-sadar-bd45720074"
+            },
+            "code": {
+              "id": "BD45720074",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45720083",
+            "name": {
+              "local": "পূর্বধলা",
+              "en": "Purbadhala",
+              "slug": "purbadhala-bd45720083"
+            },
+            "code": {
+              "id": "BD45720083",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD4589",
+        "name": {
+          "local": "শেরপুর",
+          "en": "Sherpur",
+          "slug": "sherpur-bd4589"
+        },
+        "code": {
+          "id": "BD4589",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD45890037",
+            "name": {
+              "local": "ঝিনাইগাতী",
+              "en": "Jhenaigati",
+              "slug": "jhenaigati-bd45890037"
+            },
+            "code": {
+              "id": "BD45890037",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45890067",
+            "name": {
+              "local": "নকলা",
+              "en": "Nakla",
+              "slug": "nakla-bd45890067"
+            },
+            "code": {
+              "id": "BD45890067",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45890070",
+            "name": {
+              "local": "নালিতাবাড়ী",
+              "en": "Nalitabari",
+              "slug": "nalitabari-bd45890070"
+            },
+            "code": {
+              "id": "BD45890070",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45890088",
+            "name": {
+              "local": "শেরপুর সদর",
+              "en": "Sherpur Sadar",
+              "slug": "sherpur-sadar-bd45890088"
+            },
+            "code": {
+              "id": "BD45890088",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD45890090",
+            "name": {
+              "local": "শ্রীবরদী",
+              "en": "Sreebardi",
+              "slug": "sreebardi-bd45890090"
+            },
+            "code": {
+              "id": "BD45890090",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BD50",
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd50"
+    },
+    "code": {
+      "id": "BD50",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD5010",
+        "name": {
+          "local": "বগুড়া",
+          "en": "Bogura",
+          "slug": "bogura-bd5010"
+        },
+        "code": {
+          "id": "BD5010",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50100006",
+            "name": {
+              "local": "আদমদিঘি",
+              "en": "Adamdighi",
+              "slug": "adamdighi-bd50100006"
+            },
+            "code": {
+              "id": "BD50100006",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100020",
+            "name": {
+              "local": "মাগুরা সদর",
+              "en": "Bogura Sadar",
+              "slug": "bogura-sadar-bd50100020"
+            },
+            "code": {
+              "id": "BD50100020",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100027",
+            "name": {
+              "local": "ধুনট",
+              "en": "Dhunat",
+              "slug": "dhunat-bd50100027"
+            },
+            "code": {
+              "id": "BD50100027",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100033",
+            "name": {
+              "local": "দুপচাঁচিয়া",
+              "en": "Dupchachia",
+              "slug": "dupchachia-bd50100033"
+            },
+            "code": {
+              "id": "BD50100033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100040",
+            "name": {
+              "local": "গাবতলী",
+              "en": "Gabtali",
+              "slug": "gabtali-bd50100040"
+            },
+            "code": {
+              "id": "BD50100040",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100054",
+            "name": {
+              "local": "কাহালু",
+              "en": "Kahaloo",
+              "slug": "kahaloo-bd50100054"
+            },
+            "code": {
+              "id": "BD50100054",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100067",
+            "name": {
+              "local": "নন্দিগ্রাম",
+              "en": "Nandigram",
+              "slug": "nandigram-bd50100067"
+            },
+            "code": {
+              "id": "BD50100067",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100081",
+            "name": {
+              "local": "সারিয়াকান্দি",
+              "en": "Sariakandi",
+              "slug": "sariakandi-bd50100081"
+            },
+            "code": {
+              "id": "BD50100081",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100085",
+            "name": {
+              "local": "শাজাহানপুর",
+              "en": "Shajahanpur",
+              "slug": "shajahanpur-bd50100085"
+            },
+            "code": {
+              "id": "BD50100085",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100088",
+            "name": {
+              "local": "শেরপুর",
+              "en": "Sherpur",
+              "slug": "sherpur-bd50100088"
+            },
+            "code": {
+              "id": "BD50100088",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100094",
+            "name": {
+              "local": "শিবগঞ্জ",
+              "en": "Shibganj",
+              "slug": "shibganj-bd50100094"
+            },
+            "code": {
+              "id": "BD50100094",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50100095",
+            "name": {
+              "local": "সোনাতলা",
+              "en": "Sonatala",
+              "slug": "sonatala-bd50100095"
+            },
+            "code": {
+              "id": "BD50100095",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5038",
+        "name": {
+          "local": "জয়পুরহাট",
+          "en": "Joypurhat",
+          "slug": "joypurhat-bd5038"
+        },
+        "code": {
+          "id": "BD5038",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50380013",
+            "name": {
+              "local": "আক্কেলপুর",
+              "en": "Akkelpur",
+              "slug": "akkelpur-bd50380013"
+            },
+            "code": {
+              "id": "BD50380013",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50380047",
+            "name": {
+              "local": "জয়পুরহাট সদর",
+              "en": "Joypurhat Sadar",
+              "slug": "joypurhat-sadar-bd50380047"
+            },
+            "code": {
+              "id": "BD50380047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50380058",
+            "name": {
+              "local": "কালাই",
+              "en": "Kalai",
+              "slug": "kalai-bd50380058"
+            },
+            "code": {
+              "id": "BD50380058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50380061",
+            "name": {
+              "local": "ক্ষেতলাল",
+              "en": "Khetlal",
+              "slug": "khetlal-bd50380061"
+            },
+            "code": {
+              "id": "BD50380061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50380074",
+            "name": {
+              "local": "পাঁচবিবি",
+              "en": "Panchbibi",
+              "slug": "panchbibi-bd50380074"
+            },
+            "code": {
+              "id": "BD50380074",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5064",
+        "name": {
+          "local": "নওগাঁ",
+          "en": "Naogaon",
+          "slug": "naogaon-bd5064"
+        },
+        "code": {
+          "id": "BD5064",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50640003",
+            "name": {
+              "local": "আত্রাই",
+              "en": "Atrai",
+              "slug": "atrai-bd50640003"
+            },
+            "code": {
+              "id": "BD50640003",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640006",
+            "name": {
+              "local": "বদলগাছী",
+              "en": "Badalgachhi",
+              "slug": "badalgachhi-bd50640006"
+            },
+            "code": {
+              "id": "BD50640006",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640028",
+            "name": {
+              "local": "ধামইরহাট",
+              "en": "Dhamoirhat",
+              "slug": "dhamoirhat-bd50640028"
+            },
+            "code": {
+              "id": "BD50640028",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640050",
+            "name": {
+              "local": "মহাদেবপুর",
+              "en": "Mahadebpur",
+              "slug": "mahadebpur-bd50640050"
+            },
+            "code": {
+              "id": "BD50640050",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640047",
+            "name": {
+              "local": "মান্দা",
+              "en": "Manda",
+              "slug": "manda-bd50640047"
+            },
+            "code": {
+              "id": "BD50640047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640060",
+            "name": {
+              "local": "নওগাঁ সদর",
+              "en": "Naogaon Sadar",
+              "slug": "naogaon-sadar-bd50640060"
+            },
+            "code": {
+              "id": "BD50640060",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640069",
+            "name": {
+              "local": "নিয়ামতপুর",
+              "en": "Niamatpur",
+              "slug": "niamatpur-bd50640069"
+            },
+            "code": {
+              "id": "BD50640069",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640075",
+            "name": {
+              "local": "পত্নিতলা",
+              "en": "Patnitala",
+              "slug": "patnitala-bd50640075"
+            },
+            "code": {
+              "id": "BD50640075",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640079",
+            "name": {
+              "local": "পোরশা",
+              "en": "Porsha",
+              "slug": "porsha-bd50640079"
+            },
+            "code": {
+              "id": "BD50640079",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640085",
+            "name": {
+              "local": "রাণীনগর",
+              "en": "Raninagar",
+              "slug": "raninagar-bd50640085"
+            },
+            "code": {
+              "id": "BD50640085",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50640086",
+            "name": {
+              "local": "সাপাহার",
+              "en": "Sapahar",
+              "slug": "sapahar-bd50640086"
+            },
+            "code": {
+              "id": "BD50640086",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5069",
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        },
+        "code": {
+          "id": "BD5069",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50690009",
+            "name": {
+              "local": "বাগাতিপাড়া",
+              "en": "Bagatipara",
+              "slug": "bagatipara-bd50690009"
+            },
+            "code": {
+              "id": "BD50690009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50690015",
+            "name": {
+              "local": "বড়াইগ্রাম",
+              "en": "Baraigram",
+              "slug": "baraigram-bd50690015"
+            },
+            "code": {
+              "id": "BD50690015",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50690041",
+            "name": {
+              "local": "গুরুদাসপুর",
+              "en": "Gurudaspur",
+              "slug": "gurudaspur-bd50690041"
+            },
+            "code": {
+              "id": "BD50690041",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50690044",
+            "name": {
+              "local": "লালপুর",
+              "en": "Lalpur",
+              "slug": "lalpur-bd50690044"
+            },
+            "code": {
+              "id": "BD50690044",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50690055",
+            "name": {
+              "local": "নলডাঙ্গা",
+              "en": "Naldanga",
+              "slug": "naldanga-bd50690055"
+            },
+            "code": {
+              "id": "BD50690055",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50690063",
+            "name": {
+              "local": "নাটোর সদর",
+              "en": "Natore Sadar",
+              "slug": "natore-sadar-bd50690063"
+            },
+            "code": {
+              "id": "BD50690063",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50690091",
+            "name": {
+              "local": "সিংড়া",
+              "en": "Singra",
+              "slug": "singra-bd50690091"
+            },
+            "code": {
+              "id": "BD50690091",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5070",
+        "name": {
+          "local": "চাঁপাইনবাবগঞ্জ",
+          "en": "Chapainababganj",
+          "slug": "chapainababganj-bd5070"
+        },
+        "code": {
+          "id": "BD5070",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50700018",
+            "name": {
+              "local": "ভোলাহাট",
+              "en": "Bholahat",
+              "slug": "bholahat-bd50700018"
+            },
+            "code": {
+              "id": "BD50700018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50700066",
+            "name": {
+              "local": "চাঁপাইনবাবগঞ্জ সদর",
+              "en": "Chapainawabganj Sadar",
+              "slug": "chapainawabganj-sadar-bd50700066"
+            },
+            "code": {
+              "id": "BD50700066",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50700037",
+            "name": {
+              "local": "গোমস্তাপুর",
+              "en": "Gomastapur",
+              "slug": "gomastapur-bd50700037"
+            },
+            "code": {
+              "id": "BD50700037",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50700056",
+            "name": {
+              "local": "নাচোল",
+              "en": "Nachole",
+              "slug": "nachole-bd50700056"
+            },
+            "code": {
+              "id": "BD50700056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50700088",
+            "name": {
+              "local": "শিবগঞ্জ",
+              "en": "Shibganj",
+              "slug": "shibganj-bd50700088"
+            },
+            "code": {
+              "id": "BD50700088",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5076",
+        "name": {
+          "local": "পাবনা",
+          "en": "Pabna",
+          "slug": "pabna-bd5076"
+        },
+        "code": {
+          "id": "BD5076",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50760005",
+            "name": {
+              "local": "আটঘরিয়া",
+              "en": "Atgharia",
+              "slug": "atgharia-bd50760005"
+            },
+            "code": {
+              "id": "BD50760005",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760016",
+            "name": {
+              "local": "বেড়া",
+              "en": "Bera",
+              "slug": "bera-bd50760016"
+            },
+            "code": {
+              "id": "BD50760016",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760019",
+            "name": {
+              "local": "ভাঙ্গুড়া",
+              "en": "Bhangura",
+              "slug": "bhangura-bd50760019"
+            },
+            "code": {
+              "id": "BD50760019",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760022",
+            "name": {
+              "local": "চাটমোহর",
+              "en": "Chatmohar",
+              "slug": "chatmohar-bd50760022"
+            },
+            "code": {
+              "id": "BD50760022",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760033",
+            "name": {
+              "local": "ফরিদপুর",
+              "en": "Faridpur",
+              "slug": "faridpur-bd50760033"
+            },
+            "code": {
+              "id": "BD50760033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760039",
+            "name": {
+              "local": "ঈশ্বরদী",
+              "en": "Ishwardi",
+              "slug": "ishwardi-bd50760039"
+            },
+            "code": {
+              "id": "BD50760039",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760055",
+            "name": {
+              "local": "পাবনা সদর",
+              "en": "Pabna Sadar",
+              "slug": "pabna-sadar-bd50760055"
+            },
+            "code": {
+              "id": "BD50760055",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760072",
+            "name": {
+              "local": "সাঁথিয়া",
+              "en": "Santhia",
+              "slug": "santhia-bd50760072"
+            },
+            "code": {
+              "id": "BD50760072",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50760083",
+            "name": {
+              "local": "সুজানগর",
+              "en": "Sujanagar",
+              "slug": "sujanagar-bd50760083"
+            },
+            "code": {
+              "id": "BD50760083",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5081",
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd5081"
+        },
+        "code": {
+          "id": "BD5081",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50810010",
+            "name": {
+              "local": "বাঘা",
+              "en": "Bagha",
+              "slug": "bagha-bd50810010"
+            },
+            "code": {
+              "id": "BD50810010",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810012",
+            "name": {
+              "local": "বাগমারা",
+              "en": "Bagmara",
+              "slug": "bagmara-bd50810012"
+            },
+            "code": {
+              "id": "BD50810012",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810025",
+            "name": {
+              "local": "চারঘাট",
+              "en": "Charghat",
+              "slug": "charghat-bd50810025"
+            },
+            "code": {
+              "id": "BD50810025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810031",
+            "name": {
+              "local": "দুর্গাপুর",
+              "en": "Durgapur",
+              "slug": "durgapur-bd50810031"
+            },
+            "code": {
+              "id": "BD50810031",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810034",
+            "name": {
+              "local": "গোদাগাড়ী",
+              "en": "Godagari",
+              "slug": "godagari-bd50810034"
+            },
+            "code": {
+              "id": "BD50810034",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810053",
+            "name": {
+              "local": "লালমোহন",
+              "en": "Mohanpur",
+              "slug": "mohanpur-bd50810053"
+            },
+            "code": {
+              "id": "BD50810053",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810072",
+            "name": {
+              "local": "পবা",
+              "en": "Paba",
+              "slug": "paba-bd50810072"
+            },
+            "code": {
+              "id": "BD50810072",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810082",
+            "name": {
+              "local": "পুঠিয়া",
+              "en": "Puthia",
+              "slug": "puthia-bd50810082"
+            },
+            "code": {
+              "id": "BD50810082",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50810094",
+            "name": {
+              "local": "তানোর",
+              "en": "Tanore",
+              "slug": "tanore-bd50810094"
+            },
+            "code": {
+              "id": "BD50810094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5088",
+        "name": {
+          "local": "সিরাজগঞ্জ",
+          "en": "Sirajganj",
+          "slug": "sirajganj-bd5088"
+        },
+        "code": {
+          "id": "BD5088",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD50880011",
+            "name": {
+              "local": "বেলকুচি",
+              "en": "Belkuchi",
+              "slug": "belkuchi-bd50880011"
+            },
+            "code": {
+              "id": "BD50880011",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880027",
+            "name": {
+              "local": "চৌহালি",
+              "en": "Chouhali",
+              "slug": "chouhali-bd50880027"
+            },
+            "code": {
+              "id": "BD50880027",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880044",
+            "name": {
+              "local": "কামারখন্দ",
+              "en": "Kamarkhanda",
+              "slug": "kamarkhanda-bd50880044"
+            },
+            "code": {
+              "id": "BD50880044",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880050",
+            "name": {
+              "local": "কাজীপুর",
+              "en": "Kazipur",
+              "slug": "kazipur-bd50880050"
+            },
+            "code": {
+              "id": "BD50880050",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880061",
+            "name": {
+              "local": "রায়গঞ্জ",
+              "en": "Rayganj",
+              "slug": "rayganj-bd50880061"
+            },
+            "code": {
+              "id": "BD50880061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880067",
+            "name": {
+              "local": "শাহজাদপুর",
+              "en": "Shahjadpur",
+              "slug": "shahjadpur-bd50880067"
+            },
+            "code": {
+              "id": "BD50880067",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880078",
+            "name": {
+              "local": "সিরাজগঞ্জ সদর",
+              "en": "Sirajganj Sadar",
+              "slug": "sirajganj-sadar-bd50880078"
+            },
+            "code": {
+              "id": "BD50880078",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880089",
+            "name": {
+              "local": "তাড়াশ",
+              "en": "Tarash",
+              "slug": "tarash-bd50880089"
+            },
+            "code": {
+              "id": "BD50880089",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD50880094",
+            "name": {
+              "local": "উল্লাপাড়া",
+              "en": "Ullapara",
+              "slug": "ullapara-bd50880094"
+            },
+            "code": {
+              "id": "BD50880094",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BD55",
+    "name": {
+      "local": "রংপুর",
+      "en": "Rangpur",
+      "slug": "rangpur-bd55"
+    },
+    "code": {
+      "id": "BD55",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD5527",
+        "name": {
+          "local": "দিনাজপুর",
+          "en": "Dinajpur",
+          "slug": "dinajpur-bd5527"
+        },
+        "code": {
+          "id": "BD5527",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55270010",
+            "name": {
+              "local": "বিরামপুর",
+              "en": "Birampur",
+              "slug": "birampur-bd55270010"
+            },
+            "code": {
+              "id": "BD55270010",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270012",
+            "name": {
+              "local": "বীরগঞ্জ",
+              "en": "Birganj",
+              "slug": "birganj-bd55270012"
+            },
+            "code": {
+              "id": "BD55270012",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270017",
+            "name": {
+              "local": "বিরল",
+              "en": "Birol",
+              "slug": "birol-bd55270017"
+            },
+            "code": {
+              "id": "BD55270017",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270021",
+            "name": {
+              "local": "বোচাগঞ্জ",
+              "en": "Bochaganj",
+              "slug": "bochaganj-bd55270021"
+            },
+            "code": {
+              "id": "BD55270021",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270030",
+            "name": {
+              "local": "চিরিরবন্দর",
+              "en": "Chirirbandar",
+              "slug": "chirirbandar-bd55270030"
+            },
+            "code": {
+              "id": "BD55270030",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270064",
+            "name": {
+              "local": "দিনাজপুর সদর",
+              "en": "Dinajpur Sadar",
+              "slug": "dinajpur-sadar-bd55270064"
+            },
+            "code": {
+              "id": "BD55270064",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270038",
+            "name": {
+              "local": "ফুলবাড়ী",
+              "en": "Fulbari",
+              "slug": "fulbari-bd55270038"
+            },
+            "code": {
+              "id": "BD55270038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270043",
+            "name": {
+              "local": "ঘোড়াঘাট",
+              "en": "Ghoraghat",
+              "slug": "ghoraghat-bd55270043"
+            },
+            "code": {
+              "id": "BD55270043",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270047",
+            "name": {
+              "local": "হাকিমপুর",
+              "en": "Hakimpur",
+              "slug": "hakimpur-bd55270047"
+            },
+            "code": {
+              "id": "BD55270047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270056",
+            "name": {
+              "local": "কাহারোল",
+              "en": "Kaharole",
+              "slug": "kaharole-bd55270056"
+            },
+            "code": {
+              "id": "BD55270056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270060",
+            "name": {
+              "local": "খানসামা",
+              "en": "Khansama",
+              "slug": "khansama-bd55270060"
+            },
+            "code": {
+              "id": "BD55270060",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270069",
+            "name": {
+              "local": "নবাবগঞ্জ",
+              "en": "Nababganj",
+              "slug": "nababganj-bd55270069"
+            },
+            "code": {
+              "id": "BD55270069",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55270077",
+            "name": {
+              "local": "পার্বতীপুর",
+              "en": "Parbatipur",
+              "slug": "parbatipur-bd55270077"
+            },
+            "code": {
+              "id": "BD55270077",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5532",
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        },
+        "code": {
+          "id": "BD5532",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55320021",
+            "name": {
+              "local": "ফুলছড়ি",
+              "en": "Fulchhari",
+              "slug": "fulchhari-bd55320021"
+            },
+            "code": {
+              "id": "BD55320021",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55320024",
+            "name": {
+              "local": "গাইবান্ধা সদর",
+              "en": "Gaibandha Sadar",
+              "slug": "gaibandha-sadar-bd55320024"
+            },
+            "code": {
+              "id": "BD55320024",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55320030",
+            "name": {
+              "local": "গোবিন্দগঞ্জ",
+              "en": "Gobindaganj",
+              "slug": "gobindaganj-bd55320030"
+            },
+            "code": {
+              "id": "BD55320030",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55320067",
+            "name": {
+              "local": "পলাশবাড়ী",
+              "en": "Palashbari",
+              "slug": "palashbari-bd55320067"
+            },
+            "code": {
+              "id": "BD55320067",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55320082",
+            "name": {
+              "local": "সাদুল্লাপুর",
+              "en": "Sadullapur",
+              "slug": "sadullapur-bd55320082"
+            },
+            "code": {
+              "id": "BD55320082",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55320088",
+            "name": {
+              "local": "সাঘাটা",
+              "en": "Saghata",
+              "slug": "saghata-bd55320088"
+            },
+            "code": {
+              "id": "BD55320088",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55320091",
+            "name": {
+              "local": "সুন্দরগঞ্জ",
+              "en": "Sundarganj",
+              "slug": "sundarganj-bd55320091"
+            },
+            "code": {
+              "id": "BD55320091",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5549",
+        "name": {
+          "local": "কুড়িগ্রাম",
+          "en": "Kurigram",
+          "slug": "kurigram-bd5549"
+        },
+        "code": {
+          "id": "BD5549",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55490006",
+            "name": {
+              "local": "ভুরুঙ্গামারী",
+              "en": "Bhurungamari",
+              "slug": "bhurungamari-bd55490006"
+            },
+            "code": {
+              "id": "BD55490006",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490009",
+            "name": {
+              "local": "চিলমারী",
+              "en": "Chilmari",
+              "slug": "chilmari-bd55490009"
+            },
+            "code": {
+              "id": "BD55490009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490052",
+            "name": {
+              "local": "কুড়িগ্রাম সদর",
+              "en": "Kurigram Sadar",
+              "slug": "kurigram-sadar-bd55490052"
+            },
+            "code": {
+              "id": "BD55490052",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490061",
+            "name": {
+              "local": "নাগেশ্বরী",
+              "en": "Nageshwari",
+              "slug": "nageshwari-bd55490061"
+            },
+            "code": {
+              "id": "BD55490061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490018",
+            "name": {
+              "local": "ফুলবাড়ী",
+              "en": "Phulbari",
+              "slug": "phulbari-bd55490018"
+            },
+            "code": {
+              "id": "BD55490018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490077",
+            "name": {
+              "local": "রাজারহাট",
+              "en": "Rajarhat",
+              "slug": "rajarhat-bd55490077"
+            },
+            "code": {
+              "id": "BD55490077",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490008",
+            "name": {
+              "local": "চর রাজিবপুর",
+              "en": "Rajibpur",
+              "slug": "rajibpur-bd55490008"
+            },
+            "code": {
+              "id": "BD55490008",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490079",
+            "name": {
+              "local": "রৌমারী",
+              "en": "Roumari",
+              "slug": "roumari-bd55490079"
+            },
+            "code": {
+              "id": "BD55490079",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55490094",
+            "name": {
+              "local": "উলিপুর",
+              "en": "Ulipur",
+              "slug": "ulipur-bd55490094"
+            },
+            "code": {
+              "id": "BD55490094",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5552",
+        "name": {
+          "local": "লালমনিরহাট",
+          "en": "Lalmonirhat",
+          "slug": "lalmonirhat-bd5552"
+        },
+        "code": {
+          "id": "BD5552",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55520002",
+            "name": {
+              "local": "আদিতমারী",
+              "en": "Aditmari",
+              "slug": "aditmari-bd55520002"
+            },
+            "code": {
+              "id": "BD55520002",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55520033",
+            "name": {
+              "local": "হাতীবান্ধা",
+              "en": "Hatibandha",
+              "slug": "hatibandha-bd55520033"
+            },
+            "code": {
+              "id": "BD55520033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55520039",
+            "name": {
+              "local": "কালীগঞ্জ",
+              "en": "Kaliganj",
+              "slug": "kaliganj-bd55520039"
+            },
+            "code": {
+              "id": "BD55520039",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55520055",
+            "name": {
+              "local": "লালমনিরহাট সদর",
+              "en": "Lalmonirhat Sadar",
+              "slug": "lalmonirhat-sadar-bd55520055"
+            },
+            "code": {
+              "id": "BD55520055",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55520070",
+            "name": {
+              "local": "পাটগ্রাম",
+              "en": "Patgram",
+              "slug": "patgram-bd55520070"
+            },
+            "code": {
+              "id": "BD55520070",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5573",
+        "name": {
+          "local": "নীলফামারী",
+          "en": "Nilphamari",
+          "slug": "nilphamari-bd5573"
+        },
+        "code": {
+          "id": "BD5573",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55730012",
+            "name": {
+              "local": "ডিমলা",
+              "en": "Dimla",
+              "slug": "dimla-bd55730012"
+            },
+            "code": {
+              "id": "BD55730012",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55730015",
+            "name": {
+              "local": "ডোমার",
+              "en": "Domar",
+              "slug": "domar-bd55730015"
+            },
+            "code": {
+              "id": "BD55730015",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55730036",
+            "name": {
+              "local": "জলঢাকা",
+              "en": "Jaldhaka",
+              "slug": "jaldhaka-bd55730036"
+            },
+            "code": {
+              "id": "BD55730036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55730045",
+            "name": {
+              "local": "কিশোরগঞ্জ সদর",
+              "en": "Kishoreganj",
+              "slug": "kishoreganj-bd55730045"
+            },
+            "code": {
+              "id": "BD55730045",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55730064",
+            "name": {
+              "local": "নীলফামারী সদর",
+              "en": "Nilphamari Sadar",
+              "slug": "nilphamari-sadar-bd55730064"
+            },
+            "code": {
+              "id": "BD55730064",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55730085",
+            "name": {
+              "local": "ফরিদপুর",
+              "en": "Saidpur",
+              "slug": "saidpur-bd55730085"
+            },
+            "code": {
+              "id": "BD55730085",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5577",
+        "name": {
+          "local": "পঞ্চগড়",
+          "en": "Panchagarh",
+          "slug": "panchagarh-bd5577"
+        },
+        "code": {
+          "id": "BD5577",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55770004",
+            "name": {
+              "local": "আটোয়ারী",
+              "en": "Atowari",
+              "slug": "atowari-bd55770004"
+            },
+            "code": {
+              "id": "BD55770004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55770025",
+            "name": {
+              "local": "বোদা",
+              "en": "Boda",
+              "slug": "boda-bd55770025"
+            },
+            "code": {
+              "id": "BD55770025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55770034",
+            "name": {
+              "local": "দেবীগঞ্জ",
+              "en": "Debiganj",
+              "slug": "debiganj-bd55770034"
+            },
+            "code": {
+              "id": "BD55770034",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55770073",
+            "name": {
+              "local": "পঞ্চগড় সদর",
+              "en": "Panchagarh Sadar",
+              "slug": "panchagarh-sadar-bd55770073"
+            },
+            "code": {
+              "id": "BD55770073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55770090",
+            "name": {
+              "local": "তেতুলিয়া",
+              "en": "Tetulia",
+              "slug": "tetulia-bd55770090"
+            },
+            "code": {
+              "id": "BD55770090",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5585",
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd5585"
+        },
+        "code": {
+          "id": "BD5585",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55850003",
+            "name": {
+              "local": "মাদারগঞ্জ",
+              "en": "Badarganj",
+              "slug": "badarganj-bd55850003"
+            },
+            "code": {
+              "id": "BD55850003",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55850027",
+            "name": {
+              "local": "গংগাচড়া",
+              "en": "Gangachara",
+              "slug": "gangachara-bd55850027"
+            },
+            "code": {
+              "id": "BD55850027",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55850042",
+            "name": {
+              "local": "কাউনিয়া",
+              "en": "Kaunia",
+              "slug": "kaunia-bd55850042"
+            },
+            "code": {
+              "id": "BD55850042",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55850058",
+            "name": {
+              "local": "মিঠাপুকুর",
+              "en": "Mithapukur",
+              "slug": "mithapukur-bd55850058"
+            },
+            "code": {
+              "id": "BD55850058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55850073",
+            "name": {
+              "local": "পীরগাছা",
+              "en": "Pirgachha",
+              "slug": "pirgachha-bd55850073"
+            },
+            "code": {
+              "id": "BD55850073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55850076",
+            "name": {
+              "local": "পীরগঞ্জ",
+              "en": "Pirganj",
+              "slug": "pirganj-bd55850076"
+            },
+            "code": {
+              "id": "BD55850076",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55850049",
+            "name": {
+              "local": "রংপুর সদর",
+              "en": "Rangpur Sadar",
+              "slug": "rangpur-sadar-bd55850049"
+            },
+            "code": {
+              "id": "BD55850049",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55850092",
+            "name": {
+              "local": "বালাগঞ্জ",
+              "en": "Taraganj",
+              "slug": "taraganj-bd55850092"
+            },
+            "code": {
+              "id": "BD55850092",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD5594",
+        "name": {
+          "local": "ঠাকুরগাঁও",
+          "en": "Thakurgaon",
+          "slug": "thakurgaon-bd5594"
+        },
+        "code": {
+          "id": "BD5594",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD55940008",
+            "name": {
+              "local": "বালিয়াডাঙ্গী",
+              "en": "Baliadangi",
+              "slug": "baliadangi-bd55940008"
+            },
+            "code": {
+              "id": "BD55940008",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55940051",
+            "name": {
+              "local": "হরিপুর",
+              "en": "Haripur",
+              "slug": "haripur-bd55940051"
+            },
+            "code": {
+              "id": "BD55940051",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55940082",
+            "name": {
+              "local": "পীরগঞ্জ",
+              "en": "Pirganj",
+              "slug": "pirganj-bd55940082"
+            },
+            "code": {
+              "id": "BD55940082",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55940086",
+            "name": {
+              "local": "রাণীশংকৈল",
+              "en": "Ranishankail",
+              "slug": "ranishankail-bd55940086"
+            },
+            "code": {
+              "id": "BD55940086",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD55940094",
+            "name": {
+              "local": "ঠাকুরগাঁও সদর",
+              "en": "Thakurgaon Sadar",
+              "slug": "thakurgaon-sadar-bd55940094"
+            },
+            "code": {
+              "id": "BD55940094",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BD60",
+    "name": {
+      "local": "সিলেট",
+      "en": "Sylhet",
+      "slug": "sylhet-bd60"
+    },
+    "code": {
+      "id": "BD60",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "BD6036",
+        "name": {
+          "local": "হবিগঞ্জ",
+          "en": "Habiganj",
+          "slug": "habiganj-bd6036"
+        },
+        "code": {
+          "id": "BD6036",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD60360002",
+            "name": {
+              "local": "আজমিরীগঞ্জ",
+              "en": "Ajmiriganj",
+              "slug": "ajmiriganj-bd60360002"
+            },
+            "code": {
+              "id": "BD60360002",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360005",
+            "name": {
+              "local": "বাহুবল",
+              "en": "Bahubal",
+              "slug": "bahubal-bd60360005"
+            },
+            "code": {
+              "id": "BD60360005",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360011",
+            "name": {
+              "local": "বানিয়াচং",
+              "en": "Baniachong",
+              "slug": "baniachong-bd60360011"
+            },
+            "code": {
+              "id": "BD60360011",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360026",
+            "name": {
+              "local": "চুনারুঘাট",
+              "en": "Chunarughat",
+              "slug": "chunarughat-bd60360026"
+            },
+            "code": {
+              "id": "BD60360026",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360044",
+            "name": {
+              "local": "হবিগঞ্জ সদর",
+              "en": "Habiganj Sadar",
+              "slug": "habiganj-sadar-bd60360044"
+            },
+            "code": {
+              "id": "BD60360044",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360068",
+            "name": {
+              "local": "লাখাই",
+              "en": "Lakhai",
+              "slug": "lakhai-bd60360068"
+            },
+            "code": {
+              "id": "BD60360068",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360071",
+            "name": {
+              "local": "মাধবপুর",
+              "en": "Madhabpur",
+              "slug": "madhabpur-bd60360071"
+            },
+            "code": {
+              "id": "BD60360071",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360077",
+            "name": {
+              "local": "নবীগঞ্জ",
+              "en": "Nabiganj",
+              "slug": "nabiganj-bd60360077"
+            },
+            "code": {
+              "id": "BD60360077",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60360087",
+            "name": {
+              "local": "শায়েস্তাগঞ্জ",
+              "en": "Shayestaganj",
+              "slug": "shayestaganj-bd60360087"
+            },
+            "code": {
+              "id": "BD60360087",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD6058",
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        },
+        "code": {
+          "id": "BD6058",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD60580014",
+            "name": {
+              "local": "বড়লেখা",
+              "en": "Baralekha",
+              "slug": "baralekha-bd60580014"
+            },
+            "code": {
+              "id": "BD60580014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60580035",
+            "name": {
+              "local": "জুড়ী",
+              "en": "Juri",
+              "slug": "juri-bd60580035"
+            },
+            "code": {
+              "id": "BD60580035",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60580056",
+            "name": {
+              "local": "জামালগঞ্জ",
+              "en": "Kamalganj",
+              "slug": "kamalganj-bd60580056"
+            },
+            "code": {
+              "id": "BD60580056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60580065",
+            "name": {
+              "local": "কুলাউড়া",
+              "en": "Kulaura",
+              "slug": "kulaura-bd60580065"
+            },
+            "code": {
+              "id": "BD60580065",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60580074",
+            "name": {
+              "local": "মৌলভীবাজার সদর",
+              "en": "Moulvibazar Sadar",
+              "slug": "moulvibazar-sadar-bd60580074"
+            },
+            "code": {
+              "id": "BD60580074",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60580080",
+            "name": {
+              "local": "রাজনগর",
+              "en": "Rajnagar",
+              "slug": "rajnagar-bd60580080"
+            },
+            "code": {
+              "id": "BD60580080",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60580083",
+            "name": {
+              "local": "শ্রীমঙ্গল",
+              "en": "Sreemangal",
+              "slug": "sreemangal-bd60580083"
+            },
+            "code": {
+              "id": "BD60580083",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD6090",
+        "name": {
+          "local": "সুনামগঞ্জ",
+          "en": "Sunamganj",
+          "slug": "sunamganj-bd6090"
+        },
+        "code": {
+          "id": "BD6090",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD60900018",
+            "name": {
+              "local": "বিশ্বম্ভরপুর",
+              "en": "Bishwambharpur",
+              "slug": "bishwambharpur-bd60900018"
+            },
+            "code": {
+              "id": "BD60900018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900023",
+            "name": {
+              "local": "ছাতক",
+              "en": "Chhatak",
+              "slug": "chhatak-bd60900023"
+            },
+            "code": {
+              "id": "BD60900023",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900029",
+            "name": {
+              "local": "দিরাই",
+              "en": "Derai",
+              "slug": "derai-bd60900029"
+            },
+            "code": {
+              "id": "BD60900029",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900032",
+            "name": {
+              "local": "ধর্মপাশা",
+              "en": "Dharmapasha",
+              "slug": "dharmapasha-bd60900032"
+            },
+            "code": {
+              "id": "BD60900032",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900033",
+            "name": {
+              "local": "দোয়ারাবাজার",
+              "en": "Dowarabazar",
+              "slug": "dowarabazar-bd60900033"
+            },
+            "code": {
+              "id": "BD60900033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900047",
+            "name": {
+              "local": "জগন্নাথপুর",
+              "en": "Jagannathpur",
+              "slug": "jagannathpur-bd60900047"
+            },
+            "code": {
+              "id": "BD60900047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900050",
+            "name": {
+              "local": "জামালগঞ্জ",
+              "en": "Jamalganj",
+              "slug": "jamalganj-bd60900050"
+            },
+            "code": {
+              "id": "BD60900050",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900063",
+            "name": {
+              "local": "মধ্যনগর",
+              "en": "Madhyanagar",
+              "slug": "madhyanagar-bd60900063"
+            },
+            "code": {
+              "id": "BD60900063",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900086",
+            "name": {
+              "local": "শাল্লা",
+              "en": "Shalla",
+              "slug": "shalla-bd60900086"
+            },
+            "code": {
+              "id": "BD60900086",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900087",
+            "name": {
+              "local": "শান্তিগঞ্জ",
+              "en": "Shantiganj",
+              "slug": "shantiganj-bd60900087"
+            },
+            "code": {
+              "id": "BD60900087",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900089",
+            "name": {
+              "local": "সুনামগঞ্জ সদর",
+              "en": "Sunamganj Sadar",
+              "slug": "sunamganj-sadar-bd60900089"
+            },
+            "code": {
+              "id": "BD60900089",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60900092",
+            "name": {
+              "local": "তাহিরপুর",
+              "en": "Tahirpur",
+              "slug": "tahirpur-bd60900092"
+            },
+            "code": {
+              "id": "BD60900092",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BD6091",
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd6091"
+        },
+        "code": {
+          "id": "BD6091",
+          "iso": null
+        },
+        "upazila": [
+          {
+            "id": "BD60910008",
+            "name": {
+              "local": "বালাগঞ্জ",
+              "en": "Balaganj",
+              "slug": "balaganj-bd60910008"
+            },
+            "code": {
+              "id": "BD60910008",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910017",
+            "name": {
+              "local": "বিয়ানীবাজার",
+              "en": "Beanibazar",
+              "slug": "beanibazar-bd60910017"
+            },
+            "code": {
+              "id": "BD60910017",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910020",
+            "name": {
+              "local": "বিশ্বনাথ",
+              "en": "Bishwanath",
+              "slug": "bishwanath-bd60910020"
+            },
+            "code": {
+              "id": "BD60910020",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910027",
+            "name": {
+              "local": "কোম্পানীগঞ্জ",
+              "en": "Companiganj",
+              "slug": "companiganj-bd60910027"
+            },
+            "code": {
+              "id": "BD60910027",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910031",
+            "name": {
+              "local": "দক্ষিণ সুরমা",
+              "en": "Dakkhin Surma",
+              "slug": "dakkhin-surma-bd60910031"
+            },
+            "code": {
+              "id": "BD60910031",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910035",
+            "name": {
+              "local": "ফেঞ্চুগঞ্জ",
+              "en": "Fenchuganj",
+              "slug": "fenchuganj-bd60910035"
+            },
+            "code": {
+              "id": "BD60910035",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910038",
+            "name": {
+              "local": "গোলাপগঞ্জ",
+              "en": "Golapganj",
+              "slug": "golapganj-bd60910038"
+            },
+            "code": {
+              "id": "BD60910038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910041",
+            "name": {
+              "local": "গোয়াইনঘাট",
+              "en": "Gowainghat",
+              "slug": "gowainghat-bd60910041"
+            },
+            "code": {
+              "id": "BD60910041",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910053",
+            "name": {
+              "local": "জৈন্তাপুর",
+              "en": "Jaintapur",
+              "slug": "jaintapur-bd60910053"
+            },
+            "code": {
+              "id": "BD60910053",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910059",
+            "name": {
+              "local": "কানাইঘাট",
+              "en": "Kanaighat",
+              "slug": "kanaighat-bd60910059"
+            },
+            "code": {
+              "id": "BD60910059",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910060",
+            "name": {
+              "local": "ওসমানী নগর",
+              "en": "Osmaninagar",
+              "slug": "osmaninagar-bd60910060"
+            },
+            "code": {
+              "id": "BD60910060",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910062",
+            "name": {
+              "local": "সিলেট সদর",
+              "en": "Sylhet Sadar",
+              "slug": "sylhet-sadar-bd60910062"
+            },
+            "code": {
+              "id": "BD60910062",
+              "iso": null
+            }
+          },
+          {
+            "id": "BD60910094",
+            "name": {
+              "local": "জকিগঞ্জ",
+              "en": "Zakiganj",
+              "slug": "zakiganj-bd60910094"
+            },
+            "code": {
+              "id": "BD60910094",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

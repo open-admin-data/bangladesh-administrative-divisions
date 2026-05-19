@@ -1,0 +1,842 @@
+[
+  {
+    "id": "BD20150004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আনোয়ারা",
+      "en": "Anwara",
+      "slug": "anwara-bd20150004"
+    },
+    "code": {
+      "id": "BD20150004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4376"
+    ],
+    "geo": {
+      "lat": "22.198",
+      "lon": "91.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150008",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাঁশখালী",
+      "en": "Banshkhali",
+      "slug": "banshkhali-bd20150008"
+    },
+    "code": {
+      "id": "BD20150008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4393"
+    ],
+    "geo": {
+      "lat": "22.017",
+      "lon": "91.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150012",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বোয়ালখালী",
+      "en": "Boalkhali",
+      "slug": "boalkhali-bd20150012"
+    },
+    "code": {
+      "id": "BD20150012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4366"
+    ],
+    "geo": {
+      "lat": "22.377",
+      "lon": "91.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150018",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চন্দনাইশ",
+      "en": "Chandanaish",
+      "slug": "chandanaish-bd20150018"
+    },
+    "code": {
+      "id": "BD20150018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4383"
+    ],
+    "geo": {
+      "lat": "22.212",
+      "lon": "92.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফটিকছড়ি",
+      "en": "Fatikchhari",
+      "slug": "fatikchhari-bd20150033"
+    },
+    "code": {
+      "id": "BD20150033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4352"
+    ],
+    "geo": {
+      "lat": "22.755",
+      "lon": "91.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150037",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হাটহাজারী",
+      "en": "Hathazari",
+      "slug": "hathazari-bd20150037"
+    },
+    "code": {
+      "id": "BD20150037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4331"
+    ],
+    "geo": {
+      "lat": "22.526",
+      "lon": "91.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150039",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কর্ণফুলী",
+      "en": "Karnaphuli",
+      "slug": "karnaphuli-bd20150039"
+    },
+    "code": {
+      "id": "BD20150039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4000"
+    ],
+    "geo": {
+      "lat": "22.287",
+      "lon": "91.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লোহাগড়া",
+      "en": "Lohagara",
+      "slug": "lohagara-bd20150047"
+    },
+    "code": {
+      "id": "BD20150047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4398"
+    ],
+    "geo": {
+      "lat": "21.986",
+      "lon": "92.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150053",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সরাইল",
+      "en": "Mirsarai",
+      "slug": "mirsarai-bd20150053"
+    },
+    "code": {
+      "id": "BD20150053",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4329"
+    ],
+    "geo": {
+      "lat": "22.804",
+      "lon": "91.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150061",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পটিয়া",
+      "en": "Patiya",
+      "slug": "patiya-bd20150061"
+    },
+    "code": {
+      "id": "BD20150061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4371"
+    ],
+    "geo": {
+      "lat": "22.293",
+      "lon": "91.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150070",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাঙ্গুনিয়া",
+      "en": "Rangunia",
+      "slug": "rangunia-bd20150070"
+    },
+    "code": {
+      "id": "BD20150070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4361"
+    ],
+    "geo": {
+      "lat": "22.466",
+      "lon": "92.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150074",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাউজান",
+      "en": "Raozan",
+      "slug": "raozan-bd20150074"
+    },
+    "code": {
+      "id": "BD20150074",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4341"
+    ],
+    "geo": {
+      "lat": "22.52",
+      "lon": "91.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150078",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সন্দ্বীপ",
+      "en": "Sandwip",
+      "slug": "sandwip-bd20150078"
+    },
+    "code": {
+      "id": "BD20150078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4300"
+    ],
+    "geo": {
+      "lat": "22.511",
+      "lon": "91.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150082",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাতকানিয়া",
+      "en": "Satkania",
+      "slug": "satkania-bd20150082"
+    },
+    "code": {
+      "id": "BD20150082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4387"
+    ],
+    "geo": {
+      "lat": "22.106",
+      "lon": "92.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20150086",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সীতাকুন্ড",
+      "en": "Sitakunda",
+      "slug": "sitakunda-bd20150086"
+    },
+    "code": {
+      "id": "BD20150086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2015",
+      "level": 2,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd2015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2015",
+        "level": 2,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd2015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4312"
+    ],
+    "geo": {
+      "lat": "22.543",
+      "lon": "91.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

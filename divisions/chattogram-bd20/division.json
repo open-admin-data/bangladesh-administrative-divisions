@@ -1,0 +1,30 @@
+{
+  "id": "BD20",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "চট্টগ্রাম",
+    "en": "Chattogram",
+    "slug": "chattogram-bd20"
+  },
+  "code": {
+    "id": "BD20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "upazila": 104
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.701",
+    "lon": "91.706"
+  },
+  "metadata": {},
+  "source": {}
+}

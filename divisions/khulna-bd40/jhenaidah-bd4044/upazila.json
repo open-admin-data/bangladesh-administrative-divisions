@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD40440014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "হরিণাকুন্ডু",
+      "en": "Harinakundu",
+      "slug": "harinakundu-bd40440014"
+    },
+    "code": {
+      "id": "BD40440014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4044",
+      "level": 2,
+      "name": {
+        "local": "ঝিনাইদহ",
+        "en": "Jhenaidah",
+        "slug": "jhenaidah-bd4044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4044",
+        "level": 2,
+        "name": {
+          "local": "ঝিনাইদহ",
+          "en": "Jhenaidah",
+          "slug": "jhenaidah-bd4044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7310"
+    ],
+    "geo": {
+      "lat": "23.644",
+      "lon": "89.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40440019",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঝিনাইদহ সদর",
+      "en": "Jhenaidah Sadar",
+      "slug": "jhenaidah-sadar-bd40440019"
+    },
+    "code": {
+      "id": "BD40440019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4044",
+      "level": 2,
+      "name": {
+        "local": "ঝিনাইদহ",
+        "en": "Jhenaidah",
+        "slug": "jhenaidah-bd4044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4044",
+        "level": 2,
+        "name": {
+          "local": "ঝিনাইদহ",
+          "en": "Jhenaidah",
+          "slug": "jhenaidah-bd4044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7300"
+    ],
+    "geo": {
+      "lat": "23.516",
+      "lon": "89.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40440033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালীগঞ্জ",
+      "en": "Kaliganj",
+      "slug": "kaliganj-bd40440033"
+    },
+    "code": {
+      "id": "BD40440033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4044",
+      "level": 2,
+      "name": {
+        "local": "ঝিনাইদহ",
+        "en": "Jhenaidah",
+        "slug": "jhenaidah-bd4044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4044",
+        "level": 2,
+        "name": {
+          "local": "ঝিনাইদহ",
+          "en": "Jhenaidah",
+          "slug": "jhenaidah-bd4044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1720"
+    ],
+    "geo": {
+      "lat": "23.37",
+      "lon": "89.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40440042",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কোটচাঁদপুর",
+      "en": "Kotchandpur",
+      "slug": "kotchandpur-bd40440042"
+    },
+    "code": {
+      "id": "BD40440042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4044",
+      "level": 2,
+      "name": {
+        "local": "ঝিনাইদহ",
+        "en": "Jhenaidah",
+        "slug": "jhenaidah-bd4044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4044",
+        "level": 2,
+        "name": {
+          "local": "ঝিনাইদহ",
+          "en": "Jhenaidah",
+          "slug": "jhenaidah-bd4044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7330"
+    ],
+    "geo": {
+      "lat": "23.445",
+      "lon": "89.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40440071",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মহেশপুর",
+      "en": "Maheshpur",
+      "slug": "maheshpur-bd40440071"
+    },
+    "code": {
+      "id": "BD40440071",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4044",
+      "level": 2,
+      "name": {
+        "local": "ঝিনাইদহ",
+        "en": "Jhenaidah",
+        "slug": "jhenaidah-bd4044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4044",
+        "level": 2,
+        "name": {
+          "local": "ঝিনাইদহ",
+          "en": "Jhenaidah",
+          "slug": "jhenaidah-bd4044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7340"
+    ],
+    "geo": {
+      "lat": "23.32",
+      "lon": "88.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40440080",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শৈলকুপা",
+      "en": "Shailkupa",
+      "slug": "shailkupa-bd40440080"
+    },
+    "code": {
+      "id": "BD40440080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4044",
+      "level": 2,
+      "name": {
+        "local": "ঝিনাইদহ",
+        "en": "Jhenaidah",
+        "slug": "jhenaidah-bd4044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4044",
+        "level": 2,
+        "name": {
+          "local": "ঝিনাইদহ",
+          "en": "Jhenaidah",
+          "slug": "jhenaidah-bd4044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7300"
+    ],
+    "geo": {
+      "lat": "23.664",
+      "lon": "89.243"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD50690009",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাগাতিপাড়া",
+      "en": "Bagatipara",
+      "slug": "bagatipara-bd50690009"
+    },
+    "code": {
+      "id": "BD50690009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5069",
+      "level": 2,
+      "name": {
+        "local": "নাটোর",
+        "en": "Natore",
+        "slug": "natore-bd5069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5069",
+        "level": 2,
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6410"
+    ],
+    "geo": {
+      "lat": "24.313",
+      "lon": "88.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50690015",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বড়াইগ্রাম",
+      "en": "Baraigram",
+      "slug": "baraigram-bd50690015"
+    },
+    "code": {
+      "id": "BD50690015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5069",
+      "level": 2,
+      "name": {
+        "local": "নাটোর",
+        "en": "Natore",
+        "slug": "natore-bd5069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5069",
+        "level": 2,
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6430"
+    ],
+    "geo": {
+      "lat": "24.273",
+      "lon": "89.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50690041",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গুরুদাসপুর",
+      "en": "Gurudaspur",
+      "slug": "gurudaspur-bd50690041"
+    },
+    "code": {
+      "id": "BD50690041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5069",
+      "level": 2,
+      "name": {
+        "local": "নাটোর",
+        "en": "Natore",
+        "slug": "natore-bd5069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5069",
+        "level": 2,
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6440"
+    ],
+    "geo": {
+      "lat": "24.374",
+      "lon": "89.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50690044",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লালপুর",
+      "en": "Lalpur",
+      "slug": "lalpur-bd50690044"
+    },
+    "code": {
+      "id": "BD50690044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5069",
+      "level": 2,
+      "name": {
+        "local": "নাটোর",
+        "en": "Natore",
+        "slug": "natore-bd5069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5069",
+        "level": 2,
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6422"
+    ],
+    "geo": {
+      "lat": "24.2",
+      "lon": "88.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50690055",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নলডাঙ্গা",
+      "en": "Naldanga",
+      "slug": "naldanga-bd50690055"
+    },
+    "code": {
+      "id": "BD50690055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5069",
+      "level": 2,
+      "name": {
+        "local": "নাটোর",
+        "en": "Natore",
+        "slug": "natore-bd5069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5069",
+        "level": 2,
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7351"
+    ],
+    "geo": {
+      "lat": "24.506",
+      "lon": "88.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50690063",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাটোর সদর",
+      "en": "Natore Sadar",
+      "slug": "natore-sadar-bd50690063"
+    },
+    "code": {
+      "id": "BD50690063",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5069",
+      "level": 2,
+      "name": {
+        "local": "নাটোর",
+        "en": "Natore",
+        "slug": "natore-bd5069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5069",
+        "level": 2,
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6402"
+    ],
+    "geo": {
+      "lat": "24.397",
+      "lon": "88.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD50690091",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সিংড়া",
+      "en": "Singra",
+      "slug": "singra-bd50690091"
+    },
+    "code": {
+      "id": "BD50690091",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5069",
+      "level": 2,
+      "name": {
+        "local": "নাটোর",
+        "en": "Natore",
+        "slug": "natore-bd5069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      },
+      {
+        "id": "BD5069",
+        "level": 2,
+        "name": {
+          "local": "নাটোর",
+          "en": "Natore",
+          "slug": "natore-bd5069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "6450"
+    ],
+    "geo": {
+      "lat": "24.524",
+      "lon": "89.184"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

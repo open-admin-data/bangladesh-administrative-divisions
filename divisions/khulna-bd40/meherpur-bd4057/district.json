@@ -1,0 +1,49 @@
+{
+  "id": "BD4057",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "মেহেরপুর",
+    "en": "Meherpur",
+    "slug": "meherpur-bd4057"
+  },
+  "code": {
+    "id": "BD4057",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD40",
+    "level": 1,
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 3
+  },
+  "zip_codes": [
+    "7110"
+  ],
+  "geo": {
+    "lat": "23.794",
+    "lon": "88.707"
+  },
+  "metadata": {},
+  "source": {}
+}

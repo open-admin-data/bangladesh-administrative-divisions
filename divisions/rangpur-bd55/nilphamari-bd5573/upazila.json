@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD55730012",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ডিমলা",
+      "en": "Dimla",
+      "slug": "dimla-bd55730012"
+    },
+    "code": {
+      "id": "BD55730012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5573",
+      "level": 2,
+      "name": {
+        "local": "নীলফামারী",
+        "en": "Nilphamari",
+        "slug": "nilphamari-bd5573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5573",
+        "level": 2,
+        "name": {
+          "local": "নীলফামারী",
+          "en": "Nilphamari",
+          "slug": "nilphamari-bd5573"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5350"
+    ],
+    "geo": {
+      "lat": "26.173",
+      "lon": "88.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55730015",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ডোমার",
+      "en": "Domar",
+      "slug": "domar-bd55730015"
+    },
+    "code": {
+      "id": "BD55730015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5573",
+      "level": 2,
+      "name": {
+        "local": "নীলফামারী",
+        "en": "Nilphamari",
+        "slug": "nilphamari-bd5573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5573",
+        "level": 2,
+        "name": {
+          "local": "নীলফামারী",
+          "en": "Nilphamari",
+          "slug": "nilphamari-bd5573"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5341"
+    ],
+    "geo": {
+      "lat": "26.16",
+      "lon": "88.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55730036",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জলঢাকা",
+      "en": "Jaldhaka",
+      "slug": "jaldhaka-bd55730036"
+    },
+    "code": {
+      "id": "BD55730036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5573",
+      "level": 2,
+      "name": {
+        "local": "নীলফামারী",
+        "en": "Nilphamari",
+        "slug": "nilphamari-bd5573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5573",
+        "level": 2,
+        "name": {
+          "local": "নীলফামারী",
+          "en": "Nilphamari",
+          "slug": "nilphamari-bd5573"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5330"
+    ],
+    "geo": {
+      "lat": "26.031",
+      "lon": "88.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55730045",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কিশোরগঞ্জ সদর",
+      "en": "Kishoreganj",
+      "slug": "kishoreganj-bd55730045"
+    },
+    "code": {
+      "id": "BD55730045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5573",
+      "level": 2,
+      "name": {
+        "local": "নীলফামারী",
+        "en": "Nilphamari",
+        "slug": "nilphamari-bd5573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5573",
+        "level": 2,
+        "name": {
+          "local": "নীলফামারী",
+          "en": "Nilphamari",
+          "slug": "nilphamari-bd5573"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5320"
+    ],
+    "geo": {
+      "lat": "25.898",
+      "lon": "89.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55730064",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নীলফামারী সদর",
+      "en": "Nilphamari Sadar",
+      "slug": "nilphamari-sadar-bd55730064"
+    },
+    "code": {
+      "id": "BD55730064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5573",
+      "level": 2,
+      "name": {
+        "local": "নীলফামারী",
+        "en": "Nilphamari",
+        "slug": "nilphamari-bd5573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5573",
+        "level": 2,
+        "name": {
+          "local": "নীলফামারী",
+          "en": "Nilphamari",
+          "slug": "nilphamari-bd5573"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5300"
+    ],
+    "geo": {
+      "lat": "25.942",
+      "lon": "88.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55730085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফরিদপুর",
+      "en": "Saidpur",
+      "slug": "saidpur-bd55730085"
+    },
+    "code": {
+      "id": "BD55730085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5573",
+      "level": 2,
+      "name": {
+        "local": "নীলফামারী",
+        "en": "Nilphamari",
+        "slug": "nilphamari-bd5573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5573",
+        "level": 2,
+        "name": {
+          "local": "নীলফামারী",
+          "en": "Nilphamari",
+          "slug": "nilphamari-bd5573"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5310"
+    ],
+    "geo": {
+      "lat": "25.804",
+      "lon": "88.921"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

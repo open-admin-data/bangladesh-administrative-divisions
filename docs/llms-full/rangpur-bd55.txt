@@ -1,0 +1,281 @@
+# Rangpur — Bangladesh Administrative Divisions
+
+> 8 districts, 58 upazilas
+> Code: BD55
+> Coordinates: 25.78, 89.054
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### দিনাজপুর (Dinajpur)
+
+Code: BD5527, Coordinates: 25.63, 88.786
+Upazilas: 13
+
+#### বিরামপুর (Birampur)
+
+Code: BD55270010, Postal: 5266, Coordinates: 25.38, 88.963
+
+#### বীরগঞ্জ (Birganj)
+
+Code: BD55270012, Postal: 5220, Coordinates: 25.929, 88.626
+
+#### বিরল (Birol)
+
+Code: BD55270017, Postal: 5210, Coordinates: 25.647, 88.547
+
+#### বোচাগঞ্জ (Bochaganj)
+
+Code: BD55270021, Postal: 5216, Coordinates: 25.786, 88.453
+
+#### চিরিরবন্দর (Chirirbandar)
+
+Code: BD55270030, Postal: 5240, Coordinates: 25.667, 88.783
+
+#### দিনাজপুর সদর (Dinajpur Sadar)
+
+Code: BD55270064, Postal: 5201, Coordinates: 25.608, 88.676
+
+#### ফুলবাড়ী (Fulbari)
+
+Code: BD55270038, Postal: 2216, Coordinates: 25.471, 88.901
+
+#### ঘোড়াঘাট (Ghoraghat)
+
+Code: BD55270043, Postal: 5282, Coordinates: 25.287, 89.215
+
+#### হাকিমপুর (Hakimpur)
+
+Code: BD55270047, Postal: 5270, Coordinates: 25.293, 89.061
+
+#### কাহারোল (Kaharole)
+
+Code: BD55270056, Postal: 5226, Coordinates: 25.802, 88.599
+
+#### খানসামা (Khansama)
+
+Code: BD55270060, Postal: 5230, Coordinates: 25.872, 88.765
+
+#### নবাবগঞ্জ (Nababganj)
+
+Code: BD55270069, Postal: 5281, Coordinates: 25.421, 89.091
+
+#### পার্বতীপুর (Parbatipur)
+
+Code: BD55270077, Postal: 5250, Coordinates: 25.62, 88.923
+
+### গাইবান্ধা (Gaibandha)
+
+Code: BD5532, Coordinates: 25.298, 89.505
+Upazilas: 7
+
+#### ফুলছড়ি (Fulchhari)
+
+Code: BD55320021, Postal: 5761, Coordinates: 25.254, 89.653
+
+#### গাইবান্ধা সদর (Gaibandha Sadar)
+
+Code: BD55320024, Postal: 5700, Coordinates: 25.35, 89.566
+
+#### গোবিন্দগঞ্জ (Gobindaganj)
+
+Code: BD55320030, Postal: 5740, Coordinates: 25.158, 89.37
+
+#### পলাশবাড়ী (Palashbari)
+
+Code: BD55320067, Postal: 5730, Coordinates: 25.265, 89.392
+
+#### সাদুল্লাপুর (Sadullapur)
+
+Code: BD55320082, Postal: 5711, Coordinates: 25.395, 89.426
+
+#### সাঘাটা (Saghata)
+
+Code: BD55320088, Postal: 1982, Coordinates: 25.125, 89.563
+
+#### সুন্দরগঞ্জ (Sundarganj)
+
+Code: BD55320091, Postal: 5721, Coordinates: 25.51, 89.562
+
+### কুড়িগ্রাম (Kurigram)
+
+Code: BD5549, Coordinates: 25.79, 89.695
+Upazilas: 9
+
+#### ভুরুঙ্গামারী (Bhurungamari)
+
+Code: BD55490006, Postal: 5670, Coordinates: 26.116, 89.693
+
+#### চিলমারী (Chilmari)
+
+Code: BD55490009, Postal: 5630, Coordinates: 25.564, 89.718
+
+#### কুড়িগ্রাম সদর (Kurigram Sadar)
+
+Code: BD55490052, Postal: 5600, Coordinates: 25.827, 89.691
+
+#### নাগেশ্বরী (Nageshwari)
+
+Code: BD55490061, Postal: 5660, Coordinates: 25.96, 89.74
+
+#### ফুলবাড়ী (Phulbari)
+
+Code: BD55490018, Postal: 5260, Coordinates: 25.948, 89.572
+
+#### রাজারহাট (Rajarhat)
+
+Code: BD55490077, Postal: 5611, Coordinates: 25.787, 89.542
+
+#### চর রাজিবপুর (Rajibpur)
+
+Code: BD55490008, Postal: 5650, Coordinates: 25.444, 89.764
+
+#### রৌমারী (Roumari)
+
+Code: BD55490079, Postal: 5640, Coordinates: 25.593, 89.828
+
+#### উলিপুর (Ulipur)
+
+Code: BD55490094, Postal: 5621, Coordinates: 25.69, 89.669
+
+### লালমনিরহাট (Lalmonirhat)
+
+Code: BD5552, Coordinates: 26.063, 89.237
+Upazilas: 5
+
+#### আদিতমারী (Aditmari)
+
+Code: BD55520002, Postal: 5510, Coordinates: 25.943, 89.368
+
+#### হাতীবান্ধা (Hatibandha)
+
+Code: BD55520033, Postal: 5530, Coordinates: 26.12, 89.144
+
+#### কালীগঞ্জ (Kaliganj)
+
+Code: BD55520039, Postal: 1720, Coordinates: 25.986, 89.242
+
+#### লালমনিরহাট সদর (Lalmonirhat Sadar)
+
+Code: BD55520055, Postal: 5502, Coordinates: 25.879, 89.453
+
+#### পাটগ্রাম (Patgram)
+
+Code: BD55520070, Postal: 5541, Coordinates: 26.343, 89.02
+
+### নীলফামারী (Nilphamari)
+
+Code: BD5573, Coordinates: 26.026, 88.93
+Upazilas: 6
+
+#### ডিমলা (Dimla)
+
+Code: BD55730012, Postal: 5350, Coordinates: 26.173, 88.974
+
+#### ডোমার (Domar)
+
+Code: BD55730015, Postal: 5341, Coordinates: 26.16, 88.825
+
+#### জলঢাকা (Jaldhaka)
+
+Code: BD55730036, Postal: 5330, Coordinates: 26.031, 88.994
+
+#### কিশোরগঞ্জ সদর (Kishoreganj)
+
+Code: BD55730045, Postal: 5320, Coordinates: 25.898, 89.033
+
+#### নীলফামারী সদর (Nilphamari Sadar)
+
+Code: BD55730064, Postal: 5300, Coordinates: 25.942, 88.855
+
+#### ফরিদপুর (Saidpur)
+
+Code: BD55730085, Postal: 5310, Coordinates: 25.804, 88.921
+
+### পঞ্চগড় (Panchagarh)
+
+Code: BD5577, Coordinates: 26.285, 88.579
+Upazilas: 5
+
+#### আটোয়ারী (Atowari)
+
+Code: BD55770004, Postal: 5041, Coordinates: 26.251, 88.425
+
+#### বোদা (Boda)
+
+Code: BD55770025, Postal: 5010, Coordinates: 26.235, 88.619
+
+#### দেবীগঞ্জ (Debiganj)
+
+Code: BD55770034, Postal: 5020, Coordinates: 26.127, 88.717
+
+#### পঞ্চগড় সদর (Panchagarh Sadar)
+
+Code: BD55770073, Postal: 5000, Coordinates: 26.365, 88.591
+
+#### তেতুলিয়া (Tetulia)
+
+Code: BD55770090, Postal: 5030, Coordinates: 26.513, 88.431
+
+### রংপুর (Rangpur)
+
+Code: BD5585, Coordinates: 25.651, 89.237
+Upazilas: 8
+
+#### মাদারগঞ্জ (Badarganj)
+
+Code: BD55850003, Postal: 5430, Coordinates: 25.668, 89.055
+
+#### গংগাচড়া (Gangachara)
+
+Code: BD55850027, Postal: 5410, Coordinates: 25.88, 89.201
+
+#### কাউনিয়া (Kaunia)
+
+Code: BD55850042, Postal: 5441, Coordinates: 25.766, 89.394
+
+#### মিঠাপুকুর (Mithapukur)
+
+Code: BD55850058, Postal: 5460, Coordinates: 25.572, 89.261
+
+#### পীরগাছা (Pirgachha)
+
+Code: BD55850073, Postal: 5450, Coordinates: 25.665, 89.422
+
+#### পীরগঞ্জ (Pirganj)
+
+Code: BD55850076, Postal: 5110, Coordinates: 25.426, 89.275
+
+#### রংপুর সদর (Rangpur Sadar)
+
+Code: BD55850049, Postal: 5402, Coordinates: 25.751, 89.151
+
+#### বালাগঞ্জ (Taraganj)
+
+Code: BD55850092, Postal: 5420, Coordinates: 25.783, 89.033
+
+### ঠাকুরগাঁও (Thakurgaon)
+
+Code: BD5594, Coordinates: 25.99, 88.345
+Upazilas: 5
+
+#### বালিয়াডাঙ্গী (Baliadangi)
+
+Code: BD55940008, Postal: 5140, Coordinates: 26.108, 88.263
+
+#### হরিপুর (Haripur)
+
+Code: BD55940051, Postal: 1741, Coordinates: 25.879, 88.155
+
+#### পীরগঞ্জ (Pirganj)
+
+Code: BD55940082, Postal: 5110, Coordinates: 25.842, 88.368
+
+#### রাণীশংকৈল (Ranishankail)
+
+Code: BD55940086, Postal: 5120, Coordinates: 25.941, 88.246
+
+#### ঠাকুরগাঁও সদর (Thakurgaon Sadar)
+
+Code: BD55940094, Postal: 5103, Coordinates: 26.072, 88.464
+

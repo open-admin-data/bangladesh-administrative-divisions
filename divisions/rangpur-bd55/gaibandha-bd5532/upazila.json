@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD55320021",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ফুলছড়ি",
+      "en": "Fulchhari",
+      "slug": "fulchhari-bd55320021"
+    },
+    "code": {
+      "id": "BD55320021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5532",
+      "level": 2,
+      "name": {
+        "local": "গাইবান্ধা",
+        "en": "Gaibandha",
+        "slug": "gaibandha-bd5532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5532",
+        "level": 2,
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5761"
+    ],
+    "geo": {
+      "lat": "25.254",
+      "lon": "89.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55320024",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গাইবান্ধা সদর",
+      "en": "Gaibandha Sadar",
+      "slug": "gaibandha-sadar-bd55320024"
+    },
+    "code": {
+      "id": "BD55320024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5532",
+      "level": 2,
+      "name": {
+        "local": "গাইবান্ধা",
+        "en": "Gaibandha",
+        "slug": "gaibandha-bd5532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5532",
+        "level": 2,
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5700"
+    ],
+    "geo": {
+      "lat": "25.35",
+      "lon": "89.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55320030",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোবিন্দগঞ্জ",
+      "en": "Gobindaganj",
+      "slug": "gobindaganj-bd55320030"
+    },
+    "code": {
+      "id": "BD55320030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5532",
+      "level": 2,
+      "name": {
+        "local": "গাইবান্ধা",
+        "en": "Gaibandha",
+        "slug": "gaibandha-bd5532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5532",
+        "level": 2,
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5740"
+    ],
+    "geo": {
+      "lat": "25.158",
+      "lon": "89.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55320067",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পলাশবাড়ী",
+      "en": "Palashbari",
+      "slug": "palashbari-bd55320067"
+    },
+    "code": {
+      "id": "BD55320067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5532",
+      "level": 2,
+      "name": {
+        "local": "গাইবান্ধা",
+        "en": "Gaibandha",
+        "slug": "gaibandha-bd5532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5532",
+        "level": 2,
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5730"
+    ],
+    "geo": {
+      "lat": "25.265",
+      "lon": "89.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55320082",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাদুল্লাপুর",
+      "en": "Sadullapur",
+      "slug": "sadullapur-bd55320082"
+    },
+    "code": {
+      "id": "BD55320082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5532",
+      "level": 2,
+      "name": {
+        "local": "গাইবান্ধা",
+        "en": "Gaibandha",
+        "slug": "gaibandha-bd5532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5532",
+        "level": 2,
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5711"
+    ],
+    "geo": {
+      "lat": "25.395",
+      "lon": "89.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55320088",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সাঘাটা",
+      "en": "Saghata",
+      "slug": "saghata-bd55320088"
+    },
+    "code": {
+      "id": "BD55320088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5532",
+      "level": 2,
+      "name": {
+        "local": "গাইবান্ধা",
+        "en": "Gaibandha",
+        "slug": "gaibandha-bd5532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5532",
+        "level": 2,
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1982"
+    ],
+    "geo": {
+      "lat": "25.125",
+      "lon": "89.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD55320091",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সুন্দরগঞ্জ",
+      "en": "Sundarganj",
+      "slug": "sundarganj-bd55320091"
+    },
+    "code": {
+      "id": "BD55320091",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD5532",
+      "level": 2,
+      "name": {
+        "local": "গাইবান্ধা",
+        "en": "Gaibandha",
+        "slug": "gaibandha-bd5532"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      },
+      {
+        "id": "BD5532",
+        "level": 2,
+        "name": {
+          "local": "গাইবান্ধা",
+          "en": "Gaibandha",
+          "slug": "gaibandha-bd5532"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "5721"
+    ],
+    "geo": {
+      "lat": "25.51",
+      "lon": "89.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

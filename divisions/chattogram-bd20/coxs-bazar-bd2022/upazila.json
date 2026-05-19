@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD20220016",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চকরিয়া",
+      "en": "Chakaria",
+      "slug": "chakaria-bd20220016"
+    },
+    "code": {
+      "id": "BD20220016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4740"
+    ],
+    "geo": {
+      "lat": "21.741",
+      "lon": "92.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220024",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কক্সবাজার সদর",
+      "en": "Coxs Bazar Sadar",
+      "slug": "coxs-bazar-sadar-bd20220024"
+    },
+    "code": {
+      "id": "BD20220024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4700"
+    ],
+    "geo": {
+      "lat": "21.466",
+      "lon": "92.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220032",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঈদগাঁও",
+      "en": "Eidgaon",
+      "slug": "eidgaon-bd20220032"
+    },
+    "code": {
+      "id": "BD20220032",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4702"
+    ],
+    "geo": {
+      "lat": "21.556",
+      "lon": "92.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220045",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কুতুবদিয়া",
+      "en": "Kutubdia",
+      "slug": "kutubdia-bd20220045"
+    },
+    "code": {
+      "id": "BD20220045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4720"
+    ],
+    "geo": {
+      "lat": "21.838",
+      "lon": "91.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220049",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মহেশখালী",
+      "en": "Maheshkhali",
+      "slug": "maheshkhali-bd20220049"
+    },
+    "code": {
+      "id": "BD20220049",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4700"
+    ],
+    "geo": {
+      "lat": "21.607",
+      "lon": "91.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পেকুয়া",
+      "en": "Pekua",
+      "slug": "pekua-bd20220056"
+    },
+    "code": {
+      "id": "BD20220056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4770"
+    ],
+    "geo": {
+      "lat": "21.816",
+      "lon": "91.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220066",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রামু",
+      "en": "Ramu",
+      "slug": "ramu-bd20220066"
+    },
+    "code": {
+      "id": "BD20220066",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4730"
+    ],
+    "geo": {
+      "lat": "21.439",
+      "lon": "92.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "টেকনাফ",
+      "en": "Teknaf",
+      "slug": "teknaf-bd20220090"
+    },
+    "code": {
+      "id": "BD20220090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4761"
+    ],
+    "geo": {
+      "lat": "20.969",
+      "lon": "92.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20220094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "উখিয়া",
+      "en": "Ukhia",
+      "slug": "ukhia-bd20220094"
+    },
+    "code": {
+      "id": "BD20220094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2022",
+      "level": 2,
+      "name": {
+        "local": "কক্সবাজার",
+        "en": "Cox's Bazar",
+        "slug": "coxs-bazar-bd2022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2022",
+        "level": 2,
+        "name": {
+          "local": "কক্সবাজার",
+          "en": "Cox's Bazar",
+          "slug": "coxs-bazar-bd2022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4750"
+    ],
+    "geo": {
+      "lat": "21.228",
+      "lon": "92.115"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

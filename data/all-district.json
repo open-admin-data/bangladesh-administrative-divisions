@@ -1,0 +1,3138 @@
+[
+  {
+    "id": "BD1004",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বরগুনা",
+      "en": "Barguna",
+      "slug": "barguna-bd1004"
+    },
+    "code": {
+      "id": "BD1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "8710"
+    ],
+    "geo": {
+      "lat": "22.128",
+      "lon": "90.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1006",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd1006"
+    },
+    "code": {
+      "id": "BD1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 10
+    },
+    "zip_codes": [
+      "8240"
+    ],
+    "geo": {
+      "lat": "22.819",
+      "lon": "90.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1009",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ভোলা",
+      "en": "Bhola",
+      "slug": "bhola-bd1009"
+    },
+    "code": {
+      "id": "BD1009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "8300"
+    ],
+    "geo": {
+      "lat": "22.31",
+      "lon": "90.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1042",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ঝালকাঠি",
+      "en": "Jhalokati",
+      "slug": "jhalokati-bd1042"
+    },
+    "code": {
+      "id": "BD1042",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 4
+    },
+    "zip_codes": [
+      "8402"
+    ],
+    "geo": {
+      "lat": "22.572",
+      "lon": "90.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1078",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পটুয়াখালী",
+      "en": "Patuakhali",
+      "slug": "patuakhali-bd1078"
+    },
+    "code": {
+      "id": "BD1078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 8
+    },
+    "zip_codes": [
+      "8621"
+    ],
+    "geo": {
+      "lat": "22.165",
+      "lon": "90.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD1079",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পিরোজপুর",
+      "en": "Pirojpur",
+      "slug": "pirojpur-bd1079"
+    },
+    "code": {
+      "id": "BD1079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD10",
+        "level": 1,
+        "name": {
+          "local": "বরিশাল",
+          "en": "Barishal",
+          "slug": "barishal-bd10"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "8530"
+    ],
+    "geo": {
+      "lat": "22.532",
+      "lon": "89.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2003",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বান্দরবান",
+      "en": "Bandarban",
+      "slug": "bandarban-bd2003"
+    },
+    "code": {
+      "id": "BD2003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "4650"
+    ],
+    "geo": {
+      "lat": "21.805",
+      "lon": "92.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2012",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ব্রাহ্মণবাড়ীয়া",
+      "en": "Brahmanbaria",
+      "slug": "brahmanbaria-bd2012"
+    },
+    "code": {
+      "id": "BD2012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "3450"
+    ],
+    "geo": {
+      "lat": "23.953",
+      "lon": "91.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2013",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "চাঁদপুর",
+      "en": "Chandpur",
+      "slug": "chandpur-bd2013"
+    },
+    "code": {
+      "id": "BD2013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 8
+    },
+    "zip_codes": [
+      "3602"
+    ],
+    "geo": {
+      "lat": "23.261",
+      "lon": "90.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2015",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd2015"
+    },
+    "code": {
+      "id": "BD2015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 15
+    },
+    "zip_codes": [
+      "4376"
+    ],
+    "geo": {
+      "lat": "22.447",
+      "lon": "91.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2019",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "কুমিল্লা",
+      "en": "Cumilla",
+      "slug": "cumilla-bd2019"
+    },
+    "code": {
+      "id": "BD2019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 17
+    },
+    "zip_codes": [
+      "3560"
+    ],
+    "geo": {
+      "lat": "23.437",
+      "lon": "91.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2022",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "কক্সবাজার",
+      "en": "Cox's Bazar",
+      "slug": "coxs-bazar-bd2022"
+    },
+    "code": {
+      "id": "BD2022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "4742"
+    ],
+    "geo": {
+      "lat": "21.476",
+      "lon": "92.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2030",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ফেনী",
+      "en": "Feni",
+      "slug": "feni-bd2030"
+    },
+    "code": {
+      "id": "BD2030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "3910"
+    ],
+    "geo": {
+      "lat": "22.995",
+      "lon": "91.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2046",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "খাগড়াছড়ি",
+      "en": "Khagrachhari",
+      "slug": "khagrachhari-bd2046"
+    },
+    "code": {
+      "id": "BD2046",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "4420"
+    ],
+    "geo": {
+      "lat": "23.172",
+      "lon": "91.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2051",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "লক্ষ্মীপুর",
+      "en": "Lakshmipur",
+      "slug": "lakshmipur-bd2051"
+    },
+    "code": {
+      "id": "BD2051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "3730"
+    ],
+    "geo": {
+      "lat": "22.851",
+      "lon": "90.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2075",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নোয়াখালী",
+      "en": "Noakhali",
+      "slug": "noakhali-bd2075"
+    },
+    "code": {
+      "id": "BD2075",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "3850"
+    ],
+    "geo": {
+      "lat": "22.658",
+      "lon": "91.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD2084",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "রাঙ্গামাটি",
+      "en": "Rangamati",
+      "slug": "rangamati-bd2084"
+    },
+    "code": {
+      "id": "BD2084",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 10
+    },
+    "zip_codes": [
+      "4570"
+    ],
+    "geo": {
+      "lat": "22.825",
+      "lon": "92.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3026",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ঢাকা",
+      "en": "Dhaka",
+      "slug": "dhaka-bd3026"
+    },
+    "code": {
+      "id": "BD3026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "1360"
+    ],
+    "geo": {
+      "lat": "23.788",
+      "lon": "90.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3029",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ফরিদপুর",
+      "en": "Faridpur",
+      "slug": "faridpur-bd3029"
+    },
+    "code": {
+      "id": "BD3029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "7870"
+    ],
+    "geo": {
+      "lat": "23.478",
+      "lon": "89.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3033",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "গাজীপুর",
+      "en": "Gazipur",
+      "slug": "gazipur-bd3033"
+    },
+    "code": {
+      "id": "BD3033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "1703"
+    ],
+    "geo": {
+      "lat": "24.099",
+      "lon": "90.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3035",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "গোপালগঞ্জ",
+      "en": "Gopalganj",
+      "slug": "gopalganj-bd3035"
+    },
+    "code": {
+      "id": "BD3035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "8102"
+    ],
+    "geo": {
+      "lat": "23.105",
+      "lon": "89.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3048",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "কিশোরগঞ্জ",
+      "en": "Kishoreganj",
+      "slug": "kishoreganj-bd3048"
+    },
+    "code": {
+      "id": "BD3048",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 13
+    },
+    "zip_codes": [
+      "2336"
+    ],
+    "geo": {
+      "lat": "24.378",
+      "lon": "90.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3054",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মাদারীপুর",
+      "en": "Madaripur",
+      "slug": "madaripur-bd3054"
+    },
+    "code": {
+      "id": "BD3054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "7932"
+    ],
+    "geo": {
+      "lat": "23.222",
+      "lon": "90.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3056",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মানিকগঞ্জ",
+      "en": "Manikganj",
+      "slug": "manikganj-bd3056"
+    },
+    "code": {
+      "id": "BD3056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "1860"
+    ],
+    "geo": {
+      "lat": "23.841",
+      "lon": "89.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3059",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মুন্সিগঞ্জ",
+      "en": "Munshiganj",
+      "slug": "munshiganj-bd3059"
+    },
+    "code": {
+      "id": "BD3059",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "1510"
+    ],
+    "geo": {
+      "lat": "23.526",
+      "lon": "90.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3067",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নারায়ণগঞ্জ",
+      "en": "Narayanganj",
+      "slug": "narayanganj-bd3067"
+    },
+    "code": {
+      "id": "BD3067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "1450"
+    ],
+    "geo": {
+      "lat": "23.724",
+      "lon": "90.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3068",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নরসিংদী",
+      "en": "Narsingdi",
+      "slug": "narsingdi-bd3068"
+    },
+    "code": {
+      "id": "BD3068",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "1640"
+    ],
+    "geo": {
+      "lat": "24.003",
+      "lon": "90.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3082",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "রাজবাড়ী",
+      "en": "Rajbari",
+      "slug": "rajbari-bd3082"
+    },
+    "code": {
+      "id": "BD3082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "7730"
+    ],
+    "geo": {
+      "lat": "23.729",
+      "lon": "89.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3086",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "শরিয়তপুর",
+      "en": "Shariatpur",
+      "slug": "shariatpur-bd3086"
+    },
+    "code": {
+      "id": "BD3086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "8030"
+    ],
+    "geo": {
+      "lat": "23.245",
+      "lon": "90.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD3093",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "টাঙ্গাইল",
+      "en": "Tangail",
+      "slug": "tangail-bd3093"
+    },
+    "code": {
+      "id": "BD3093",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD30",
+      "level": 1,
+      "name": {
+        "local": "ঢাকা",
+        "en": "Dhaka",
+        "slug": "dhaka-bd30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 12
+    },
+    "zip_codes": [
+      "1920"
+    ],
+    "geo": {
+      "lat": "24.358",
+      "lon": "90"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4001",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বাগেরহাট",
+      "en": "Bagerhat",
+      "slug": "bagerhat-bd4001"
+    },
+    "code": {
+      "id": "BD4001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "9300"
+    ],
+    "geo": {
+      "lat": "22.329",
+      "lon": "89.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4018",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "চুয়াডাঙ্গা",
+      "en": "Chuadanga",
+      "slug": "chuadanga-bd4018"
+    },
+    "code": {
+      "id": "BD4018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 4
+    },
+    "zip_codes": [
+      "7210"
+    ],
+    "geo": {
+      "lat": "23.609",
+      "lon": "88.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4041",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "যশোর",
+      "en": "Jashore",
+      "slug": "jashore-bd4041"
+    },
+    "code": {
+      "id": "BD4041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 8
+    },
+    "zip_codes": [
+      "7470"
+    ],
+    "geo": {
+      "lat": "23.089",
+      "lon": "89.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4044",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ঝিনাইদহ",
+      "en": "Jhenaidah",
+      "slug": "jhenaidah-bd4044"
+    },
+    "code": {
+      "id": "BD4044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "7310"
+    ],
+    "geo": {
+      "lat": "23.488",
+      "lon": "89.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4047",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd4047"
+    },
+    "code": {
+      "id": "BD4047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "9240"
+    ],
+    "geo": {
+      "lat": "22.366",
+      "lon": "89.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4050",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "কুষ্টিয়া",
+      "en": "Kushtia",
+      "slug": "kushtia-bd4050"
+    },
+    "code": {
+      "id": "BD4050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "7042"
+    ],
+    "geo": {
+      "lat": "23.926",
+      "lon": "89.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4055",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মাগুরা",
+      "en": "Magura",
+      "slug": "magura-bd4055"
+    },
+    "code": {
+      "id": "BD4055",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 4
+    },
+    "zip_codes": [
+      "7620"
+    ],
+    "geo": {
+      "lat": "23.444",
+      "lon": "89.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4057",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মেহেরপুর",
+      "en": "Meherpur",
+      "slug": "meherpur-bd4057"
+    },
+    "code": {
+      "id": "BD4057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 3
+    },
+    "zip_codes": [
+      "7110"
+    ],
+    "geo": {
+      "lat": "23.794",
+      "lon": "88.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4065",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নড়াইল",
+      "en": "Narail",
+      "slug": "narail-bd4065"
+    },
+    "code": {
+      "id": "BD4065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 3
+    },
+    "zip_codes": [
+      "7520"
+    ],
+    "geo": {
+      "lat": "23.131",
+      "lon": "89.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4087",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "সাতক্ষীরা",
+      "en": "Satkhira",
+      "slug": "satkhira-bd4087"
+    },
+    "code": {
+      "id": "BD4087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "9460"
+    ],
+    "geo": {
+      "lat": "22.308",
+      "lon": "89.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4539",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "জামালপুর",
+      "en": "Jamalpur",
+      "slug": "jamalpur-bd4539"
+    },
+    "code": {
+      "id": "BD4539",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "2030"
+    ],
+    "geo": {
+      "lat": "24.977",
+      "lon": "89.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4561",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ময়মনসিংহ",
+      "en": "Mymensingh",
+      "slug": "mymensingh-bd4561"
+    },
+    "code": {
+      "id": "BD4561",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 13
+    },
+    "zip_codes": [
+      "2240"
+    ],
+    "geo": {
+      "lat": "24.699",
+      "lon": "90.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4572",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নেত্রকোনা",
+      "en": "Netrakona",
+      "slug": "netrakona-bd4572"
+    },
+    "code": {
+      "id": "BD4572",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 10
+    },
+    "zip_codes": [
+      "2400"
+    ],
+    "geo": {
+      "lat": "24.871",
+      "lon": "90.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD4589",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "শেরপুর",
+      "en": "Sherpur",
+      "slug": "sherpur-bd4589"
+    },
+    "code": {
+      "id": "BD4589",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD45",
+      "level": 1,
+      "name": {
+        "local": "ময়মনসিংহ",
+        "en": "Mymensingh",
+        "slug": "mymensingh-bd45"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD45",
+        "level": 1,
+        "name": {
+          "local": "ময়মনসিংহ",
+          "en": "Mymensingh",
+          "slug": "mymensingh-bd45"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "2140"
+    ],
+    "geo": {
+      "lat": "25.083",
+      "lon": "90.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5010",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "বগুড়া",
+      "en": "Bogura",
+      "slug": "bogura-bd5010"
+    },
+    "code": {
+      "id": "BD5010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 12
+    },
+    "zip_codes": [
+      "5890"
+    ],
+    "geo": {
+      "lat": "24.824",
+      "lon": "89.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5038",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "জয়পুরহাট",
+      "en": "Joypurhat",
+      "slug": "joypurhat-bd5038"
+    },
+    "code": {
+      "id": "BD5038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5940"
+    ],
+    "geo": {
+      "lat": "25.093",
+      "lon": "89.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5064",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নওগাঁ",
+      "en": "Naogaon",
+      "slug": "naogaon-bd5064"
+    },
+    "code": {
+      "id": "BD5064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 11
+    },
+    "zip_codes": [
+      "6596"
+    ],
+    "geo": {
+      "lat": "24.9",
+      "lon": "88.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5069",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নাটোর",
+      "en": "Natore",
+      "slug": "natore-bd5069"
+    },
+    "code": {
+      "id": "BD5069",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "6422"
+    ],
+    "geo": {
+      "lat": "24.381",
+      "lon": "89.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5070",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "চাঁপাইনবাবগঞ্জ",
+      "en": "Chapainababganj",
+      "slug": "chapainababganj-bd5070"
+    },
+    "code": {
+      "id": "BD5070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "6300"
+    ],
+    "geo": {
+      "lat": "24.716",
+      "lon": "88.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5076",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পাবনা",
+      "en": "Pabna",
+      "slug": "pabna-bd5076"
+    },
+    "code": {
+      "id": "BD5076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "6650"
+    ],
+    "geo": {
+      "lat": "24.053",
+      "lon": "89.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5081",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "রাজশাহী",
+      "en": "Rajshahi",
+      "slug": "rajshahi-bd5081"
+    },
+    "code": {
+      "id": "BD5081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "6281"
+    ],
+    "geo": {
+      "lat": "24.468",
+      "lon": "88.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5088",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "সিরাজগঞ্জ",
+      "en": "Sirajganj",
+      "slug": "sirajganj-bd5088"
+    },
+    "code": {
+      "id": "BD5088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD50",
+      "level": 1,
+      "name": {
+        "local": "রাজশাহী",
+        "en": "Rajshahi",
+        "slug": "rajshahi-bd50"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD50",
+        "level": 1,
+        "name": {
+          "local": "রাজশাহী",
+          "en": "Rajshahi",
+          "slug": "rajshahi-bd50"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "6730"
+    ],
+    "geo": {
+      "lat": "24.392",
+      "lon": "89.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5527",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "দিনাজপুর",
+      "en": "Dinajpur",
+      "slug": "dinajpur-bd5527"
+    },
+    "code": {
+      "id": "BD5527",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 13
+    },
+    "zip_codes": [
+      "5270"
+    ],
+    "geo": {
+      "lat": "25.63",
+      "lon": "88.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5532",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "গাইবান্ধা",
+      "en": "Gaibandha",
+      "slug": "gaibandha-bd5532"
+    },
+    "code": {
+      "id": "BD5532",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "5750"
+    ],
+    "geo": {
+      "lat": "25.298",
+      "lon": "89.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5549",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "কুড়িগ্রাম",
+      "en": "Kurigram",
+      "slug": "kurigram-bd5549"
+    },
+    "code": {
+      "id": "BD5549",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "5670"
+    ],
+    "geo": {
+      "lat": "25.79",
+      "lon": "89.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5552",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "লালমনিরহাট",
+      "en": "Lalmonirhat",
+      "slug": "lalmonirhat-bd5552"
+    },
+    "code": {
+      "id": "BD5552",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5510"
+    ],
+    "geo": {
+      "lat": "26.063",
+      "lon": "89.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5573",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "নীলফামারী",
+      "en": "Nilphamari",
+      "slug": "nilphamari-bd5573"
+    },
+    "code": {
+      "id": "BD5573",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 6
+    },
+    "zip_codes": [
+      "5350"
+    ],
+    "geo": {
+      "lat": "26.026",
+      "lon": "88.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5577",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "পঞ্চগড়",
+      "en": "Panchagarh",
+      "slug": "panchagarh-bd5577"
+    },
+    "code": {
+      "id": "BD5577",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5010"
+    ],
+    "geo": {
+      "lat": "26.285",
+      "lon": "88.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5585",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "রংপুর",
+      "en": "Rangpur",
+      "slug": "rangpur-bd5585"
+    },
+    "code": {
+      "id": "BD5585",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 8
+    },
+    "zip_codes": [
+      "5430"
+    ],
+    "geo": {
+      "lat": "25.651",
+      "lon": "89.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD5594",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "ঠাকুরগাঁও",
+      "en": "Thakurgaon",
+      "slug": "thakurgaon-bd5594"
+    },
+    "code": {
+      "id": "BD5594",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD55",
+        "level": 1,
+        "name": {
+          "local": "রংপুর",
+          "en": "Rangpur",
+          "slug": "rangpur-bd55"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 5
+    },
+    "zip_codes": [
+      "5140"
+    ],
+    "geo": {
+      "lat": "25.99",
+      "lon": "88.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD6036",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "হবিগঞ্জ",
+      "en": "Habiganj",
+      "slug": "habiganj-bd6036"
+    },
+    "code": {
+      "id": "BD6036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD60",
+      "level": 1,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd60"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 9
+    },
+    "zip_codes": [
+      "3360"
+    ],
+    "geo": {
+      "lat": "24.369",
+      "lon": "91.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD6058",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "মৌলভীবাজার",
+      "en": "Moulvibazar",
+      "slug": "moulvibazar-bd6058"
+    },
+    "code": {
+      "id": "BD6058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD60",
+      "level": 1,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd60"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 7
+    },
+    "zip_codes": [
+      "3250"
+    ],
+    "geo": {
+      "lat": "24.481",
+      "lon": "91.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD6090",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "সুনামগঞ্জ",
+      "en": "Sunamganj",
+      "slug": "sunamganj-bd6090"
+    },
+    "code": {
+      "id": "BD6090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD60",
+      "level": 1,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd60"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 12
+    },
+    "zip_codes": [
+      "3010"
+    ],
+    "geo": {
+      "lat": "24.94",
+      "lon": "91.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD6091",
+    "level": 2,
+    "level_name": {
+      "local": "জেলা",
+      "en": "District"
+    },
+    "name": {
+      "local": "সিলেট",
+      "en": "Sylhet",
+      "slug": "sylhet-bd6091"
+    },
+    "code": {
+      "id": "BD6091",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD60",
+      "level": 1,
+      "name": {
+        "local": "সিলেট",
+        "en": "Sylhet",
+        "slug": "sylhet-bd60"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      }
+    ],
+    "children_count": {
+      "upazila": 13
+    },
+    "zip_codes": [
+      "3120"
+    ],
+    "geo": {
+      "lat": "24.92",
+      "lon": "91.988"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

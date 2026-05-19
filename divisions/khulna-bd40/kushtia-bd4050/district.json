@@ -1,0 +1,49 @@
+{
+  "id": "BD4050",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "কুষ্টিয়া",
+    "en": "Kushtia",
+    "slug": "kushtia-bd4050"
+  },
+  "code": {
+    "id": "BD4050",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD40",
+    "level": 1,
+    "name": {
+      "local": "খুলনা",
+      "en": "Khulna",
+      "slug": "khulna-bd40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD40",
+      "level": 1,
+      "name": {
+        "local": "খুলনা",
+        "en": "Khulna",
+        "slug": "khulna-bd40"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 6
+  },
+  "zip_codes": [
+    "7042"
+  ],
+  "geo": {
+    "lat": "23.926",
+    "lon": "89.018"
+  },
+  "metadata": {},
+  "source": {}
+}

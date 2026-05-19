@@ -1,0 +1,49 @@
+{
+  "id": "BD2084",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "রাঙ্গামাটি",
+    "en": "Rangamati",
+    "slug": "rangamati-bd2084"
+  },
+  "code": {
+    "id": "BD2084",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD20",
+    "level": 1,
+    "name": {
+      "local": "চট্টগ্রাম",
+      "en": "Chattogram",
+      "slug": "chattogram-bd20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD20",
+      "level": 1,
+      "name": {
+        "local": "চট্টগ্রাম",
+        "en": "Chattogram",
+        "slug": "chattogram-bd20"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 10
+  },
+  "zip_codes": [
+    "4570"
+  ],
+  "geo": {
+    "lat": "22.825",
+    "lon": "92.281"
+  },
+  "metadata": {},
+  "source": {}
+}

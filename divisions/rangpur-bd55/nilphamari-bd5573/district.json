@@ -1,0 +1,49 @@
+{
+  "id": "BD5573",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "নীলফামারী",
+    "en": "Nilphamari",
+    "slug": "nilphamari-bd5573"
+  },
+  "code": {
+    "id": "BD5573",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD55",
+    "level": 1,
+    "name": {
+      "local": "রংপুর",
+      "en": "Rangpur",
+      "slug": "rangpur-bd55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD55",
+      "level": 1,
+      "name": {
+        "local": "রংপুর",
+        "en": "Rangpur",
+        "slug": "rangpur-bd55"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 6
+  },
+  "zip_codes": [
+    "5350"
+  ],
+  "geo": {
+    "lat": "26.026",
+    "lon": "88.93"
+  },
+  "metadata": {},
+  "source": {}
+}

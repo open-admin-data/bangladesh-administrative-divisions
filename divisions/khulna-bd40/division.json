@@ -1,0 +1,30 @@
+{
+  "id": "BD40",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "খুলনা",
+    "en": "Khulna",
+    "slug": "khulna-bd40"
+  },
+  "code": {
+    "id": "BD40",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "upazila": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.838",
+    "lon": "89.305"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD20030004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আলীকদম",
+      "en": "Alikadam",
+      "slug": "alikadam-bd20030004"
+    },
+    "code": {
+      "id": "BD20030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2003",
+      "level": 2,
+      "name": {
+        "local": "বান্দরবান",
+        "en": "Bandarban",
+        "slug": "bandarban-bd2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2003",
+        "level": 2,
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4650"
+    ],
+    "geo": {
+      "lat": "21.596",
+      "lon": "92.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20030014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বান্দরবান সদর",
+      "en": "Bandarban Sadar",
+      "slug": "bandarban-sadar-bd20030014"
+    },
+    "code": {
+      "id": "BD20030014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2003",
+      "level": 2,
+      "name": {
+        "local": "বান্দরবান",
+        "en": "Bandarban",
+        "slug": "bandarban-bd2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2003",
+        "level": 2,
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4600"
+    ],
+    "geo": {
+      "lat": "22.065",
+      "lon": "92.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20030051",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "লামা",
+      "en": "Lama",
+      "slug": "lama-bd20030051"
+    },
+    "code": {
+      "id": "BD20030051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2003",
+      "level": 2,
+      "name": {
+        "local": "বান্দরবান",
+        "en": "Bandarban",
+        "slug": "bandarban-bd2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2003",
+        "level": 2,
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4640"
+    ],
+    "geo": {
+      "lat": "21.81",
+      "lon": "92.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20030073",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাইক্ষ্যংছড়ি",
+      "en": "Naikkhongchhari",
+      "slug": "naikkhongchhari-bd20030073"
+    },
+    "code": {
+      "id": "BD20030073",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2003",
+      "level": 2,
+      "name": {
+        "local": "বান্দরবান",
+        "en": "Bandarban",
+        "slug": "bandarban-bd2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2003",
+        "level": 2,
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4660"
+    ],
+    "geo": {
+      "lat": "21.471",
+      "lon": "92.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20030089",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রোয়াংছড়ি",
+      "en": "Rowangchhari",
+      "slug": "rowangchhari-bd20030089"
+    },
+    "code": {
+      "id": "BD20030089",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2003",
+      "level": 2,
+      "name": {
+        "local": "বান্দরবান",
+        "en": "Bandarban",
+        "slug": "bandarban-bd2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2003",
+        "level": 2,
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4610"
+    ],
+    "geo": {
+      "lat": "22.199",
+      "lon": "92.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20030091",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রুমা",
+      "en": "Ruma",
+      "slug": "ruma-bd20030091"
+    },
+    "code": {
+      "id": "BD20030091",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2003",
+      "level": 2,
+      "name": {
+        "local": "বান্দরবান",
+        "en": "Bandarban",
+        "slug": "bandarban-bd2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2003",
+        "level": 2,
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4620"
+    ],
+    "geo": {
+      "lat": "22.008",
+      "lon": "92.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20030095",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "থানচি",
+      "en": "Thanchi",
+      "slug": "thanchi-bd20030095"
+    },
+    "code": {
+      "id": "BD20030095",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2003",
+      "level": 2,
+      "name": {
+        "local": "বান্দরবান",
+        "en": "Bandarban",
+        "slug": "bandarban-bd2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2003",
+        "level": 2,
+        "name": {
+          "local": "বান্দরবান",
+          "en": "Bandarban",
+          "slug": "bandarban-bd2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "4641"
+    ],
+    "geo": {
+      "lat": "21.643",
+      "lon": "92.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

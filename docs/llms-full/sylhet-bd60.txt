@@ -1,0 +1,193 @@
+# Sylhet — Bangladesh Administrative Divisions
+
+> 4 districts, 41 upazilas
+> Code: BD60
+> Coordinates: 24.715, 91.665
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### হবিগঞ্জ (Habiganj)
+
+Code: BD6036, Coordinates: 24.369, 91.432
+Upazilas: 9
+
+#### আজমিরীগঞ্জ (Ajmiriganj)
+
+Code: BD60360002, Postal: 3360, Coordinates: 24.554, 91.281
+
+#### বাহুবল (Bahubal)
+
+Code: BD60360005, Postal: 3310, Coordinates: 24.361, 91.545
+
+#### বানিয়াচং (Baniachong)
+
+Code: BD60360011, Postal: 3350, Coordinates: 24.499, 91.367
+
+#### চুনারুঘাট (Chunarughat)
+
+Code: BD60360026, Postal: 3321, Coordinates: 24.18, 91.516
+
+#### হবিগঞ্জ সদর (Habiganj Sadar)
+
+Code: BD60360044, Postal: 3302, Coordinates: 24.351, 91.416
+
+#### লাখাই (Lakhai)
+
+Code: BD60360068, Postal: 3340, Coordinates: 24.299, 91.261
+
+#### মাধবপুর (Madhabpur)
+
+Code: BD60360071, Postal: 3331, Coordinates: 24.12, 91.337
+
+#### নবীগঞ্জ (Nabiganj)
+
+Code: BD60360077, Postal: 3373, Coordinates: 24.571, 91.548
+
+#### শায়েস্তাগঞ্জ (Shayestaganj)
+
+Code: BD60360087, Postal: 3342, Coordinates: 24.275, 91.407
+
+### মৌলভীবাজার (Moulvibazar)
+
+Code: BD6058, Coordinates: 24.481, 91.916
+Upazilas: 7
+
+#### বড়লেখা (Baralekha)
+
+Code: BD60580014, Postal: 3250, Coordinates: 24.709, 92.176
+
+#### জুড়ী (Juri)
+
+Code: BD60580035, Postal: 3251, Coordinates: 24.554, 92.145
+
+#### জামালগঞ্জ (Kamalganj)
+
+Code: BD60580056, Postal: 3220, Coordinates: 24.317, 91.86
+
+#### কুলাউড়া (Kulaura)
+
+Code: BD60580065, Postal: 3237, Coordinates: 24.49, 92.015
+
+#### মৌলভীবাজার সদর (Moulvibazar Sadar)
+
+Code: BD60580074, Postal: 3203, Coordinates: 24.499, 91.713
+
+#### রাজনগর (Rajnagar)
+
+Code: BD60580080, Postal: 3240, Coordinates: 24.565, 91.864
+
+#### শ্রীমঙ্গল (Sreemangal)
+
+Code: BD60580083, Postal: 3214, Coordinates: 24.302, 91.699
+
+### সুনামগঞ্জ (Sunamganj)
+
+Code: BD6090, Coordinates: 24.94, 91.346
+Upazilas: 12
+
+#### বিশ্বম্ভরপুর (Bishwambharpur)
+
+Code: BD60900018, Postal: 3060, Coordinates: 25.109, 91.315
+
+#### ছাতক (Chhatak)
+
+Code: BD60900023, Postal: 3080, Coordinates: 24.949, 91.615
+
+#### দিরাই (Derai)
+
+Code: BD60900029, Postal: 3002, Coordinates: 24.787, 91.336
+
+#### ধর্মপাশা (Dharmapasha)
+
+Code: BD60900032, Postal: 2450, Coordinates: 24.944, 91.064
+
+#### দোয়ারাবাজার (Dowarabazar)
+
+Code: BD60900033, Postal: 3000, Coordinates: 25.072, 91.561
+
+#### জগন্নাথপুর (Jagannathpur)
+
+Code: BD60900047, Postal: 3062, Coordinates: 24.75, 91.557
+
+#### জামালগঞ্জ (Jamalganj)
+
+Code: BD60900050, Postal: 3220, Coordinates: 24.956, 91.203
+
+#### মধ্যনগর (Madhyanagar)
+
+Code: BD60900063, Postal: 3040, Coordinates: 25.09, 91.013
+
+#### শাল্লা (Shalla)
+
+Code: BD60900086, Postal: 3050, Coordinates: 24.687, 91.259
+
+#### শান্তিগঞ্জ (Shantiganj)
+
+Code: BD60900087, Postal: 3060, Coordinates: 24.912, 91.408
+
+#### সুনামগঞ্জ সদর (Sunamganj Sadar)
+
+Code: BD60900089, Postal: 3001, Coordinates: 25.054, 91.4
+
+#### তাহিরপুর (Tahirpur)
+
+Code: BD60900092, Postal: 3030, Coordinates: 25.129, 91.164
+
+### সিলেট (Sylhet)
+
+Code: BD6091, Coordinates: 24.92, 91.988
+Upazilas: 13
+
+#### বালাগঞ্জ (Balaganj)
+
+Code: BD60910008, Postal: 3120, Coordinates: 24.689, 91.83
+
+#### বিয়ানীবাজার (Beanibazar)
+
+Code: BD60910017, Postal: 3170, Coordinates: 24.849, 92.16
+
+#### বিশ্বনাথ (Bishwanath)
+
+Code: BD60910020, Postal: 3130, Coordinates: 24.835, 91.728
+
+#### কোম্পানীগঞ্জ (Companiganj)
+
+Code: BD60910027, Postal: 3140, Coordinates: 25.08, 91.773
+
+#### দক্ষিণ সুরমা (Dakkhin Surma)
+
+Code: BD60910031, Postal: 3106, Coordinates: 24.817, 91.877
+
+#### ফেঞ্চুগঞ্জ (Fenchuganj)
+
+Code: BD60910035, Postal: 3116, Coordinates: 24.694, 91.963
+
+#### গোলাপগঞ্জ (Golapganj)
+
+Code: BD60910038, Postal: 3165, Coordinates: 24.81, 92.018
+
+#### গোয়াইনঘাট (Gowainghat)
+
+Code: BD60910041, Postal: 3150, Coordinates: 25.081, 91.959
+
+#### জৈন্তাপুর (Jaintapur)
+
+Code: BD60910053, Postal: 3152, Coordinates: 25.058, 92.105
+
+#### কানাইঘাট (Kanaighat)
+
+Code: BD60910059, Postal: 3181, Coordinates: 24.993, 92.219
+
+#### ওসমানী নগর (Osmaninagar)
+
+Code: BD60910060, Postal: 6591, Coordinates: 24.703, 91.732
+
+#### সিলেট সদর (Sylhet Sadar)
+
+Code: BD60910062, Postal: 3106, Coordinates: 24.944, 91.846
+
+#### জকিগঞ্জ (Zakiganj)
+
+Code: BD60910094, Postal: 3191, Coordinates: 24.925, 92.368
+

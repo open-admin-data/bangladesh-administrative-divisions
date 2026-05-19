@@ -1,0 +1,49 @@
+{
+  "id": "BD1004",
+  "level": 2,
+  "level_name": {
+    "local": "জেলা",
+    "en": "District"
+  },
+  "name": {
+    "local": "বরগুনা",
+    "en": "Barguna",
+    "slug": "barguna-bd1004"
+  },
+  "code": {
+    "id": "BD1004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BD10",
+    "level": 1,
+    "name": {
+      "local": "বরিশাল",
+      "en": "Barishal",
+      "slug": "barishal-bd10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BD10",
+      "level": 1,
+      "name": {
+        "local": "বরিশাল",
+        "en": "Barishal",
+        "slug": "barishal-bd10"
+      }
+    }
+  ],
+  "children_count": {
+    "upazila": 6
+  },
+  "zip_codes": [
+    "8710"
+  ],
+  "geo": {
+    "lat": "22.128",
+    "lon": "90.11"
+  },
+  "metadata": {},
+  "source": {}
+}

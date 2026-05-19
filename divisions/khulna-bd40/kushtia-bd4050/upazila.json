@@ -1,0 +1,338 @@
+[
+  {
+    "id": "BD40500015",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভেড়ামারা",
+      "en": "Bheramara",
+      "slug": "bheramara-bd40500015"
+    },
+    "code": {
+      "id": "BD40500015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4050",
+      "level": 2,
+      "name": {
+        "local": "কুষ্টিয়া",
+        "en": "Kushtia",
+        "slug": "kushtia-bd4050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4050",
+        "level": 2,
+        "name": {
+          "local": "কুষ্টিয়া",
+          "en": "Kushtia",
+          "slug": "kushtia-bd4050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7042"
+    ],
+    "geo": {
+      "lat": "24.056",
+      "lon": "88.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40500039",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দৌলতপুর",
+      "en": "Daulatpur",
+      "slug": "daulatpur-bd40500039"
+    },
+    "code": {
+      "id": "BD40500039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4050",
+      "level": 2,
+      "name": {
+        "local": "কুষ্টিয়া",
+        "en": "Kushtia",
+        "slug": "kushtia-bd4050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4050",
+        "level": 2,
+        "name": {
+          "local": "কুষ্টিয়া",
+          "en": "Kushtia",
+          "slug": "kushtia-bd4050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1860"
+    ],
+    "geo": {
+      "lat": "24.034",
+      "lon": "88.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40500063",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "খোকসা",
+      "en": "Khoksa",
+      "slug": "khoksa-bd40500063"
+    },
+    "code": {
+      "id": "BD40500063",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4050",
+      "level": 2,
+      "name": {
+        "local": "কুষ্টিয়া",
+        "en": "Kushtia",
+        "slug": "kushtia-bd4050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4050",
+        "level": 2,
+        "name": {
+          "local": "কুষ্টিয়া",
+          "en": "Kushtia",
+          "slug": "kushtia-bd4050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7020"
+    ],
+    "geo": {
+      "lat": "23.811",
+      "lon": "89.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40500071",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কুমারখালী",
+      "en": "Kumarkhali",
+      "slug": "kumarkhali-bd40500071"
+    },
+    "code": {
+      "id": "BD40500071",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4050",
+      "level": 2,
+      "name": {
+        "local": "কুষ্টিয়া",
+        "en": "Kushtia",
+        "slug": "kushtia-bd4050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4050",
+        "level": 2,
+        "name": {
+          "local": "কুষ্টিয়া",
+          "en": "Kushtia",
+          "slug": "kushtia-bd4050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7010"
+    ],
+    "geo": {
+      "lat": "23.858",
+      "lon": "89.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40500079",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কুষ্টিয়া সদর",
+      "en": "Kushtia Sadar",
+      "slug": "kushtia-sadar-bd40500079"
+    },
+    "code": {
+      "id": "BD40500079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4050",
+      "level": 2,
+      "name": {
+        "local": "কুষ্টিয়া",
+        "en": "Kushtia",
+        "slug": "kushtia-bd4050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4050",
+        "level": 2,
+        "name": {
+          "local": "কুষ্টিয়া",
+          "en": "Kushtia",
+          "slug": "kushtia-bd4050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "7003"
+    ],
+    "geo": {
+      "lat": "23.824",
+      "lon": "89.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD40500094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মিরপুর",
+      "en": "Mirpur",
+      "slug": "mirpur-bd40500094"
+    },
+    "code": {
+      "id": "BD40500094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD4050",
+      "level": 2,
+      "name": {
+        "local": "কুষ্টিয়া",
+        "en": "Kushtia",
+        "slug": "kushtia-bd4050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD40",
+        "level": 1,
+        "name": {
+          "local": "খুলনা",
+          "en": "Khulna",
+          "slug": "khulna-bd40"
+        }
+      },
+      {
+        "id": "BD4050",
+        "level": 2,
+        "name": {
+          "local": "কুষ্টিয়া",
+          "en": "Kushtia",
+          "slug": "kushtia-bd4050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1216"
+    ],
+    "geo": {
+      "lat": "23.897",
+      "lon": "88.986"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

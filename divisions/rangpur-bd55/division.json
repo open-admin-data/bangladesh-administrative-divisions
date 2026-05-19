@@ -1,0 +1,30 @@
+{
+  "id": "BD55",
+  "level": 1,
+  "level_name": {
+    "local": "বিভাগ",
+    "en": "Division"
+  },
+  "name": {
+    "local": "রংপুর",
+    "en": "Rangpur",
+    "slug": "rangpur-bd55"
+  },
+  "code": {
+    "id": "BD55",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "upazila": 58
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.78",
+    "lon": "89.054"
+  },
+  "metadata": {},
+  "source": {}
+}

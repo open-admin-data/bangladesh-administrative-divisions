@@ -1,0 +1,394 @@
+[
+  {
+    "id": "BD60580014",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বড়লেখা",
+      "en": "Baralekha",
+      "slug": "baralekha-bd60580014"
+    },
+    "code": {
+      "id": "BD60580014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6058",
+      "level": 2,
+      "name": {
+        "local": "মৌলভীবাজার",
+        "en": "Moulvibazar",
+        "slug": "moulvibazar-bd6058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6058",
+        "level": 2,
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3250"
+    ],
+    "geo": {
+      "lat": "24.709",
+      "lon": "92.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60580035",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জুড়ী",
+      "en": "Juri",
+      "slug": "juri-bd60580035"
+    },
+    "code": {
+      "id": "BD60580035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6058",
+      "level": 2,
+      "name": {
+        "local": "মৌলভীবাজার",
+        "en": "Moulvibazar",
+        "slug": "moulvibazar-bd6058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6058",
+        "level": 2,
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3251"
+    ],
+    "geo": {
+      "lat": "24.554",
+      "lon": "92.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60580056",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "জামালগঞ্জ",
+      "en": "Kamalganj",
+      "slug": "kamalganj-bd60580056"
+    },
+    "code": {
+      "id": "BD60580056",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6058",
+      "level": 2,
+      "name": {
+        "local": "মৌলভীবাজার",
+        "en": "Moulvibazar",
+        "slug": "moulvibazar-bd6058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6058",
+        "level": 2,
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3220"
+    ],
+    "geo": {
+      "lat": "24.317",
+      "lon": "91.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60580065",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কুলাউড়া",
+      "en": "Kulaura",
+      "slug": "kulaura-bd60580065"
+    },
+    "code": {
+      "id": "BD60580065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6058",
+      "level": 2,
+      "name": {
+        "local": "মৌলভীবাজার",
+        "en": "Moulvibazar",
+        "slug": "moulvibazar-bd6058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6058",
+        "level": 2,
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3237"
+    ],
+    "geo": {
+      "lat": "24.49",
+      "lon": "92.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60580074",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মৌলভীবাজার সদর",
+      "en": "Moulvibazar Sadar",
+      "slug": "moulvibazar-sadar-bd60580074"
+    },
+    "code": {
+      "id": "BD60580074",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6058",
+      "level": 2,
+      "name": {
+        "local": "মৌলভীবাজার",
+        "en": "Moulvibazar",
+        "slug": "moulvibazar-bd6058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6058",
+        "level": 2,
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3203"
+    ],
+    "geo": {
+      "lat": "24.499",
+      "lon": "91.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60580080",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "রাজনগর",
+      "en": "Rajnagar",
+      "slug": "rajnagar-bd60580080"
+    },
+    "code": {
+      "id": "BD60580080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6058",
+      "level": 2,
+      "name": {
+        "local": "মৌলভীবাজার",
+        "en": "Moulvibazar",
+        "slug": "moulvibazar-bd6058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6058",
+        "level": 2,
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3240"
+    ],
+    "geo": {
+      "lat": "24.565",
+      "lon": "91.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD60580083",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "শ্রীমঙ্গল",
+      "en": "Sreemangal",
+      "slug": "sreemangal-bd60580083"
+    },
+    "code": {
+      "id": "BD60580083",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD6058",
+      "level": 2,
+      "name": {
+        "local": "মৌলভীবাজার",
+        "en": "Moulvibazar",
+        "slug": "moulvibazar-bd6058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD60",
+        "level": 1,
+        "name": {
+          "local": "সিলেট",
+          "en": "Sylhet",
+          "slug": "sylhet-bd60"
+        }
+      },
+      {
+        "id": "BD6058",
+        "level": 2,
+        "name": {
+          "local": "মৌলভীবাজার",
+          "en": "Moulvibazar",
+          "slug": "moulvibazar-bd6058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3214"
+    ],
+    "geo": {
+      "lat": "24.302",
+      "lon": "91.699"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

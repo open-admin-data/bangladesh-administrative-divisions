@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD20120002",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আখাউড়া",
+      "en": "Akhaura",
+      "slug": "akhaura-bd20120002"
+    },
+    "code": {
+      "id": "BD20120002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3450"
+    ],
+    "geo": {
+      "lat": "23.841",
+      "lon": "91.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120033",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "আশুগঞ্জ",
+      "en": "Ashuganj",
+      "slug": "ashuganj-bd20120033"
+    },
+    "code": {
+      "id": "BD20120033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3402"
+    ],
+    "geo": {
+      "lat": "24.018",
+      "lon": "91.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120004",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাঞ্ছারামপুর",
+      "en": "Banchharampur",
+      "slug": "banchharampur-bd20120004"
+    },
+    "code": {
+      "id": "BD20120004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3420"
+    ],
+    "geo": {
+      "lat": "23.781",
+      "lon": "90.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120007",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বিজয়নগর",
+      "en": "Bijoynagar",
+      "slug": "bijoynagar-bd20120007"
+    },
+    "code": {
+      "id": "BD20120007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3470"
+    ],
+    "geo": {
+      "lat": "23.992",
+      "lon": "91.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120013",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ব্রাহ্মণবাড়িয়া সদর",
+      "en": "Brahmanbaria Sadar",
+      "slug": "brahmanbaria-sadar-bd20120013"
+    },
+    "code": {
+      "id": "BD20120013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3402"
+    ],
+    "geo": {
+      "lat": "23.95",
+      "lon": "91.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120063",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কসবা",
+      "en": "Kasba",
+      "slug": "kasba-bd20120063"
+    },
+    "code": {
+      "id": "BD20120063",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3462"
+    ],
+    "geo": {
+      "lat": "23.761",
+      "lon": "91.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নবীনগর",
+      "en": "Nabinagar",
+      "slug": "nabinagar-bd20120085"
+    },
+    "code": {
+      "id": "BD20120085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3419"
+    ],
+    "geo": {
+      "lat": "23.863",
+      "lon": "90.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120090",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাসিরনগর",
+      "en": "Nasirnagar",
+      "slug": "nasirnagar-bd20120090"
+    },
+    "code": {
+      "id": "BD20120090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3441"
+    ],
+    "geo": {
+      "lat": "24.182",
+      "lon": "91.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20120094",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সরাইল",
+      "en": "Sarail",
+      "slug": "sarail-bd20120094"
+    },
+    "code": {
+      "id": "BD20120094",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2012",
+      "level": 2,
+      "name": {
+        "local": "ব্রাহ্মণবাড়ীয়া",
+        "en": "Brahmanbaria",
+        "slug": "brahmanbaria-bd2012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2012",
+        "level": 2,
+        "name": {
+          "local": "ব্রাহ্মণবাড়ীয়া",
+          "en": "Brahmanbaria",
+          "slug": "brahmanbaria-bd2012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3432"
+    ],
+    "geo": {
+      "lat": "24.103",
+      "lon": "91.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

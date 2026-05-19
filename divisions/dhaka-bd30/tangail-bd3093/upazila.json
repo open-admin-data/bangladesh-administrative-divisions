@@ -1,0 +1,674 @@
+[
+  {
+    "id": "BD30930009",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বাসাইল",
+      "en": "Basail",
+      "slug": "basail-bd30930009"
+    },
+    "code": {
+      "id": "BD30930009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1920"
+    ],
+    "geo": {
+      "lat": "24.234",
+      "lon": "90.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930019",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ভূঞাপুর",
+      "en": "Bhuanpur",
+      "slug": "bhuanpur-bd30930019"
+    },
+    "code": {
+      "id": "BD30930019",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1992"
+    ],
+    "geo": {
+      "lat": "24.477",
+      "lon": "89.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930023",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "দেলদুয়ার",
+      "en": "Delduar",
+      "slug": "delduar-bd30930023"
+    },
+    "code": {
+      "id": "BD30930023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1910"
+    ],
+    "geo": {
+      "lat": "24.148",
+      "lon": "89.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930025",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ধনবাড়ী",
+      "en": "Dhanbari",
+      "slug": "dhanbari-bd30930025"
+    },
+    "code": {
+      "id": "BD30930025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1997"
+    ],
+    "geo": {
+      "lat": "24.688",
+      "lon": "89.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930028",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "ঘাটাইল",
+      "en": "Ghatail",
+      "slug": "ghatail-bd30930028"
+    },
+    "code": {
+      "id": "BD30930028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1982"
+    ],
+    "geo": {
+      "lat": "24.474",
+      "lon": "90.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930038",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "গোপালপুর",
+      "en": "Gopalpur",
+      "slug": "gopalpur-bd30930038"
+    },
+    "code": {
+      "id": "BD30930038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1990"
+    ],
+    "geo": {
+      "lat": "24.572",
+      "lon": "89.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কালিহাতী",
+      "en": "Kalihati",
+      "slug": "kalihati-bd30930047"
+    },
+    "code": {
+      "id": "BD30930047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1973"
+    ],
+    "geo": {
+      "lat": "24.36",
+      "lon": "89.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930057",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মধুপুর",
+      "en": "Madhupur",
+      "slug": "madhupur-bd30930057"
+    },
+    "code": {
+      "id": "BD30930057",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1997"
+    ],
+    "geo": {
+      "lat": "24.65",
+      "lon": "90.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930066",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "মির্জাপুর",
+      "en": "Mirzapur",
+      "slug": "mirzapur-bd30930066"
+    },
+    "code": {
+      "id": "BD30930066",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1941"
+    ],
+    "geo": {
+      "lat": "24.118",
+      "lon": "90.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930076",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নাগরপুর",
+      "en": "Nagarpur",
+      "slug": "nagarpur-bd30930076"
+    },
+    "code": {
+      "id": "BD30930076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1937"
+    ],
+    "geo": {
+      "lat": "24.051",
+      "lon": "89.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সখিপুর",
+      "en": "Sakhipur",
+      "slug": "sakhipur-bd30930085"
+    },
+    "code": {
+      "id": "BD30930085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1951"
+    ],
+    "geo": {
+      "lat": "24.306",
+      "lon": "90.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD30930095",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "টাঙ্গাইল সদর",
+      "en": "Tangail Sadar",
+      "slug": "tangail-sadar-bd30930095"
+    },
+    "code": {
+      "id": "BD30930095",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD3093",
+      "level": 2,
+      "name": {
+        "local": "টাঙ্গাইল",
+        "en": "Tangail",
+        "slug": "tangail-bd3093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD30",
+        "level": 1,
+        "name": {
+          "local": "ঢাকা",
+          "en": "Dhaka",
+          "slug": "dhaka-bd30"
+        }
+      },
+      {
+        "id": "BD3093",
+        "level": 2,
+        "name": {
+          "local": "টাঙ্গাইল",
+          "en": "Tangail",
+          "slug": "tangail-bd3093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1901"
+    ],
+    "geo": {
+      "lat": "24.26",
+      "lon": "89.867"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

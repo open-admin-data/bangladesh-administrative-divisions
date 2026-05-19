@@ -1,0 +1,506 @@
+[
+  {
+    "id": "BD20750007",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "বেগমগঞ্জ",
+      "en": "Begumganj",
+      "slug": "begumganj-bd20750007"
+    },
+    "code": {
+      "id": "BD20750007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3831"
+    ],
+    "geo": {
+      "lat": "22.931",
+      "lon": "91.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750010",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "চাটখিল",
+      "en": "Chatkhil",
+      "slug": "chatkhil-bd20750010"
+    },
+    "code": {
+      "id": "BD20750010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3879"
+    ],
+    "geo": {
+      "lat": "23.053",
+      "lon": "90.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750021",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কোম্পানীগঞ্জ",
+      "en": "Companiganj",
+      "slug": "companiganj-bd20750021"
+    },
+    "code": {
+      "id": "BD20750021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3140"
+    ],
+    "geo": {
+      "lat": "22.759",
+      "lon": "91.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750036",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "পটিয়া",
+      "en": "Hatiya",
+      "slug": "hatiya-bd20750036"
+    },
+    "code": {
+      "id": "BD20750036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3891"
+    ],
+    "geo": {
+      "lat": "22.348",
+      "lon": "91.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750047",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "কবিরহাট",
+      "en": "Kabirhat",
+      "slug": "kabirhat-bd20750047"
+    },
+    "code": {
+      "id": "BD20750047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3807"
+    ],
+    "geo": {
+      "lat": "22.811",
+      "lon": "91.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750087",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "নোয়াখালী সদর",
+      "en": "Noakhali Sadar",
+      "slug": "noakhali-sadar-bd20750087"
+    },
+    "code": {
+      "id": "BD20750087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3811"
+    ],
+    "geo": {
+      "lat": "22.808",
+      "lon": "91.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750080",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সেনবাগ",
+      "en": "Senbag",
+      "slug": "senbag-bd20750080"
+    },
+    "code": {
+      "id": "BD20750080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3862"
+    ],
+    "geo": {
+      "lat": "22.991",
+      "lon": "91.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750083",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সোনাইমুড়ী",
+      "en": "Sonaimuri",
+      "slug": "sonaimuri-bd20750083"
+    },
+    "code": {
+      "id": "BD20750083",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3827"
+    ],
+    "geo": {
+      "lat": "23.026",
+      "lon": "91.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BD20750085",
+    "level": 3,
+    "level_name": {
+      "local": "উপজেলা",
+      "en": "Upazila"
+    },
+    "name": {
+      "local": "সুবর্ণচর",
+      "en": "Subarnachar",
+      "slug": "subarnachar-bd20750085"
+    },
+    "code": {
+      "id": "BD20750085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BD2075",
+      "level": 2,
+      "name": {
+        "local": "নোয়াখালী",
+        "en": "Noakhali",
+        "slug": "noakhali-bd2075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BD20",
+        "level": 1,
+        "name": {
+          "local": "চট্টগ্রাম",
+          "en": "Chattogram",
+          "slug": "chattogram-bd20"
+        }
+      },
+      {
+        "id": "BD2075",
+        "level": 2,
+        "name": {
+          "local": "নোয়াখালী",
+          "en": "Noakhali",
+          "slug": "noakhali-bd2075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "3812"
+    ],
+    "geo": {
+      "lat": "22.619",
+      "lon": "91.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
