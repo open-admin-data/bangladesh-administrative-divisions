@@ -3,7 +3,7 @@
 > 4 districts, 35 upazilas
 > Code: BD45
 > Coordinates: 24.848, 90.382
-> Last updated: 2026-05-19. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

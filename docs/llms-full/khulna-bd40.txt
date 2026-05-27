@@ -3,7 +3,7 @@
 > 10 districts, 59 upazilas
 > Code: BD40
 > Coordinates: 22.838, 89.305
-> Last updated: 2026-05-19. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

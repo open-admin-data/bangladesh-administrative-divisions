@@ -3,7 +3,7 @@
 > 11 districts, 104 upazilas
 > Code: BD20
 > Coordinates: 22.701, 91.706
-> Last updated: 2026-05-19. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

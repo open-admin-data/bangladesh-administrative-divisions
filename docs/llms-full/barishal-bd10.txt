@@ -3,7 +3,7 @@
 > 6 districts, 42 upazilas
 > Code: BD10
 > Coordinates: 22.393, 90.406
-> Last updated: 2026-05-19. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

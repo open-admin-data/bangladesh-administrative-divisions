@@ -3,7 +3,7 @@
 > 8 districts, 58 upazilas
 > Code: BD55
 > Coordinates: 25.78, 89.054
-> Last updated: 2026-05-19. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 
