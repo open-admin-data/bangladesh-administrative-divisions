@@ -27,7 +27,11 @@
       "lon": "90.406"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/barishal-bd10/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   },
   {
     "id": "BD20",
@@ -57,7 +61,11 @@
       "lon": "91.706"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/chattogram-bd20/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   },
   {
     "id": "BD30",
@@ -87,7 +95,11 @@
       "lon": "90.242"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/dhaka-bd30/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   },
   {
     "id": "BD40",
@@ -117,7 +129,11 @@
       "lon": "89.305"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/khulna-bd40/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   },
   {
     "id": "BD45",
@@ -147,7 +163,11 @@
       "lon": "90.382"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/mymensingh-bd45/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   },
   {
     "id": "BD50",
@@ -177,7 +197,11 @@
       "lon": "89.046"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/rajshahi-bd50/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   },
   {
     "id": "BD55",
@@ -207,7 +231,11 @@
       "lon": "89.054"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/rangpur-bd55/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   },
   {
     "id": "BD60",
@@ -237,6 +265,10 @@
       "lon": "91.665"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bd/divisions/sylhet-bd60/",
+      "api": "https://openadmindata.org/api/bd/"
+    }
   }
 ]

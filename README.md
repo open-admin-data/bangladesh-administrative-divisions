@@ -15,7 +15,7 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (upazila level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/bd](https://openadmindata.org/bd/) |
 | API | [openadmindata.org/api/bd](https://openadmindata.org/api/bd/) |
 
