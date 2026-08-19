@@ -4,8 +4,8 @@ type: dataset
 authors:
   - name: "jakkrapongt"
 title: "Bangladesh Administrative Divisions Dataset"
-version: "2026.06"
-date-released: "2026-06-01"
+version: "2026.08"
+date-released: "2026-08-19"
 url: "https://github.com/open-admin-data/bangladesh-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/bangladesh-administrative-divisions"
 license: CC-BY-4.0
